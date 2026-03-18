@@ -1,0 +1,126 @@
+{
+  "unidad": 3,
+  "titulo": "Autoevaluación de Derecho de la Empresa I - Sociedades Mercantiles",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "En España aparecen las primeras compañías coloniales en el siglo..",
+      "opciones": {
+        "a": "XVI",
+        "b": "XIX",
+        "c": "XVII",
+        "d": "XVIII"
+      },
+      "explicacion": "Las compañías coloniales surgieron en el siglo XVII como grandes sociedades por acciones para afrontar los enormes riesgos y necesidades de capital del comercio transoceánico, sentando las bases de las sociedades capitalistas modernas.\\n\\n**Ejemplo práctico:** Como Head of CG, si necesitas montar una granja de render masiva en la nube para un proyecto colosal, no asumes el costo solo. Creas una 'compañía colonial' (un consorcio o joint venture con otros estudios) para agrupar capital y compartir el riesgo financiero si el proyecto se retrasa, igual que hacían los mercaderes del siglo XVII con los barcos.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "En España las sociedades de responsabilidad limitada se regularon por primera vez en ..",
+      "opciones": {
+        "a": "1885.",
+        "b": "1892.",
+        "c": "1953.",
+        "d": "1829."
+      },
+      "explicacion": "La Ley de 17 de julio de 1953 fue el primer texto legal en España que reguló de forma sistemática e independiente a las Sociedades de Responsabilidad Limitada, separándolas de las anónimas y personalistas.\\n\\n**Ejemplo práctico:** Piensa en la ley de 1953 como la primera vez que se documentó oficialmente el 'Pipeline de Animación' en el estudio. Antes, los artistas trabajaban de forma improvisada (sociedades irregulares), pero esta ley estableció un flujo de trabajo estricto que limitaba los 'errores de render' (responsabilidad) exclusivamente al departamento asignado, protegiendo al resto del estudio.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La Ley de S.A. De 1951...",
+      "opciones": {
+        "a": "Exigía un capital mínimo de 1.000.000 pts.",
+        "b": "Exigía un capital mínimo de 10.000.000 pts.",
+        "c": "Exigía un capital mínimo de 25.000.000 pts.",
+        "d": "No exigía capital mínimo."
+      },
+      "explicacion": "A diferencia de las normativas actuales, la Ley de Sociedades Anónimas de 1951 no establecía la obligación de desembolsar un capital social mínimo para constituir la empresa, lo que generaba problemas de solvencia.\\n\\n**Ejemplo práctico:** Es como si permitieras a un equipo iniciar la producción de una secuencia full-CG sin exigirles un mínimo de licencias de software o capacidad de almacenamiento (capital mínimo). Al principio parece fácil arrancar (como en 1951), pero a mitad de producción el proyecto colapsa por falta de recursos, obligando a cambiar las reglas del estudio para exigir siempre un 'hardware mínimo garantizado'.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La mas importante causa de reforma del derecho de sociedades en España procede..",
+      "opciones": {
+        "a": "De las Directivas europeas.",
+        "b": "De los Usos Mercantiles.",
+        "c": "De la Jurisprudencia.",
+        "d": "De los Tratados Internacionales."
+      },
+      "explicacion": "La integración de España en la Unión Europea obligó a armonizar su legislación mercantil con el derecho comunitario. Las Directivas europeas han sido el instrumento clave que ha forzado las reformas más profundas en el derecho de sociedades español.\\n\\n**Ejemplo práctico:** Imagina que tu estudio local es adquirido por una gran multinacional de VFX (la Unión Europea). La causa principal por la que debes actualizar todo tu software y protocolos de seguridad no es por decisión interna, sino por las 'Directivas' que impone la empresa matriz para asegurar que todos sus estudios a nivel global operen bajo los mismos estándares de calidad.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las sociedades de responsabilidad limitada son sociedades...",
+      "opciones": {
+        "a": "Naturalmente abiertas.",
+        "b": "Esencialmente cerradas.",
+        "c": "Asimilables a las cooperativas.",
+        "d": "De carácter unipersonal."
+      },
+      "explicacion": "Las S.R.L. se definen como sociedades 'esencialmente cerradas' porque la ley restringe fuertemente la libre transmisión de las participaciones sociales a personas ajenas, priorizando la confianza entre los socios fundadores.\\n\\n**Ejemplo práctico:** Una S.R.L. es como el equipo de 'Core R&D' (Investigación y Desarrollo) de tu estudio. Es un grupo esencialmente cerrado donde se maneja código propietario. No cualquier artista puede entrar o comprar su lugar en el equipo; el acceso está restringido y si un desarrollador (socio) se va, su reemplazo debe ser rigurosamente aprobado por los demás miembros para mantener la confianza y el control.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Se puede levantar el velo le la persona jurídica...",
+      "opciones": {
+        "a": "En los casos de Concurso.",
+        "b": "Por el impago de acreedores.",
+        "c": "Si son filiales de multinacionales.",
+        "d": "En los casos de abuso de la forma jurídica."
+      },
+      "explicacion": "La doctrina del levantamiento del velo es una excepción legal que permite a los jueces ignorar la separación entre la responsabilidad de la empresa y la de sus socios cuando la estructura societaria se utiliza de forma fraudulenta para evadir obligaciones o cometer abusos.\n**Ejemplo práctico:** Imagina que un estudio de VFX crea una empresa fantasma ('shell company') solo para firmar un contrato de renderizado masivo y luego la declara en quiebra intencionalmente para no pagar las licencias de software de Houdini. Un juez podría 'levantar el velo' para obligar al Head of CG y a los socios principales a pagar esas licencias con su patrimonio personal por abusar de la forma jurídica.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "En las S.A. el poder de decisión de accionista se establece ...",
+      "opciones": {
+        "a": "En función del capital aportado.",
+        "b": "Es igual para todos los socios.",
+        "c": "En función de la antigüedad en la empresa.",
+        "d": "Por su condición de fundadores o nuevos accionistas."
+      },
+      "explicacion": "En las Sociedades Anónimas rige el principio capitalista, lo que significa que los derechos políticos y económicos de los socios, incluido su poder de voto en la Junta General, son directamente proporcionales a la cantidad de capital social que han aportado.\n**Ejemplo práctico:** Si en un estudio de animación CG constituido como S.A., el Head of CG aporta el 60% del capital para comprar granjas de render y estaciones de trabajo, tendrá el 60% de los votos en las asambleas, dándole el poder de decisión sobre qué motor de render (ej. Arnold o V-Ray) se adoptará como estándar en el pipeline, frente a otros socios minoritarios.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "La Sociedad Anónima Europea solo puede constituirse...",
+      "opciones": {
+        "a": "Por extranjeros residentes en España.",
+        "b": "Por empresas que tengan actividad en mas de una Autonomía.",
+        "c": "Por empresas que tengan actividad en mas de un Estado miembro de la Unión Europea.",
+        "d": "Por empresas que tengan actividad en los Mercados de Valores."
+      },
+      "explicacion": "La Sociedad Anónima Europea (SE) es un tipo de sociedad mercantil diseñada para facilitar las operaciones transfronterizas dentro de la Unión Europea. Por ello, un requisito fundamental para su constitución es que las empresas fundadoras o implicadas tengan presencia o actividad en al menos dos Estados miembros diferentes de la UE.\n**Ejemplo práctico:** Un estudio de VFX con sede en Madrid quiere fusionarse con un estudio de animación en París para compartir un pipeline de USD (Universal Scene Description) y competir por proyectos internacionales. Para operar bajo un marco legal unificado en toda Europa, deciden constituirse como una Sociedad Anónima Europea, cumpliendo el requisito de tener actividad en más de un Estado miembro.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El capital social...",
+      "opciones": {
+        "a": "Tiene el mismo papel en las S.A y en las S.L.",
+        "b": "Influye de forma diferente según el tipo de sociedad.",
+        "c": "No existe en las S.L.",
+        "d": "En las S.L. solo sirve de garantía para los acreedores."
+      },
+      "explicacion": "Tanto en las Sociedades Anónimas (S.A.) como en las Sociedades Limitadas (S.L.), el capital social cumple la misma triple función: es una cifra de retención para proteger a los acreedores, determina la posición jurídica y el poder de voto de los socios, y sirve como fondo de explotación inicial para la actividad de la empresa.\n**Ejemplo práctico:** Ya sea que un nuevo estudio de postproducción se funde como S.A. o S.L., el capital social aportado inicialmente por el Head of CG y los inversores servirá exactamente para lo mismo: garantizar a los proveedores de hardware que la empresa tiene solvencia, y determinar qué porcentaje de los beneficios de taquilla le corresponde a cada socio.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Se denomina dividendo pasivo...",
+      "opciones": {
+        "a": "Lo que perciben los accionistas que no trabajan en la sociedad.",
+        "b": "La retención fiscal del dividendo.",
+        "c": "La cantidad del capital no desembolsada.",
+        "d": "La parte proporcional de las deudas de la sociedad."
+      },
+      "explicacion": "En las Sociedades Anónimas, la ley permite que en el momento de la constitución solo se desembolse una parte del capital suscrito (mínimo el 25%). La parte restante que el accionista se ha comprometido a pagar, pero que aún no ha aportado a la sociedad, se conoce como dividendo pasivo.\n**Ejemplo práctico:** Un Head of CG entra como socio en un gran estudio de efectos visuales (S.A.) suscribiendo acciones por valor de 100.000 euros para actualizar el departamento de simulación de fluidos. Si solo paga 25.000 euros al inicio, los 75.000 euros restantes que aún debe aportar a la caja del estudio en el futuro constituyen el dividendo pasivo.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}
