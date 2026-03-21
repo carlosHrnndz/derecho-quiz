@@ -1,0 +1,126 @@
+{
+  "unidad": 8,
+  "titulo": "Autoevaluación Unidad 8 - Derecho de la Empresa I",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El Registro Mercantil ..",
+      "opciones": {
+        "a": "Es accesible a todas las personas.",
+        "b": "Anota todos los actos jurídicos que afectan a las empresas.",
+        "c": "Las sociedades pueden inscribir todos aquellos actos o hechos que estimen conveniente.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "El Registro Mercantil es una institución pública, lo que significa que cualquier persona física o jurídica puede consultar la información inscrita en él para conocer la situación legal y financiera de una empresa.\\n\n**Ejemplo práctico:** Como Head of CG, si vas a subcontratar a un estudio de animación boutique para unas simulaciones de fluidos críticas, puedes consultar el Registro Mercantil para verificar quién es el administrador legal de ese estudio y asegurar que la empresa está legalmente constituida antes de firmar el contrato de vendor.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La aparición del Registro Mercantil es obra de ...",
+      "opciones": {
+        "a": "Del C.Comercio de 1829.",
+        "b": "Del C.Comercio de 1885.",
+        "c": "De la Ley del Registro mercantil.",
+        "d": "De las Directivas europeas."
+      },
+      "explicacion": "El Código de Comercio de 1829, redactado por Pedro Sainz de Andino, fue el primer cuerpo legal en España que estableció la figura del Registro Mercantil para dar seguridad y publicidad al tráfico comercial.\\n\n**Ejemplo práctico:** Imagina que el Código de Comercio de 1829 es como la primera versión de un software core en el pipeline (ej. Maya 1.0). Fue la base fundacional que estructuró cómo se registraban las empresas, de la misma manera que ese primer software estableció la arquitectura básica de cómo se guardan y registran los assets 3D en el servidor del estudio para que todos los artistas tengan una fuente de verdad.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "¿Porque es clave la Ley de 1/1989 de 25 de Julio?",
+      "opciones": {
+        "a": "Porque unifica la regulación de las S.A y S.L.",
+        "b": "Porque impone una cuota femenina en los Consejos de Administración.",
+        "c": "Porque nos introduce en la Unión Europea.",
+        "d": "Porque establece la responsabilidad penal por las deudas sociales."
+      },
+      "explicacion": "Esta ley (referida históricamente como la Ley 19/1989 de adaptación a las directivas de la CEE) fue fundamental para reformar la legislación mercantil española y adaptarla a las exigencias de la Comunidad Económica Europea, permitiendo la integración económica de España.\\n\n**Ejemplo práctico:** Piensa en esta ley como la transición de un pipeline local propietario a adoptar el estándar USD (Universal Scene Description). Así como la ley nos estandarizó para poder operar dentro del mercado de la Unión Europea, adoptar USD permite que tu estudio de VFX colabore fluidamente y comparta assets con otros estudios internacionales bajo un mismo marco estandarizado.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "después de la Ley de 25 de Julio de 1989 los buques y aeronaves se inscriben...",
+      "opciones": {
+        "a": "En el Registro Mercantil",
+        "b": "En el Registro de la Propiedad",
+        "c": "En los Registros del Ministerio de Transportes.",
+        "d": "En el Registro de Bienes Muebles."
+      },
+      "explicacion": "Históricamente, ciertos bienes de gran valor como buques y aeronaves se inscribían en el Registro Mercantil. Con las reformas legales posteriores, se determinó que estos debían inscribirse en el Registro de Bienes Muebles, un registro específico para centralizar la titularidad y las cargas sobre este tipo de bienes.\\n\n**Ejemplo práctico:** Es como cuando decides separar los servidores de render (bienes muebles de alto valor) de la base de datos general de recursos humanos. Como Head of CG, registras las licencias de software costosas y el hardware especializado de la granja de render en un inventario específico de 'Bienes Muebles' del estudio para gestionar mejor sus seguros y amortizaciones, en lugar de mezclarlo con los estatutos generales de la empresa.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las sociedades cotizadas deben inscribir en el Registro Mercantil...",
+      "opciones": {
+        "a": "El Reglamento de la Junta General de accionistas.",
+        "b": "El Reglamento del Consejo de Administración.",
+        "c": "El Reglamento de atención al cliente.",
+        "d": "Las respuestas a y b son correctas."
+      },
+      "explicacion": "Las sociedades que cotizan en bolsa están sujetas a estrictas normas de transparencia y buen gobierno corporativo. Por ello, la ley les exige inscribir y hacer públicos tanto el Reglamento de la Junta General de accionistas como el Reglamento del Consejo de Administración.\\n\n**Ejemplo práctico:** Si tu estudio de VFX crece tanto que sale a bolsa (se convierte en sociedad cotizada), la ley exige máxima transparencia. Como Head of CG, esto sería equivalente a tener que publicar obligatoriamente en la wiki externa del estudio no solo las 'Reglas de la asamblea de inversores', sino también el 'Reglamento del comité de directores de departamento' (Consejo de Administración), para que los accionistas sepan exactamente cómo se toman las decisiones técnicas y financieras.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Deben inscribirse obligatoriamente..",
+      "opciones": {
+        "a": "Los poderes generales para pleitos.",
+        "b": "Los poderes especiales para realizar actos concretos.",
+        "c": "Los poderes generales",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "En el ámbito del Derecho Mercantil, los poderes generales otorgados por una sociedad deben inscribirse obligatoriamente en el Registro Mercantil para que tengan validez frente a terceros y dotar de seguridad jurídica al tráfico mercantil. Los poderes especiales o para pleitos no tienen esta obligación estricta de inscripción.\\n\n**Ejemplo práctico:** Como Head of CG, si la productora te otorga un 'poder general' para firmar contratos de software, contratar artistas y aprobar presupuestos en nombre del estudio, este poder debe inscribirse en el Registro Mercantil. Sin embargo, si solo te dan un 'poder especial' para firmar un único contrato de licencias de Maya con Autodesk, no es obligatoria su inscripción.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El cierre del Registro Mercantil puede ser...",
+      "opciones": {
+        "a": "Provisional.",
+        "b": "Cautelar.",
+        "c": "Temporal.",
+        "d": "Preventivo."
+      },
+      "explicacion": "El cierre del Registro Mercantil es una sanción o medida que impide la inscripción de nuevos actos de una sociedad. Este cierre puede ser provisional (por ejemplo, por falta de depósito de las cuentas anuales o baja en el índice de entidades de la Agencia Tributaria) y se levanta una vez subsanada la falta.\\n\n**Ejemplo práctico:** Imagina que el estudio de VFX olvida presentar sus cuentas anuales. El Registro Mercantil aplica un cierre 'provisional'. Durante este tiempo, si como Head of CG intentas registrar el nombramiento de un nuevo Director Técnico (TD) como apoderado, el registro lo denegará hasta que el departamento financiero presente las cuentas y se levante el cierre provisional.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El principio de titulación publica significa...",
+      "opciones": {
+        "a": "Que la inscripción se practica en virtud de documento público.",
+        "b": "Que la tasas del Registro son parte del presupuesto público.",
+        "c": "Que el acceso es publico.",
+        "d": "Que las notas que extiende son documento público."
+      },
+      "explicacion": "El principio de titulación pública establece que, por regla general, para que un acto o contrato pueda acceder al Registro Mercantil y ser inscrito, debe constar en un documento público (como una escritura notarial), garantizando así la autenticidad y legalidad del acto.\\n\n**Ejemplo práctico:** Si el estudio de animación decide fusionarse con otra casa de postproducción para abarcar proyectos más grandes, el acuerdo no puede registrarse simplemente con un PDF firmado por los CEOs. Por el principio de titulación pública, el acuerdo de fusión debe elevarse a escritura pública ante notario antes de poder inscribirse en el Registro Mercantil.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "La calificación por el Registrador...",
+      "opciones": {
+        "a": "Puede ser delegada.",
+        "b": "Se efectúa a solicitud de parte.",
+        "c": "Es obligatoria.",
+        "d": "Es obligatoria para determinados actos."
+      },
+      "explicacion": "La calificación registral es el examen que hace el Registrador sobre la legalidad de los documentos presentados y la validez de los actos que contienen. Esta función es personal, indelegable y obligatoria; el Registrador tiene el deber inexcusable de calificar todo documento que se presente para su inscripción.\\n\n**Ejemplo práctico:** Cuando el estudio de VFX presenta las escrituras para ampliar su capital y comprar una nueva granja de render, el Registrador Mercantil tiene la obligación ineludible de revisar (calificar) que toda la documentación cumpla con la ley. No puede negarse a revisarlo ni delegar esta responsabilidad final en un asistente.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Si la calificación es negativa...",
+      "opciones": {
+        "a": "Hay que repetir el documento o acto.",
+        "b": "Cabe Recurso.",
+        "c": "Hay que reiterar la solicitud.",
+        "d": "No cabe Recurso."
+      },
+      "explicacion": "Si el Registrador Mercantil emite una calificación negativa (es decir, deniega o suspende la inscripción por encontrar algún defecto legal), el interesado no queda indefenso. La ley establece que contra esta decisión cabe interponer un recurso (recurso gubernativo o recurso judicial) para que se revise la calificación.\\n\n**Ejemplo práctico:** Supongamos que presentas el nombramiento de un nuevo Lead de Composición como apoderado del estudio, pero el Registrador lo deniega (calificación negativa) alegando un error de forma en los estatutos. Como Head of CG, sabes que no todo está perdido: el equipo legal del estudio puede presentar un recurso contra esa decisión para demostrar que el documento es correcto y lograr la inscripción.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

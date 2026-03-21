@@ -11,7 +11,7 @@
         "c": "No existen unas fuentes generales.",
         "d": "El Código de Comercio."
       },
-      "explicacion": "En el ordenamiento jurídico español, el artículo 1 del Código Civil es el que establece las fuentes del derecho (la ley, la costumbre y los principios generales del derecho). Aunque la Constitución es la norma suprema, es el Código Civil el que tradicionalmente enumera y regula el sistema de fuentes de forma general.\n\n**Ejemplo práctico:** Como Head of CG, tienes un 'Pipeline Core Manual' (Código Civil) que dicta las reglas generales de cómo se estructuran los directorios y se nombran los archivos para todos los departamentos. Aunque el 'Studio Manifesto' (Constitución) da la visión general de la empresa, es el manual del pipeline el que establece las fuentes y reglas base de trabajo diario.",
+      "explicacion": "En el ordenamiento jurídico español, el artículo 1 del Código Civil es el que establece las fuentes del derecho (la ley, la costumbre y los principios generales del derecho). Aunque la Constitución es la norma suprema, es el Código Civil el que tradicionalmente enumera y regula el sistema de fuentes de forma general.\n\n\n\n**Ejemplo práctico:** Como Head of CG, tienes un 'Pipeline Core Manual' (Código Civil) que dicta las reglas generales de cómo se estructuran los directorios y se nombran los archivos para todos los departamentos. Aunque el 'Studio Manifesto' (Constitución) da la visión general de la empresa, es el manual del pipeline el que establece las fuentes y reglas base de trabajo diario.",
       "respuesta_correcta": "b"
     },
     {
@@ -23,7 +23,7 @@
         "c": "Por su diversidad.",
         "d": "Por la primacía de la costumbre."
       },
-      "explicacion": "El derecho mercantil se caracteriza por una gran diversidad y dispersión normativa. No está todo unificado en un solo código, sino que existen múltiples leyes especiales (Ley de Sociedades de Capital, Ley Cambiaria, etc.) que regulan distintos aspectos del comercio, adaptándose a la rápida evolución del tráfico económico.\n\n**Ejemplo práctico:** En lugar de usar un único software monolítico para todo, el pipeline de un estudio de VFX se caracteriza por su diversidad de herramientas (Maya para animación, Houdini para FX, Nuke para composición). Cada departamento tiene sus propios scripts y plugins especializados que evolucionan rápidamente según las necesidades del proyecto, igual que las leyes mercantiles.",
+      "explicacion": "El derecho mercantil se caracteriza por una gran diversidad y dispersión normativa. No está todo unificado en un solo código, sino que existen múltiples leyes especiales (Ley de Sociedades de Capital, Ley Cambiaria, etc.) que regulan distintos aspectos del comercio, adaptándose a la rápida evolución del tráfico económico.\n\n\n\n**Ejemplo práctico:** En lugar de usar un único software monolítico para todo, el pipeline de un estudio de VFX se caracteriza por su diversidad de herramientas (Maya para animación, Houdini para FX, Nuke para composición). Cada departamento tiene sus propios scripts y plugins especializados que evolucionan rápidamente según las necesidades del proyecto, igual que las leyes mercantiles.",
       "respuesta_correcta": "c"
     },
     {
@@ -35,7 +35,7 @@
         "c": "El código de comercio de 1829.",
         "d": "El Código de Comercio de 1885."
       },
-      "explicacion": "La norma básica y fundamental del derecho mercantil en España es el Código de Comercio, vigente desde 1885. Aunque ha sufrido numerosas modificaciones y muchas materias se han regulado en leyes especiales posteriores, sigue siendo el texto legal de referencia y la base del ordenamiento jurídico mercantil.\n\n**Ejemplo práctico:** El Código de Comercio de 1885 es como el motor de renderizado base (ej. Arnold o V-Ray) que el estudio implementó hace años. Aunque constantemente se le añaden nuevos shaders, scripts y actualizaciones (leyes especiales), ese motor principal sigue siendo la pieza fundamental sobre la que se construye todo el look development del estudio.",
+      "explicacion": "La norma básica y fundamental del derecho mercantil en España es el Código de Comercio, vigente desde 1885. Aunque ha sufrido numerosas modificaciones y muchas materias se han regulado en leyes especiales posteriores, sigue siendo el texto legal de referencia y la base del ordenamiento jurídico mercantil.\n\n\n\n**Ejemplo práctico:** El Código de Comercio de 1885 es como el motor de renderizado base (ej. Arnold o V-Ray) que el estudio implementó hace años. Aunque constantemente se le añaden nuevos shaders, scripts y actualizaciones (leyes especiales), ese motor principal sigue siendo la pieza fundamental sobre la que se construye todo el look development del estudio.",
       "respuesta_correcta": "d"
     },
     {
@@ -47,7 +47,7 @@
         "c": "Por la observancia repetida.",
         "d": "Por su incorporación al Código."
       },
-      "explicacion": "Los usos de comercio son normas de derecho consuetudinario, es decir, nacen de la costumbre. Se crean por la práctica constante, uniforme y repetida de los comerciantes en sus relaciones de negocios, llegando a considerarse obligatorios en el sector.\n\n**Ejemplo práctico:** Imagina que en el estudio, por costumbre, los artistas de FX siempre entregan los cachés en formato .vdb con una nomenclatura específica no escrita en ningún manual oficial. Esta práctica, por su observancia repetida a lo largo de varios proyectos, se convierte en una regla no escrita pero obligatoria que todo nuevo artista debe seguir para que el departamento de Lighting pueda trabajar.",
+      "explicacion": "Los usos de comercio son normas de derecho consuetudinario, es decir, nacen de la costumbre. Se crean por la práctica constante, uniforme y repetida de los comerciantes en sus relaciones de negocios, llegando a considerarse obligatorios en el sector.\n\n\n\n**Ejemplo práctico:** Imagina que en el estudio, por costumbre, los artistas de FX siempre entregan los cachés en formato .vdb con una nomenclatura específica no escrita en ningún manual oficial. Esta práctica, por su observancia repetida a lo largo de varios proyectos, se convierte en una regla no escrita pero obligatoria que todo nuevo artista debe seguir para que el departamento de Lighting pueda trabajar.",
       "respuesta_correcta": "c"
     },
     {
@@ -59,7 +59,7 @@
         "c": "Asamblea general.",
         "d": "Comisión Estudio de las Sociedades."
       },
-      "explicacion": "La Comisión de las Naciones Unidas para el Derecho Mercantil Internacional (CNUDMI o UNCITRAL en inglés) es el principal órgano jurídico del sistema de las Naciones Unidas en el ámbito del derecho mercantil internacional, dedicado a la modernización y armonización de las reglas del comercio internacional.\n\n**Ejemplo práctico:** Piensa en la CNUDMI como la 'Academy Software Foundation' (ASWF) en la industria de los VFX. Así como la ASWF busca estandarizar formatos open source (como OpenEXR o USD) para que diferentes estudios en todo el mundo puedan colaborar sin problemas de compatibilidad, esta comisión de la ONU busca unificar las leyes comerciales para facilitar los negocios entre distintos países.",
+      "explicacion": "La Comisión de las Naciones Unidas para el Derecho Mercantil Internacional (CNUDMI o UNCITRAL en inglés) es el principal órgano jurídico del sistema de las Naciones Unidas en el ámbito del derecho mercantil internacional, dedicado a la modernización y armonización de las reglas del comercio internacional.\n\n\n\n**Ejemplo práctico:** Piensa en la CNUDMI como la 'Academy Software Foundation' (ASWF) en la industria de los VFX. Así como la ASWF busca estandarizar formatos open source (como OpenEXR o USD) para que diferentes estudios en todo el mundo puedan colaborar sin problemas de compatibilidad, esta comisión de la ONU busca unificar las leyes comerciales para facilitar los negocios entre distintos países.",
       "respuesta_correcta": "b"
     },
     {
@@ -71,7 +71,7 @@
         "c": "Eliminó los derechos forales.",
         "d": "Eliminó los tribunales canónicos."
       },
-      "explicacion": "El Decreto de Unificación de Fueros de 1868 supuso la supresión de jurisdicciones especiales en España, entre ellas la jurisdicción mercantil, pasando estos asuntos a ser competencia de la jurisdicción ordinaria civil para unificar el sistema judicial.\n\n**Ejemplo práctico:** Imagina que en tu estudio de VFX tenías un comité exclusivo para resolver disputas sobre licencias de software 3D (jurisdicción mercantil). Con una nueva política de unificación, eliminas ese comité especial y ahora todas las disputas, ya sean de software, hardware o contratos de artistas, se resuelven en el departamento legal general del estudio (jurisdicción ordinaria).",
+      "explicacion": "El Decreto de Unificación de Fueros de 1868 supuso la supresión de jurisdicciones especiales en España, entre ellas la jurisdicción mercantil, pasando estos asuntos a ser competencia de la jurisdicción ordinaria civil para unificar el sistema judicial.\n\n\n\n**Ejemplo práctico:** Imagina que en tu estudio de VFX tenías un comité exclusivo para resolver disputas sobre licencias de software 3D (jurisdicción mercantil). Con una nueva política de unificación, eliminas ese comité especial y ahora todas las disputas, ya sean de software, hardware o contratos de artistas, se resuelven en el departamento legal general del estudio (jurisdicción ordinaria).",
       "respuesta_correcta": "b"
     },
     {
@@ -83,7 +83,7 @@
         "c": "La materia debatida.",
         "d": "La existencia de una sociedad o no."
       },
-      "explicacion": "Los Juzgados de lo Mercantil tienen su competencia atribuida en función de la materia (criterio objetivo). Esto significa que conocen de asuntos específicos como concursos de acreedores, propiedad intelectual, o competencia desleal, independientemente de quiénes sean las partes involucradas.\n\n**Ejemplo práctico:** Como Head of CG, estableces que los problemas críticos de renderizado (la materia debatida) siempre los resolverá el equipo de Pipeline, sin importar si el problema lo reportó un artista junior o el supervisor de iluminación (la condición de los demandantes). La asignación se basa estrictamente en el tipo de problema técnico.",
+      "explicacion": "Los Juzgados de lo Mercantil tienen su competencia atribuida en función de la materia (criterio objetivo). Esto significa que conocen de asuntos específicos como concursos de acreedores, propiedad intelectual, o competencia desleal, independientemente de quiénes sean las partes involucradas.\n\n\n\n**Ejemplo práctico:** Como Head of CG, estableces que los problemas críticos de renderizado (la materia debatida) siempre los resolverá el equipo de Pipeline, sin importar si el problema lo reportó un artista junior o el supervisor de iluminación (la condición de los demandantes). La asignación se basa estrictamente en el tipo de problema técnico.",
       "respuesta_correcta": "c"
     },
     {
@@ -95,7 +95,7 @@
         "c": "Respuestas a y b correctas.",
         "d": "Ninguna respuesta correcta."
       },
-      "explicacion": "Para que un proceso de arbitraje sea válido y legal, se requiere que el tema a tratar sea de libre disposición para las partes (materia susceptible de arbitraje) y que el procedimiento respete los derechos fundamentales de defensa, audiencia e igualdad (garantías procesales básicas).\n\n**Ejemplo práctico:** Si dos supervisores de VFX tienen un desacuerdo técnico y deciden que tú (Head of CG) seas el árbitro para solucionarlo, primero debe ser un tema técnico sobre el que tengan poder de decisión (materia susceptible) y, segundo, debes asegurarte de dar a ambos el mismo tiempo y oportunidad para mostrar sus pruebas de render y argumentar su postura (garantías procesales básicas).",
+      "explicacion": "Para que un proceso de arbitraje sea válido y legal, se requiere que el tema a tratar sea de libre disposición para las partes (materia susceptible de arbitraje) y que el procedimiento respete los derechos fundamentales de defensa, audiencia e igualdad (garantías procesales básicas).\n\n\n\n**Ejemplo práctico:** Si dos supervisores de VFX tienen un desacuerdo técnico y deciden que tú (Head of CG) seas el árbitro para solucionarlo, primero debe ser un tema técnico sobre el que tengan poder de decisión (materia susceptible) y, segundo, debes asegurarte de dar a ambos el mismo tiempo y oportunidad para mostrar sus pruebas de render y argumentar su postura (garantías procesales básicas).",
       "respuesta_correcta": "c"
     },
     {
@@ -107,7 +107,7 @@
         "c": "Lo previsto en la Ley de Sociedades de Capital.",
         "d": "Lo previsto en la Ley de Enjuiciamiento Civil."
       },
-      "explicacion": "La ejecución forzosa de los laudos arbitrales firmes (la decisión final del árbitro) se rige por las disposiciones de la Ley de Enjuiciamiento Civil, al igual que ocurre con las sentencias judiciales, garantizando así que se pueda forzar su cumplimiento a través del sistema judicial si una parte se niega.\n\n**Ejemplo práctico:** Si un cliente externo y tu estudio acuerdan mediante un mediador que el cliente debe pagar por 50 shots extra de VFX (laudo firme), y el cliente finalmente no paga, el estudio no puede inventar sus propias reglas para cobrarle; debe acudir a las normas generales de reclamación de deudas del país (Ley de Enjuiciamiento Civil) para que un juez embargue las cuentas del cliente.",
+      "explicacion": "La ejecución forzosa de los laudos arbitrales firmes (la decisión final del árbitro) se rige por las disposiciones de la Ley de Enjuiciamiento Civil, al igual que ocurre con las sentencias judiciales, garantizando así que se pueda forzar su cumplimiento a través del sistema judicial si una parte se niega.\n\n\n\n**Ejemplo práctico:** Si un cliente externo y tu estudio acuerdan mediante un mediador que el cliente debe pagar por 50 shots extra de VFX (laudo firme), y el cliente finalmente no paga, el estudio no puede inventar sus propias reglas para cobrarle; debe acudir a las normas generales de reclamación de deudas del país (Ley de Enjuiciamiento Civil) para que un juez embargue las cuentas del cliente.",
       "respuesta_correcta": "d"
     },
     {
@@ -119,7 +119,7 @@
         "c": "Las Sociedades Anónimas.",
         "d": "Derechos de consumidores y usuarios."
       },
-      "explicacion": "El Real Decreto Legislativo 1/2007 es la norma que aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios, estableciendo el marco legal para proteger a las personas que adquieren bienes o servicios como destinatarios finales.\n\n**Ejemplo práctico:** Si tu estudio de animación decide desarrollar y vender un plugin de simulación de fluidos directamente al público general, deberás asegurarte de cumplir con las normativas de devoluciones, información clara y garantías establecidas en este Real Decreto, protegiendo así a los artistas freelance que compren tu software (derechos de consumidores y usuarios).",
+      "explicacion": "El Real Decreto Legislativo 1/2007 es la norma que aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios, estableciendo el marco legal para proteger a las personas que adquieren bienes o servicios como destinatarios finales.\n\n\n\n**Ejemplo práctico:** Si tu estudio de animación decide desarrollar y vender un plugin de simulación de fluidos directamente al público general, deberás asegurarte de cumplir con las normativas de devoluciones, información clara y garantías establecidas en este Real Decreto, protegiendo así a los artistas freelance que compren tu software (derechos de consumidores y usuarios).",
       "respuesta_correcta": "d"
     }
   ]

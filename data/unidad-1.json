@@ -11,7 +11,7 @@
         "c": "A lo que manifiesten las partes contratantes.",
         "d": "Si uno de los intervinientes es comerciante."
       },
-      "explicacion": "El sistema objetivo en el derecho mercantil se centra en la naturaleza intrínseca del acto en sí (acto de comercio), sin importar si las personas que lo realizan tienen la condición legal de comerciantes. Se opone al sistema subjetivo, que se basa en la cualidad de los sujetos que intervienen.\\n**Ejemplo práctico:** Imagina que el estudio de VFX compra un gran volumen de licencias de software de renderizado. El acto de compraventa de estas licencias con fines de producción comercial es un acto mercantil por su propia naturaleza (acto de comercio objetivo), independientemente de si el vendedor es un gran distribuidor corporativo o un desarrollador independiente.",
+      "explicacion": "El sistema objetivo en el derecho mercantil se centra en la naturaleza intrínseca del acto en sí (acto de comercio), sin importar si las personas que lo realizan tienen la condición legal de comerciantes. Se opone al sistema subjetivo, que se basa en la cualidad de los sujetos que intervienen.\\n\n**Ejemplo práctico:** Imagina que el estudio de VFX compra un gran volumen de licencias de software de renderizado. El acto de compraventa de estas licencias con fines de producción comercial es un acto mercantil por su propia naturaleza (acto de comercio objetivo), independientemente de si el vendedor es un gran distribuidor corporativo o un desarrollador independiente.",
       "respuesta_correcta": "a"
     },
     {
@@ -23,7 +23,7 @@
         "c": "Con el Código de Comercio Frances de 1807.",
         "d": "Con el Tratado de Roma."
       },
-      "explicacion": "El Código de Comercio Francés de 1807 (Code de Commerce), promulgado bajo el mandato de Napoleón, es considerado históricamente como la primera codificación moderna del derecho mercantil. Este código sentó las bases y sirvió de modelo para las legislaciones comerciales de muchos otros países, incluyendo España.\\n**Ejemplo práctico:** Piensa en el Código de Comercio Francés de 1807 como el primer 'pipeline' estandarizado de la industria. Antes de él, cada gremio o comerciante tenía sus propias reglas locales (ordenanzas). Este código unificó el flujo de trabajo legal a nivel nacional, de la misma manera que la adopción del formato USD (Universal Scene Description) estandarizó el intercambio de assets y escenas entre diferentes departamentos y estudios de CG.",
+      "explicacion": "El Código de Comercio Francés de 1807 (Code de Commerce), promulgado bajo el mandato de Napoleón, es considerado históricamente como la primera codificación moderna del derecho mercantil. Este código sentó las bases y sirvió de modelo para las legislaciones comerciales de muchos otros países, incluyendo España.\\n\n**Ejemplo práctico:** Piensa en el Código de Comercio Francés de 1807 como el primer 'pipeline' estandarizado de la industria. Antes de él, cada gremio o comerciante tenía sus propias reglas locales (ordenanzas). Este código unificó el flujo de trabajo legal a nivel nacional, de la misma manera que la adopción del formato USD (Universal Scene Description) estandarizó el intercambio de assets y escenas entre diferentes departamentos y estudios de CG.",
       "respuesta_correcta": "c"
     },
     {
@@ -35,7 +35,7 @@
         "c": "Principios de organización del Estado.",
         "d": "Disposiciones transitorias."
       },
-      "explicacion": "El artículo 38 de la Constitución Española reconoce la libertad de empresa en el marco de la economía de mercado. Este artículo, junto con otros preceptos constitucionales que establecen el marco jurídico fundamental para la estructura y funcionamiento de la actividad económica del país, conforman lo que la doctrina jurídica denomina 'Constitución económica'.\\n**Ejemplo práctico:** La 'Constitución económica' es como el 'Show Bible' o las directrices generales de producción de un proyecto de animación. El artículo 38 garantiza la libertad de empresa, lo que permite a tu estudio de VFX operar libremente, competir por proyectos de grandes productoras como Marvel o Netflix, y organizar sus recursos técnicos (granjas de render) y humanos según las reglas del libre mercado.",
+      "explicacion": "El artículo 38 de la Constitución Española reconoce la libertad de empresa en el marco de la economía de mercado. Este artículo, junto con otros preceptos constitucionales que establecen el marco jurídico fundamental para la estructura y funcionamiento de la actividad económica del país, conforman lo que la doctrina jurídica denomina 'Constitución económica'.\\n\n**Ejemplo práctico:** La 'Constitución económica' es como el 'Show Bible' o las directrices generales de producción de un proyecto de animación. El artículo 38 garantiza la libertad de empresa, lo que permite a tu estudio de VFX operar libremente, competir por proyectos de grandes productoras como Marvel o Netflix, y organizar sus recursos técnicos (granjas de render) y humanos según las reglas del libre mercado.",
       "respuesta_correcta": "b"
     },
     {
@@ -47,7 +47,7 @@
         "c": "Los ausentes.",
         "d": "Todas las respuestas son correctas."
       },
-      "explicacion": "El derecho mercantil permite que personas que carecen de capacidad de obrar plena (como menores de edad o personas incapacitadas judicialmente) puedan ostentar la titularidad de una empresa y, por tanto, la condición de empresarios. Esto ocurre típicamente en casos de herencia, para garantizar la continuidad del negocio. En estos casos, la actividad empresarial es ejercida en su nombre por sus representantes legales (padres o tutores).\\n**Ejemplo práctico:** Supongamos que el fundador y dueño absoluto de un exitoso estudio de VFX fallece repentinamente y deja en herencia la empresa a su hijo de 14 años. El menor adquiere automáticamente la condición de empresario (es el dueño del estudio), aunque la gestión diaria, la aprobación de presupuestos de VFX y la firma de contratos con clientes la realice su tutor legal hasta que alcance la mayoría de edad.",
+      "explicacion": "El derecho mercantil permite que personas que carecen de capacidad de obrar plena (como menores de edad o personas incapacitadas judicialmente) puedan ostentar la titularidad de una empresa y, por tanto, la condición de empresarios. Esto ocurre típicamente en casos de herencia, para garantizar la continuidad del negocio. En estos casos, la actividad empresarial es ejercida en su nombre por sus representantes legales (padres o tutores).\\n\n**Ejemplo práctico:** Supongamos que el fundador y dueño absoluto de un exitoso estudio de VFX fallece repentinamente y deja en herencia la empresa a su hijo de 14 años. El menor adquiere automáticamente la condición de empresario (es el dueño del estudio), aunque la gestión diaria, la aprobación de presupuestos de VFX y la firma de contratos con clientes la realice su tutor legal hasta que alcance la mayoría de edad.",
       "respuesta_correcta": "d"
     },
     {
@@ -59,7 +59,7 @@
         "c": "A la libre sindicación.",
         "d": "A la libertad de enseñanza."
       },
-      "explicacion": "El artículo 35 de la Constitución Española establece que todos los españoles tienen el deber de trabajar y el derecho al trabajo, a la libre elección de profesión u oficio, a la promoción a través del trabajo y a una remuneración suficiente para satisfacer sus necesidades y las de su familia.\\n**Ejemplo práctico:** Este artículo garantiza que cualquier persona tiene el derecho constitucional de elegir formarse y trabajar específicamente como rigger, lighter, o compositor de Nuke, sin que el Estado o un gremio le imponga a qué rama del 3D debe dedicarse. Como Head of CG, esto significa que operas en un mercado laboral donde puedes contratar talento basándote en las habilidades que los artistas han elegido desarrollar libremente.",
+      "explicacion": "El artículo 35 de la Constitución Española establece que todos los españoles tienen el deber de trabajar y el derecho al trabajo, a la libre elección de profesión u oficio, a la promoción a través del trabajo y a una remuneración suficiente para satisfacer sus necesidades y las de su familia.\\n\n**Ejemplo práctico:** Este artículo garantiza que cualquier persona tiene el derecho constitucional de elegir formarse y trabajar específicamente como rigger, lighter, o compositor de Nuke, sin que el Estado o un gremio le imponga a qué rama del 3D debe dedicarse. Como Head of CG, esto significa que operas en un mercado laboral donde puedes contratar talento basándote en las habilidades que los artistas han elegido desarrollar libremente.",
       "respuesta_correcta": "a"
     },
     {
@@ -71,7 +71,7 @@
         "c": "El Derecho la trata unitariamente.",
         "d": "Tiene una regulación global."
       },
-      "explicacion": "En el ordenamiento jurídico, la empresa en sí misma no tiene personalidad jurídica ni es considerada un objeto de derecho unitario, sino que es un conjunto de elementos (bienes, derechos, relaciones laborales) organizados por el empresario, que es el verdadero sujeto de derecho.\\n**Ejemplo práctico:** Como Head of CG, diriges un estudio de VFX. El 'estudio' (la empresa) no firma los contratos con Marvel o Netflix; los firma la sociedad mercantil (ej. 'VFX Studio S.L.', el empresario/sujeto de derecho) que es dueña de las workstations, licencias de software y quien contrata a los artistas 3D.",
+      "explicacion": "En el ordenamiento jurídico, la empresa en sí misma no tiene personalidad jurídica ni es considerada un objeto de derecho unitario, sino que es un conjunto de elementos (bienes, derechos, relaciones laborales) organizados por el empresario, que es el verdadero sujeto de derecho.\\n\n**Ejemplo práctico:** Como Head of CG, diriges un estudio de VFX. El 'estudio' (la empresa) no firma los contratos con Marvel o Netflix; los firma la sociedad mercantil (ej. 'VFX Studio S.L.', el empresario/sujeto de derecho) que es dueña de las workstations, licencias de software y quien contrata a los artistas 3D.",
       "respuesta_correcta": "b"
     },
     {
@@ -83,7 +83,7 @@
         "c": "Absolutas y relativas.",
         "d": "Generales y condicionadas."
       },
-      "explicacion": "Las prohibiciones para ejercer el comercio se dividen en absolutas (impiden el ejercicio de cualquier actividad mercantil en todo el territorio) y relativas (impiden ejercer cierta actividad o en un territorio específico, generalmente por incompatibilidad de cargos).\\n**Ejemplo práctico:** Si un Lead Compositor es nombrado director de una entidad pública que regula las subvenciones al cine, tendría una prohibición absoluta o relativa para ser administrador de tu estudio de VFX, para evitar conflictos de interés al adjudicar proyectos.",
+      "explicacion": "Las prohibiciones para ejercer el comercio se dividen en absolutas (impiden el ejercicio de cualquier actividad mercantil en todo el territorio) y relativas (impiden ejercer cierta actividad o en un territorio específico, generalmente por incompatibilidad de cargos).\\n\n**Ejemplo práctico:** Si un Lead Compositor es nombrado director de una entidad pública que regula las subvenciones al cine, tendría una prohibición absoluta o relativa para ser administrador de tu estudio de VFX, para evitar conflictos de interés al adjudicar proyectos.",
       "respuesta_correcta": "c"
     },
     {
@@ -95,7 +95,7 @@
         "c": "Una sociedad mercantil tradicional.",
         "d": "Una sociedad que interviene en el mercado de valores."
       },
-      "explicacion": "La sociedad colectiva es uno de los tipos societarios mercantiles más antiguos y tradicionales, caracterizada por ser personalista y donde los socios responden de forma subsidiaria, ilimitada y solidaria de las deudas sociales.\\n**Ejemplo práctico:** Imagina que tú y dos supervisores de VFX fundáis un pequeño estudio como sociedad colectiva. Si el estudio es demandado por perder los archivos de un render millonario y la empresa no puede pagar, los tres tendréis que responder con vuestro patrimonio personal (casas, ahorros) para cubrir esa deuda.",
+      "explicacion": "La sociedad colectiva es uno de los tipos societarios mercantiles más antiguos y tradicionales, caracterizada por ser personalista y donde los socios responden de forma subsidiaria, ilimitada y solidaria de las deudas sociales.\\n\n**Ejemplo práctico:** Imagina que tú y dos supervisores de VFX fundáis un pequeño estudio como sociedad colectiva. Si el estudio es demandado por perder los archivos de un render millonario y la empresa no puede pagar, los tres tendréis que responder con vuestro patrimonio personal (casas, ahorros) para cubrir esa deuda.",
       "respuesta_correcta": "c"
     },
     {
@@ -107,7 +107,7 @@
         "c": "Ley de Sociedades de Capital.",
         "d": "Ley de Intermediación económica."
       },
-      "explicacion": "En España, la normativa que regula las sociedades anónimas, limitadas y comanditarias por acciones se unificó en el Real Decreto Legislativo 1/2010, por el que se aprueba el texto refundido de la Ley de Sociedades de Capital.\\n**Ejemplo práctico:** Si decides transformar tu estudio de animación de una pequeña S.L. a una Sociedad Anónima (S.A.) para dar entrada a inversores internacionales que financien un nuevo pipeline de Unreal Engine, todos los trámites y normas a seguir estarán dictados por esta Ley de Sociedades de Capital.",
+      "explicacion": "En España, la normativa que regula las sociedades anónimas, limitadas y comanditarias por acciones se unificó en el Real Decreto Legislativo 1/2010, por el que se aprueba el texto refundido de la Ley de Sociedades de Capital.\\n\n**Ejemplo práctico:** Si decides transformar tu estudio de animación de una pequeña S.L. a una Sociedad Anónima (S.A.) para dar entrada a inversores internacionales que financien un nuevo pipeline de Unreal Engine, todos los trámites y normas a seguir estarán dictados por esta Ley de Sociedades de Capital.",
       "respuesta_correcta": "c"
     },
     {
@@ -119,7 +119,7 @@
         "c": "Obligaciones.",
         "d": "Cuotas."
       },
-      "explicacion": "A diferencia de las Sociedades Anónimas (cuyo capital se divide en acciones), el capital de una Sociedad de Responsabilidad Limitada (S.L.) se divide en participaciones sociales, las cuales son indivisibles y acumulables, pero no tienen el carácter de valores y no pueden cotizar en bolsa.\\n**Ejemplo práctico:** Al fundar tu estudio de VFX como una S.L. con un capital de 3.000 euros, este se divide en 3.000 participaciones de 1 euro. Si le das el 10% a tu Lead Lighter para retener su talento, le estarás entregando 300 participaciones, no acciones.",
+      "explicacion": "A diferencia de las Sociedades Anónimas (cuyo capital se divide en acciones), el capital de una Sociedad de Responsabilidad Limitada (S.L.) se divide en participaciones sociales, las cuales son indivisibles y acumulables, pero no tienen el carácter de valores y no pueden cotizar en bolsa.\\n\n**Ejemplo práctico:** Al fundar tu estudio de VFX como una S.L. con un capital de 3.000 euros, este se divide en 3.000 participaciones de 1 euro. Si le das el 10% a tu Lead Lighter para retener su talento, le estarás entregando 300 participaciones, no acciones.",
       "respuesta_correcta": "b"
     }
   ]

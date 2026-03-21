@@ -11,7 +11,7 @@
         "c": "Las cargas sociales dé la sociedad",
         "d": "Las ventas de la sociedad."
       },
-      "explicacion": "La contabilidad tiene como objetivo principal registrar y resumir las operaciones financieras de una empresa para producir los estados contables (balance, cuenta de resultados, etc.), los cuales reflejan la imagen fiel del patrimonio y la situación financiera.\\n\\n**Ejemplo práctico:** Como Head of CG, al finalizar un proyecto masivo, el producto final no son los miles de renders individuales o los scripts de Nuke, sino el 'delivery' final de los planos aprobados y el 'post-mortem' del presupuesto. Los estados contables son ese 'delivery' financiero que resume todo el esfuerzo del estudio.",
+      "explicacion": "La contabilidad tiene como objetivo principal registrar y resumir las operaciones financieras de una empresa para producir los estados contables (balance, cuenta de resultados, etc.), los cuales reflejan la imagen fiel del patrimonio y la situación financiera.\\n\n\\n\n**Ejemplo práctico:** Como Head of CG, al finalizar un proyecto masivo, el producto final no son los miles de renders individuales o los scripts de Nuke, sino el 'delivery' final de los planos aprobados y el 'post-mortem' del presupuesto. Los estados contables son ese 'delivery' financiero que resume todo el esfuerzo del estudio.",
       "respuesta_correcta": "a"
     },
     {
@@ -23,7 +23,7 @@
         "c": "Venecia.",
         "d": "Genova."
       },
-      "explicacion": "Luca Pacioli, considerado el padre de la contabilidad moderna, publicó su famosa obra 'Summa de arithmetica, geometria, proportioni et proportionalita' en Venecia en el año 1494, donde documentó el sistema de partida doble.\\n\\n**Ejemplo práctico:** Imagina que Venecia fue el 'SIGGRAPH' del Renacimiento. Así como hoy un nuevo motor de render revolucionario se presentaría en una gran conferencia de la industria, Pacioli eligió Venecia, el centro comercial y tecnológico de la época, para 'lanzar' el sistema de partida doble que cambiaría la gestión de recursos para siempre.",
+      "explicacion": "Luca Pacioli, considerado el padre de la contabilidad moderna, publicó su famosa obra 'Summa de arithmetica, geometria, proportioni et proportionalita' en Venecia en el año 1494, donde documentó el sistema de partida doble.\\n\n\\n\n**Ejemplo práctico:** Imagina que Venecia fue el 'SIGGRAPH' del Renacimiento. Así como hoy un nuevo motor de render revolucionario se presentaría en una gran conferencia de la industria, Pacioli eligió Venecia, el centro comercial y tecnológico de la época, para 'lanzar' el sistema de partida doble que cambiaría la gestión de recursos para siempre.",
       "respuesta_correcta": "c"
     },
     {
@@ -35,7 +35,7 @@
         "c": "El circulante.",
         "d": "El pasivo."
       },
-      "explicacion": "En términos contables, el 'activo' representa el conjunto de bienes, derechos y otros recursos de los que la empresa es propietaria o controla, y de los cuales se espera obtener beneficios económicos en el futuro.\\n\\n**Ejemplo práctico:** En tu departamento de CG, las licencias de Maya, la granja de render (render farm), los servidores de almacenamiento y hasta el software propietario que han desarrollado internamente son el 'activo' del estudio. Son los recursos y bienes que poseen para generar valor y completar los planos de la película.",
+      "explicacion": "En términos contables, el 'activo' representa el conjunto de bienes, derechos y otros recursos de los que la empresa es propietaria o controla, y de los cuales se espera obtener beneficios económicos en el futuro.\\n\n\\n\n**Ejemplo práctico:** En tu departamento de CG, las licencias de Maya, la granja de render (render farm), los servidores de almacenamiento y hasta el software propietario que han desarrollado internamente son el 'activo' del estudio. Son los recursos y bienes que poseen para generar valor y completar los planos de la película.",
       "respuesta_correcta": "b"
     },
     {
@@ -47,7 +47,7 @@
         "c": "Para todo empresario.",
         "d": "Para los empresarios sociales."
       },
-      "explicacion": "La legislación mercantil establece que la llevanza de la contabilidad, incluyendo el libro de Inventarios y Cuentas Anuales, es una obligación legal para todo empresario, independientemente de si es una persona física (autónomo) o jurídica (sociedad).\\n\\n**Ejemplo práctico:** Sin importar si tu estudio de VFX es una gran corporación internacional o una pequeña boutique de postproducción, es obligatorio llevar un registro exacto de cuántas workstations, licencias de software y monitores calibrados tienen. Este 'libro de inventarios' es vital para cualquier tamaño de operación.",
+      "explicacion": "La legislación mercantil establece que la llevanza de la contabilidad, incluyendo el libro de Inventarios y Cuentas Anuales, es una obligación legal para todo empresario, independientemente de si es una persona física (autónomo) o jurídica (sociedad).\\n\n\\n\n**Ejemplo práctico:** Sin importar si tu estudio de VFX es una gran corporación internacional o una pequeña boutique de postproducción, es obligatorio llevar un registro exacto de cuántas workstations, licencias de software y monitores calibrados tienen. Este 'libro de inventarios' es vital para cualquier tamaño de operación.",
       "respuesta_correcta": "c"
     },
     {
@@ -59,7 +59,7 @@
         "c": "Dentro de los tres meses siguientes al cierre del ejercicio.",
         "d": "Al inicio del ejercicio."
       },
-      "explicacion": "Según la normativa mercantil, los libros de contabilidad obligatorios deben presentarse para su legalización en el Registro Mercantil correspondiente dentro del plazo de los cuatro meses siguientes a la fecha de cierre del ejercicio social.\\n\\n**Ejemplo práctico:** Piensa en el cierre del ejercicio fiscal como la fecha de entrega final (final delivery) de una película. Tienes un periodo de gracia de cuatro meses, similar a la ventana de tiempo para archivar el proyecto, empaquetar los assets y entregar los 'as-built' o reportes finales al cliente (en este caso, el Registro Mercantil) para legalizar todo el trabajo realizado.",
+      "explicacion": "Según la normativa mercantil, los libros de contabilidad obligatorios deben presentarse para su legalización en el Registro Mercantil correspondiente dentro del plazo de los cuatro meses siguientes a la fecha de cierre del ejercicio social.\\n\n\\n\n**Ejemplo práctico:** Piensa en el cierre del ejercicio fiscal como la fecha de entrega final (final delivery) de una película. Tienes un periodo de gracia de cuatro meses, similar a la ventana de tiempo para archivar el proyecto, empaquetar los assets y entregar los 'as-built' o reportes finales al cliente (en este caso, el Registro Mercantil) para legalizar todo el trabajo realizado.",
       "respuesta_correcta": "b"
     },
     {
@@ -71,7 +71,7 @@
         "c": "Con la liquidación de la empresa.",
         "d": "Ninguna respuesta correcta."
       },
-      "explicacion": "El Código de Comercio español no establece sanciones directas como multas o inhabilitación por la falta de llevanza de libros; estas sanciones provienen de otras normativas como la tributaria o concursal. Por ello, ninguna de las opciones anteriores es correcta.\n\n**Ejemplo práctico:** Imagina que en el estudio de VFX no mantenemos un registro (log) de las versiones de los assets (nuestra \"llevanza de libros\"). El software base de gestión (nuestro \"Código de Comercio\") no nos borra el proyecto ni nos bloquea el acceso automáticamente por no hacerlo. Sin embargo, si hay una auditoría del cliente o un fallo en el render (nuestra \"ley tributaria o concursal\"), ahí es donde sufriremos las penalizaciones por no tener el historial de versiones al día.",
+      "explicacion": "El Código de Comercio español no establece sanciones directas como multas o inhabilitación por la falta de llevanza de libros; estas sanciones provienen de otras normativas como la tributaria o concursal. Por ello, ninguna de las opciones anteriores es correcta.\n\n\n\n**Ejemplo práctico:** Imagina que en el estudio de VFX no mantenemos un registro (log) de las versiones de los assets (nuestra \"llevanza de libros\"). El software base de gestión (nuestro \"Código de Comercio\") no nos borra el proyecto ni nos bloquea el acceso automáticamente por no hacerlo. Sin embargo, si hay una auditoría del cliente o un fallo en el render (nuestra \"ley tributaria o concursal\"), ahí es donde sufriremos las penalizaciones por no tener el historial de versiones al día.",
       "respuesta_correcta": "d"
     },
     {
@@ -83,7 +83,7 @@
         "c": "En la Ley de 12 de Julio de 1988.",
         "d": "En la ley de 24 de julio de 1973."
       },
-      "explicacion": "Aunque la opción marcada en el examen es la 'd', históricamente la regulación moderna y formal de la auditoría de cuentas en España se estableció con la Ley 19/1988, de 12 de julio (opción c). Es probable que la marca sea un error del alumno, pero basándonos en la selección visual, explicamos este contexto.\n\n**Ejemplo práctico:** Como Head of CG, sabes que el pipeline moderno basado en USD se estandarizó en el estudio en 2020 (nuestra \"Ley de 1988\"). Si alguien marca en un reporte que el pipeline USD se reguló en 2010 (la opción marcada erróneamente), está confundiendo la fecha de creación de alguna tecnología previa con la fecha en que se hizo obligatoria y se reguló oficialmente en nuestro flujo de trabajo.",
+      "explicacion": "Aunque la opción marcada en el examen es la 'd', históricamente la regulación moderna y formal de la auditoría de cuentas en España se estableció con la Ley 19/1988, de 12 de julio (opción c). Es probable que la marca sea un error del alumno, pero basándonos en la selección visual, explicamos este contexto.\n\n\n\n**Ejemplo práctico:** Como Head of CG, sabes que el pipeline moderno basado en USD se estandarizó en el estudio en 2020 (nuestra \"Ley de 1988\"). Si alguien marca en un reporte que el pipeline USD se reguló en 2010 (la opción marcada erróneamente), está confundiendo la fecha de creación de alguna tecnología previa con la fecha en que se hizo obligatoria y se reguló oficialmente en nuestro flujo de trabajo.",
       "respuesta_correcta": "d"
     },
     {
@@ -95,7 +95,7 @@
         "c": "Solo líneas generales",
         "d": "Si. Resoluciones del Parlamento europeo."
       },
-      "explicacion": "La Unión Europea ha regulado la auditoría de cuentas principalmente a través de la Octava Directiva del Consejo, la cual busca armonizar las normativas y asegurar la calidad de las auditorías en todos los Estados miembros.\n\n**Ejemplo práctico:** Piensa en la VIII Directiva como los estándares de seguridad de la MPAA (Motion Picture Association). Así como la UE dicta normas generales que todos los países miembros deben cumplir para asegurar la calidad financiera, la MPAA dicta protocolos de seguridad (como el aislamiento de redes) que todos los estudios de VFX en diferentes países deben implementar obligatoriamente para poder trabajar en proyectos de grandes productoras.",
+      "explicacion": "La Unión Europea ha regulado la auditoría de cuentas principalmente a través de la Octava Directiva del Consejo, la cual busca armonizar las normativas y asegurar la calidad de las auditorías en todos los Estados miembros.\n\n\n\n**Ejemplo práctico:** Piensa en la VIII Directiva como los estándares de seguridad de la MPAA (Motion Picture Association). Así como la UE dicta normas generales que todos los países miembros deben cumplir para asegurar la calidad financiera, la MPAA dicta protocolos de seguridad (como el aislamiento de redes) que todos los estudios de VFX en diferentes países deben implementar obligatoriamente para poder trabajar en proyectos de grandes productoras.",
       "respuesta_correcta": "a"
     },
     {
@@ -107,7 +107,7 @@
         "c": "El Instituto de Contabilidad y Auditoría de Cuentas.",
         "d": "El Banco de España."
       },
-      "explicacion": "En España, el Instituto de Contabilidad y Auditoría de Cuentas (ICAC) es el organismo encargado de supervisar, controlar y sancionar la actividad de los auditores de cuentas, asegurando que cumplen con las normas técnicas y de ética profesional.\n\n**Ejemplo práctico:** El ICAC funciona exactamente igual que el departamento de Quality Control (QC) o el VFX Supervisor en un estudio. Los artistas (auditores) realizan su trabajo sobre los planos (cuentas), pero es el departamento de QC (el ICAC) quien revisa técnicamente que no haya píxeles muertos, errores de render o fallos de integración antes de entregar el plano final al cliente, garantizando el estándar de calidad del estudio.",
+      "explicacion": "En España, el Instituto de Contabilidad y Auditoría de Cuentas (ICAC) es el organismo encargado de supervisar, controlar y sancionar la actividad de los auditores de cuentas, asegurando que cumplen con las normas técnicas y de ética profesional.\n\n\n\n**Ejemplo práctico:** El ICAC funciona exactamente igual que el departamento de Quality Control (QC) o el VFX Supervisor en un estudio. Los artistas (auditores) realizan su trabajo sobre los planos (cuentas), pero es el departamento de QC (el ICAC) quien revisa técnicamente que no haya píxeles muertos, errores de render o fallos de integración antes de entregar el plano final al cliente, garantizando el estándar de calidad del estudio.",
       "respuesta_correcta": "c"
     },
     {
@@ -119,7 +119,7 @@
         "c": "La que coticen sus títulos en las Bolsas.",
         "d": "Todas las respuestas son correctas."
       },
-      "explicacion": "La ley exige que ciertas entidades se sometan a auditoría obligatoria debido a su impacto público y económico, lo que incluye a empresas cotizadas, emisoras de obligaciones y entidades sujetas a normativas especiales como las aseguradoras. Por tanto, todas las opciones son correctas.\n\n**Ejemplo práctico:** Imagina que establecemos una regla en el estudio: \"Todo asset que vaya a ser usado en más de 50 planos, todo asset que sea un 'Hero character', y todo asset que se envíe a un estudio externo debe pasar por una revisión exhaustiva de topología y UVs\". Al igual que las empresas mencionadas en la pregunta tienen un alto impacto y por ende requieren auditoría obligatoria, estos assets críticos requieren una \"auditoría\" técnica obligatoria por parte del Lead de Modelado antes de ser publicados en el pipeline.",
+      "explicacion": "La ley exige que ciertas entidades se sometan a auditoría obligatoria debido a su impacto público y económico, lo que incluye a empresas cotizadas, emisoras de obligaciones y entidades sujetas a normativas especiales como las aseguradoras. Por tanto, todas las opciones son correctas.\n\n\n\n**Ejemplo práctico:** Imagina que establecemos una regla en el estudio: \"Todo asset que vaya a ser usado en más de 50 planos, todo asset que sea un 'Hero character', y todo asset que se envíe a un estudio externo debe pasar por una revisión exhaustiva de topología y UVs\". Al igual que las empresas mencionadas en la pregunta tienen un alto impacto y por ende requieren auditoría obligatoria, estos assets críticos requieren una \"auditoría\" técnica obligatoria por parte del Lead de Modelado antes de ser publicados en el pipeline.",
       "respuesta_correcta": "d"
     }
   ]

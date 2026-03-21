@@ -1,0 +1,126 @@
+{
+  "unidad": 14,
+  "titulo": "Autoevaluación: Derecho de la Empresa II - Contratos de Comisión y Agencia",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La figura cuya actividad consiste en realizar operaciones comerciales por cuenta de otros comerciantes se denomina...",
+      "opciones": {
+        "a": "Contrato de mediación.",
+        "b": "Contrato de representación.",
+        "c": "Contrato de comisión",
+        "d": "Contrato de intermediación."
+      },
+      "explicacion": "El contrato de comisión es un mandato mercantil por el cual una persona (comisionista) se obliga a realizar o participar en un acto o contrato mercantil por cuenta de otra (comitente).\\n\n**Ejemplo práctico:** Un estudio de VFX (comitente) contrata a un productor freelance (comisionista) para que negocie y adquiera licencias de software especializado de simulación por cuenta del estudio.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "¿Con que figura jurídica identifica el C.Comercio el contrato de comisión?",
+      "opciones": {
+        "a": "Con la compraventa.",
+        "b": "Con el mandato.",
+        "c": "Con el contrato de Agencia.",
+        "d": "Con el contrato de representación."
+      },
+      "explicacion": "El Código de Comercio español define la comisión como un mandato mercantil, es decir, un encargo para realizar actos de comercio en nombre o por cuenta de un tercero.\\n\n**Ejemplo práctico:** Como Head of CG, le das el mandato a un Lead Lighter para que apruebe los renders finales de un plano en tu nombre frente al cliente, actuando como tu comisionista en esa transacción técnica.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Las obligaciones del comisionista son...",
+      "opciones": {
+        "a": "Cumplir la comisión.",
+        "b": "Rendir cuentas del cumplimiento a quien se la mando.",
+        "c": "Comprobar la calidad del producto.",
+        "d": "Las respuestas a y b son correctas."
+      },
+      "explicacion": "El comisionista tiene la obligación principal de ejecutar el encargo (cumplir la comisión) y, una vez finalizado, debe informar y rendir cuentas de su gestión y de los fondos recibidos al comitente.\\n\n**Ejemplo práctico:** Si encargas a un estudio externo (comisionista) la rotoscopia de 50 planos, su obligación es entregar las máscaras terminadas (cumplir) y desglosar las horas y recursos utilizados en el reporte final (rendir cuentas).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El precio de la comisión, si no se pacta en el contrato, se fijará...",
+      "opciones": {
+        "a": "En relación a las horas invertidas.",
+        "b": "Un porcentaje del precio.",
+        "c": "Conforme al uso y práctica mercantil",
+        "d": "Lo que establezcan las tarifas del Canara de Comercio."
+      },
+      "explicacion": "Según la normativa mercantil, si las partes no han establecido una remuneración específica en el contrato de comisión, esta se determinará basándose en los usos y costumbres comerciales del lugar donde se ejecute.\\n\n**Ejemplo práctico:** Si un Head of CG contrata a un reclutador externo para buscar a un Senior FX Artist sin fijar su tarifa previamente, se le pagará el porcentaje estándar que se acostumbra cobrar en la industria de los VFX por ese tipo de reclutamiento (uso mercantil).",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "El contrato de agencia se regula en ...",
+      "opciones": {
+        "a": "El C.Comercio.",
+        "b": "En la Ley de 27 de Mayo de 1992.",
+        "c": "En el C.Civil.",
+        "d": "Es competencia de la Comunidades Autónomas."
+      },
+      "explicacion": "El contrato de agencia en España tiene su propia regulación específica, que es la Ley 12/1992, de 27 de mayo, sobre Contrato de Agencia, separándolo de la regulación general del Código de Comercio.\\n\n**Ejemplo práctico:** Un estudio de animación firma un contrato con un representante en Los Ángeles para que busque proyectos de Hollywood de forma continuada. Esta relación estable se rige por la Ley del Contrato de Agencia, protegiendo al representante si el estudio decide prescindir de él tras conseguir clientes clave.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La resolución del Contrato de Agencia debe hacerse..",
+      "opciones": {
+        "a": "Con un preaviso.",
+        "b": "No se precisa preaviso.",
+        "c": "Es imposible fuera del tiempo pactado.",
+        "d": "Es automática."
+      },
+      "explicacion": "El contrato de agencia mercantil exige buena fe y estabilidad. El preaviso es obligatorio legalmente para que la parte afectada pueda reorganizar su actividad comercial tras la ruptura de la relación, evitando daños económicos bruscos.\n\n\n\n**Ejemplo práctico:** Imagina que el estudio tiene un contrato de agencia con un representante en Los Ángeles para conseguir proyectos de Hollywood. Si decides terminar el contrato, debes darle un preaviso (ej. 3 meses) para que no se quede colgado de un día para otro, permitiéndole cerrar los tratos en curso (como los planos de una película) y buscar otros estudios a los que representar.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La indemnización por clientela en la resolución del contrato de agencia, puede alcanzar como máximo...",
+      "opciones": {
+        "a": "6 meses de comisiones.",
+        "b": "Un año de comisiones.",
+        "c": "Dos años de comisiones.",
+        "d": "No existe tope alguno."
+      },
+      "explicacion": "La indemnización por clientela compensa al agente por los clientes aportados que seguirán generando beneficios al empresario. Aunque la ley española general establece un tope de un año, la opción marcada en este material académico indica dos años, lo cual puede referirse a estipulaciones contractuales específicas o normativas particulares estudiadas en el curso.\n\n\n\n**Ejemplo práctico:** Tu representante en Asia consiguió que una gran desarrolladora sea cliente fijo del estudio para cinemáticas de videojuegos. Al terminar su contrato, él ya no cobrará comisión, pero tú seguirás trabajando con ellos. La indemnización le compensa por ese valor futuro que te deja, topada a dos años de sus comisiones promedio, evitando que el estudio pague indefinidamente por ese lead.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "¿Donde surge el contrato de franquicia?",
+      "opciones": {
+        "a": "En el Reino Unido.",
+        "b": "En Holanda.",
+        "c": "En China.",
+        "d": "En EE.UU."
+      },
+      "explicacion": "El modelo moderno de franquicia comercial tiene su origen histórico y desarrollo principal en los Estados Unidos, utilizado inicialmente por empresas de máquinas de coser en el siglo XIX y popularizado en el siglo XX por las cadenas de comida rápida para expandirse rápidamente sin asumir todo el coste de capital.\n\n\n\n**Ejemplo práctico:** Piensa en cómo un gran estudio de VFX de EE.UU. podría querer expandirse globalmente. Si en lugar de abrir una sede propia, permitieran que un estudio local en España use su marca, su pipeline propietario y sus metodologías a cambio de regalías, estarían usando un modelo similar a la franquicia, originado históricamente en el mercado estadounidense para escalar negocios.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Ejemplo típico del contrato de mediación o de corretaje es...",
+      "opciones": {
+        "a": "Corredores de Comercio.",
+        "b": "Representantes de Comercio",
+        "c": "Agentes inmobiliarios.",
+        "d": "Las respuestas a y c son correctas."
+      },
+      "explicacion": "El contrato de corretaje o mediación implica a un tercero imparcial que facilita la celebración de un contrato entre dos partes, sin estar vinculado a ninguna por subordinación. Los corredores de comercio y los agentes inmobiliarios son los ejemplos clásicos de esta figura jurídica.\n\n\n\n**Ejemplo práctico:** Como Head of CG, necesitas alquilar una granja de render externa (Render Farm) para llegar a la fecha de entrega. Contratas a un broker tecnológico que conoce a todos los proveedores de servidores en la nube. Este broker actúa como mediador: te conecta con el proveedor ideal y se lleva una comisión por cerrar el trato, pero no es empleado ni tuyo ni de la granja de render.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El contrato de leasing se denomina también como ...",
+      "opciones": {
+        "a": "De factoring.",
+        "b": "De arrendamiento financiero.",
+        "c": "De suministro.",
+        "d": "De compra a plazos."
+      },
+      "explicacion": "El término legal y técnico en español para el 'leasing' es 'arrendamiento financiero'. Se diferencia de un alquiler normal porque es un instrumento de financiación que incluye obligatoriamente una opción de compra a favor del usuario al final del período pactado.\n\n\n\n**Ejemplo práctico:** El estudio necesita renovar 50 estaciones de trabajo con las últimas GPUs para renderizar. En lugar de descapitalizarse comprándolas de golpe, firmas un contrato de arrendamiento financiero (leasing). Pagas una cuota mensual por usar los equipos durante 3 años y, al final del proyecto, tienes la opción de comprarlos por un valor residual o devolverlos para actualizar a hardware más nuevo.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

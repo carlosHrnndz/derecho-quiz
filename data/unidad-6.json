@@ -1,0 +1,126 @@
+{
+  "unidad": 6,
+  "titulo": "Autoevaluación Derecho de la Empresa I",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El aumento de capital puede realizarse..",
+      "opciones": {
+        "a": "Con cargo a reservas.",
+        "b": "Por compensación de créditos.",
+        "c": "Con aportaciones no dinerarias.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "El aumento de capital social puede llevarse a cabo mediante diversas modalidades legales, incluyendo la aportación de nuevo dinero, la aportación de bienes (no dinerarias), la transformación de reservas o beneficios ya existentes en la empresa, o la compensación de deudas (créditos). Por tanto, todas las opciones listadas son mecanismos válidos.\n\n**Ejemplo práctico:** Como Head of CG, decides aumentar el 'capital' de tu granja de render. Puedes hacerlo comprando nuevos nodos con dinero fresco (aportación dineraria), integrando servidores que un socio dona al estudio (aportación no dineraria), o usando el presupuesto sobrante del año pasado que estaba guardado para emergencias (cargo a reservas).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El derecho de suscripción preferente de acciones por los socios..",
+      "opciones": {
+        "a": "Es transmisible.",
+        "b": "Es intrasmisible.",
+        "c": "Depende de como lo establezcan los Estatutos.",
+        "d": "Depende del acuerdo de la Junta General."
+      },
+      "explicacion": "El derecho de suscripción preferente permite a los socios actuales mantener su porcentaje de participación en la sociedad cuando se emiten nuevas acciones. Este derecho es un derecho patrimonial y, por regla general en las sociedades de capital, es transmisible, lo que significa que el socio puede vender este derecho a terceros si no desea ejercerlo.\n\n**Ejemplo práctico:** Imagina que el estudio de VFX va a emitir nuevas licencias de un software propietario muy cotizado. Los artistas Senior (socios actuales) tienen el derecho preferente de adquirir estas licencias primero. Como este derecho es transmisible, un artista Senior que no necesite la licencia puede 'vender' o ceder su turno de compra a un artista Junior (un tercero) que sí la quiera.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La reducción nominal o contable, consiste...",
+      "opciones": {
+        "a": "Devolución de la aportación a los socios.",
+        "b": "Es una medida de saneamiento financiero.",
+        "c": "Disminución del valor nominal de las acciones.",
+        "d": "Respuestas b y c son las correctas."
+      },
+      "explicacion": "La reducción de capital nominal o contable no implica una salida real de fondos de la sociedad (no se devuelve dinero a los socios). Su objetivo principal es restablecer el equilibrio entre el capital y el patrimonio neto de la sociedad disminuido por consecuencia de pérdidas (saneamiento financiero), y se realiza habitualmente disminuyendo el valor nominal de las acciones existentes.\n\n**Ejemplo práctico:** Tras un proyecto desastroso, el estudio de animación tiene pérdidas y los discos duros (patrimonio) están llenos de assets inútiles. Para sanear el proyecto (saneamiento financiero), el Head of CG decide reducir el 'peso nominal' de cada asset en la base de datos (disminución del valor nominal), sin borrar los archivos reales ni devolver presupuesto al cliente, simplemente ajustando los números para reflejar la realidad del espacio disponible.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La reducción y aumento simultaneo del capital, se denomina...",
+      "opciones": {
+        "a": "Ajuste del capital.",
+        "b": "Liquidación legal.",
+        "c": "Operación acordeón.",
+        "d": "Concurso de acreedores."
+      },
+      "explicacion": "La 'operación acordeón' es una maniobra financiera y legal que consiste en reducir el capital social a cero o por debajo de la cifra mínima legal (generalmente para compensar pérdidas graves) e, inmediatamente y de forma simultánea, acordar un aumento de capital hasta una cantidad igual o superior a la mínima legal. Se llama así por el movimiento de 'encoger y estirar' el capital.\n\n**Ejemplo práctico:** El pipeline del estudio colapsa por completo debido a código heredado obsoleto (reducción a cero). Como Head of CG, ordenas borrar todo el código antiguo e, inmediatamente en la misma reunión, apruebas la inyección de un nuevo framework moderno y robusto (aumento simultáneo). Esta 'operación acordeón' salva la infraestructura técnica del estudio.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "La modificaciones estructurales de las sociedades se regulan...",
+      "opciones": {
+        "a": "En el Código de Comercio.",
+        "b": "En la ley de 24 de julio de 1973.",
+        "c": "En la Ley de 12 de Julio de 1988.",
+        "d": "En la Ley de 3 de Abril de 2009."
+      },
+      "explicacion": "En España, las modificaciones estructurales de las sociedades mercantiles (como la transformación, fusión, escisión y cesión global de activo y pasivo) están reguladas específicamente por la Ley 3/2009, de 3 de abril, sobre modificaciones estructurales de las sociedades mercantiles.\n\n**Ejemplo práctico:** Si tu estudio de VFX decide fusionarse con un estudio de captura de movimiento (mocap) para crear una nueva macro-empresa, esta 'modificación estructural' del negocio no se rige por las normas del día a día, sino por un protocolo legal específico (la Ley de 3 de Abril de 2009), al igual que integrar dos pipelines completamente distintos requiere seguir un protocolo de estandarización estricto (USD, por ejemplo) para que no colapse la producción.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "En las sociedades personalistas, la transformación, requiere el acuerdo..",
+      "opciones": {
+        "a": "De todos los socios.",
+        "b": "De la mayoría de los socios.",
+        "c": "De la mayoría de los socios y del capital.",
+        "d": "De una mayoría de dos tercios."
+      },
+      "explicacion": "En las sociedades personalistas (como la sociedad colectiva), la identidad y características personales de los socios son fundamentales. Por ello, cualquier cambio estructural profundo, como la transformación en otro tipo de sociedad, requiere el consentimiento unánime de todos los socios, ya que altera significativamente su régimen de responsabilidad y participación.\n\n\n\n**Ejemplo práctico:** Imagina un pequeño estudio de VFX fundado por tres artistas (sociedad personalista) donde todos responden con su patrimonio si algo sale mal. Si deciden transformarse en una Sociedad Limitada (SL) para proteger sus bienes personales ante un gran proyecto de Netflix, los tres fundadores deben estar 100% de acuerdo, ya que cambia radicalmente cómo asumen los riesgos del estudio.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Un sociedad después de su transformación..",
+      "opciones": {
+        "a": "Adquiere nueva personalidad jurídica.",
+        "b": "Continúa con su personalidad jurídica.",
+        "c": "Respuestas a y b son correctas.",
+        "d": "Ninguna respuesta es correcta."
+      },
+      "explicacion": "La transformación de una sociedad implica un cambio en su forma o tipo social (por ejemplo, de Sociedad Limitada a Sociedad Anónima), pero no supone la extinción de la persona jurídica original ni la creación de una nueva. La sociedad conserva su identidad, derechos, obligaciones y relaciones jurídicas previas bajo el nuevo ropaje legal.\n\n\n\n**Ejemplo práctico:** Un estudio de animación CG pasa de ser una Sociedad Limitada a una Sociedad Anónima para poder cotizar en bolsa y captar inversores. Aunque cambie su estructura legal, sigue siendo la misma entidad; por lo tanto, mantiene todos los contratos de confidencialidad (NDA) firmados con Marvel y las licencias de software de Maya o Nuke sin necesidad de renegociarlos.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "¿Cuál es la tercera fase en un proceso de fusión.?",
+      "opciones": {
+        "a": "La ejecutiva.",
+        "b": "La preparatoria.",
+        "c": "El proyecto de fusión.",
+        "d": "La aprobación por la Junta General."
+      },
+      "explicacion": "En el derecho mercantil, el proceso de fusión suele dividirse doctrinalmente en tres grandes fases: la fase preparatoria (redacción del proyecto de fusión por los administradores), la fase decisoria (aprobación por las Juntas Generales de las sociedades implicadas) y, finalmente, la fase ejecutiva (formalización en escritura pública, inscripción en el Registro Mercantil y publicación).\n\n\n\n**Ejemplo práctico:** Dos estudios de VFX deciden fusionarse. Primero redactan el plan (preparatoria), luego los dueños votan a favor (decisoria). La fase ejecutiva es cuando el Head of CG y los directivos finalmente firman las escrituras ante notario y registran la nueva mega-empresa, momento en el cual los pipelines de ambos estudios comienzan a integrarse legal y operativamente.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Plazo que tiene los acreedores para oponerse a una fusión.",
+      "opciones": {
+        "a": "Seis meses",
+        "b": "Tres meses .",
+        "c": "Un mes.",
+        "d": "Quince días."
+      },
+      "explicacion": "La normativa de modificaciones estructurales de las sociedades mercantiles establece que, una vez publicado el último anuncio del acuerdo de fusión, los acreedores de las sociedades participantes tienen un plazo estricto de un mes para oponerse a la misma si consideran que sus créditos no están suficientemente garantizados.\n\n\n\n**Ejemplo práctico:** Tu estudio de VFX se fusiona con una productora de sonido. La empresa que os alquila la granja de render en la nube (vuestro acreedor) lee el anuncio de fusión en el BORME. Tienen exactamente un mes para oponerse legalmente si temen que la nueva empresa fusionada no tenga liquidez para pagar las facturas pendientes del renderizado de la última película.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El balance de escisión debe ser aprobado por ...",
+      "opciones": {
+        "a": "Los auditores.",
+        "b": "El Registro Mercantil Central.",
+        "c": "La Junta General.",
+        "d": "La Comisión del Mercado de Valores."
+      },
+      "explicacion": "El balance de escisión es un documento contable fundamental que sirve de base para determinar el patrimonio que se va a segregar. Como documento clave que afecta a la estructura y valor de la sociedad, debe ser formulado por los administradores y obligatoriamente aprobado por la Junta General de accionistas o socios, que es el órgano soberano de la empresa.\n\n\n\n**Ejemplo práctico:** Un gran estudio de CG decide escindirse: separar su departamento de cinemáticas para videojuegos en una empresa independiente. El balance que detalla qué estaciones de trabajo, licencias de Houdini y deudas se van a esa nueva empresa debe ser presentado y aprobado por la Junta General (los dueños/inversores del estudio), ya que están dividiendo el patrimonio de la compañía.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

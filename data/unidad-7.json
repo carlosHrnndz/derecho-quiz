@@ -1,0 +1,126 @@
+{
+  "unidad": 7,
+  "titulo": "Autoevaluación Unidad 7 - Derecho de la Empresa I",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "En el caso de acciones al portador para la transmisión, se exige..",
+      "opciones": {
+        "a": "Intervención de fedatario publico,",
+        "b": "Entrega de los títulos.",
+        "c": "Mediación de una sociedad, agencia de valores o entidad de crédito.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "Para la transmisión de acciones al portador, la normativa mercantil suele exigir la intervención de un fedatario público (como un notario) para dotar de seguridad jurídica a la operación, certificar la identidad de las partes y legitimar el cambio de titularidad frente a terceros.\\n\n**Ejemplo práctico:** Como Head of CG, si tu estudio decide transferir la propiedad de un motor de render in-house a otra empresa, no basta con entregarles el código fuente en un disco duro (entrega del título); se requiere que un equipo legal o auditor externo (fedatario) certifique oficialmente la cesión de los derechos de propiedad intelectual para que tenga validez legal.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Las restricciones a las transmisiones de acciones mortis causa..",
+      "opciones": {
+        "a": "Se establecen en la Ley de Sociedades de Capital.",
+        "b": "Deben establecerse expresamente en los estatutos.",
+        "c": "Son ilegales.",
+        "d": "Solo caben entre familiares de primer grado."
+      },
+      "explicacion": "Las acciones son, por regla general, libremente transmisibles. Para que existan restricciones en caso de fallecimiento del titular (mortis causa) y evitar que las acciones pasen automáticamente a herederos que no interesan a la sociedad, estas limitaciones deben estar redactadas y aprobadas de forma explícita en los estatutos sociales de la empresa.\\n\n**Ejemplo práctico:** Si el Lead Technical Director de tu estudio de VFX fallece, sus acciones en la compañía no pasarán automáticamente a sus familiares si los estatutos del estudio establecen expresamente que los socios fundadores tienen derecho preferente de compra. Esto asegura que el control de las decisiones tecnológicas siga en manos de artistas y supervisores del estudio.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La adquisición por la sociedad de sus propias acciones...",
+      "opciones": {
+        "a": "No es admisible.",
+        "b": "Necesita el acuerdo de los acreedores.",
+        "c": "Tiene un limite cuantitativo.",
+        "d": "Necesita la autorización del Banco de España."
+      },
+      "explicacion": "Una sociedad mercantil puede adquirir sus propias acciones (lo que se conoce como autocartera), pero la ley impone un límite cuantitativo estricto (generalmente un porcentaje máximo del capital social, como el 10% o 20% dependiendo del tipo de sociedad) para proteger el patrimonio de la empresa y garantizar los derechos de los acreedores.\\n\n**Ejemplo práctico:** Imagina que el estudio de VFX decide reservar una parte de su propia granja de render (autocartera) exclusivamente para proyectos internos de I+D en lugar de alquilarla a clientes. Existe un límite cuantitativo de cuántos nodos puedes reservar sin poner en riesgo la capacidad del estudio para entregar los planos facturables a los clientes de Marvel o Netflix.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Las participaciones recíprocas entre sociedades...",
+      "opciones": {
+        "a": "Están prohibidas.",
+        "b": "Deben estar previstas en los estatutos.",
+        "c": "No están prohibidas pero si limitadas.",
+        "d": "Existe plena libertad para su realización."
+      },
+      "explicacion": "Las participaciones recíprocas (cuando la sociedad A tiene acciones de la sociedad B, y la sociedad B tiene acciones de la sociedad A) no están totalmente prohibidas, pero la ley las limita severamente (usualmente a un máximo del 10%) para evitar la creación de capitales ficticios y estructuras de control opacas que perjudiquen a los socios minoritarios.\\n\n**Ejemplo práctico:** Dos estudios de animación CG deciden intercambiar un porcentaje de sus acciones para fortalecer una alianza estratégica y compartir assets. Esto está permitido, pero limitado; no pueden cruzar el 50% de sus acciones, ya que se crearía un bucle de control irreal donde nadie sabría realmente quién es el dueño mayoritario de la tecnología compartida.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "En la transmisión de las participaciones de las sociedades de responsabilidad limitada...",
+      "opciones": {
+        "a": "Existe una libre transmisibilidad.",
+        "b": "No son transmisibles.",
+        "c": "Son transmisibles con restricciones.",
+        "d": "Debe determinarse su libre transmisibilidad en los Estatutos."
+      },
+      "explicacion": "A diferencia de las Sociedades Anónimas, las Sociedades de Responsabilidad Limitada (S.L.) tienen un carácter más cerrado y personalista. Por ello, la transmisión de participaciones a personas ajenas a la sociedad no es libre; está sujeta a restricciones legales (como el derecho de adquisición preferente de los demás socios) para mantener el control del grupo original.\\n\n**Ejemplo práctico:** Si un Senior Compositor que es socio de un pequeño estudio boutique de VFX decide irse y vender su parte, no puede vendérsela libremente a un estudio competidor. Por ley, tiene restricciones y debe ofrecer primero esas participaciones a los demás supervisores y artistas fundadores del estudio para proteger la confidencialidad de su pipeline.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La ley establece que son libres las transmisiones voluntarias de participaciones entre...",
+      "opciones": {
+        "a": "Socios.",
+        "b": "Cónyuge.",
+        "c": "Ascendientes.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "En las sociedades de responsabilidad limitada, la Ley de Sociedades de Capital establece que la transmisión voluntaria de participaciones por actos inter vivos es libre entre socios, así como a favor del cónyuge, ascendiente o descendiente del socio. Por lo tanto, todas las opciones mencionadas son correctas.\\n\n**Ejemplo práctico:** Imagina que eres el Head of CG en un estudio de VFX constituido como Sociedad Limitada junto con otros supervisores. Si decides retirarte, puedes transferir libremente tus participaciones a otro supervisor (socio), a tu esposo/a (cónyuge) o a tus padres (ascendientes) sin necesidad de aprobación previa de la junta, facilitando la reestructuración interna del estudio.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La disolución de una sociedad puede ser...",
+      "opciones": {
+        "a": "De pleno derecho.",
+        "b": "Por decisión de la Junta General.",
+        "c": "Mediante causas legitima.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "La disolución de una sociedad mercantil puede ocurrir por diversas vías legales: de pleno derecho (por el transcurso del término fijado), por acuerdo de la Junta General (voluntaria), o por la concurrencia de causas legítimas o legales (como la conclusión de la empresa que constituya su objeto). Todas las opciones representan vías válidas.\\n\n**Ejemplo práctico:** Un estudio de animación CG creado específicamente para producir una serie de 3 temporadas podría disolverse 'de pleno derecho' al terminar el plazo fijado en sus estatutos, por 'decisión de la Junta General' si los socios (Head of CG, Director, etc.) deciden cerrar antes, o por 'causa legítima' si se completa la serie y ese era su único objeto social.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Las causas de disolución de una sociedad...",
+      "opciones": {
+        "a": "Están enumeradas en las normas legales.",
+        "b": "Pueden añadirse otras sin excluir las legales.",
+        "c": "Pueden añadirse otras excluyendo las legales.",
+        "d": "Plena libertad de fijación."
+      },
+      "explicacion": "La ley establece un catálogo de causas legales de disolución que son de obligado cumplimiento. Sin embargo, en virtud del principio de autonomía de la voluntad, los estatutos sociales pueden establecer causas adicionales de disolución, siempre y cuando no eliminen ni contradigan las establecidas por la ley.\\n\n**Ejemplo práctico:** Como Head of CG, al fundar un nuevo estudio de VFX, la ley ya marca causas de disolución obligatorias (ej. pérdidas graves). Pero en los estatutos podéis añadir una causa extra: 'El estudio se disolverá si el software principal de renderizado que usamos deja de existir', añadiendo esta condición sin anular las causas legales.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "¿Cuándo finaliza la liquidación?",
+      "opciones": {
+        "a": "Con la inscripción en el Registro Mercantil.",
+        "b": "Con el completo pago de los acreedores.",
+        "c": "Con el cumplimiento del objeto social.",
+        "d": "Finalizado el tiempo de duración de la sociedad."
+      },
+      "explicacion": "El proceso de liquidación de una sociedad mercantil concluye formal y jurídicamente cuando los liquidadores otorgan la escritura pública de extinción de la sociedad y esta se inscribe en el Registro Mercantil, procediéndose a la cancelación de los asientos registrales.\\n\n**Ejemplo práctico:** Si tu estudio de VFX quiebra y entra en liquidación, venderéis las granjas de render y pagaréis a los artistas (acreedores). Sin embargo, la liquidación no termina oficialmente el día que pagáis la última nómina, sino el día que el liquidador inscribe la extinción del estudio en el Registro Mercantil, cerrando definitivamente su historial legal.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La cuota de liquidación a cada socio llegado el caso debe ser..",
+      "opciones": {
+        "a": "Proporcional a su participación.",
+        "b": "A partes iguales entre los socios.",
+        "c": "Conforme determinen los Estatutos.",
+        "d": "En consideración a su antigüedad."
+      },
+      "explicacion": "En el reparto del haber social durante la liquidación, la regla principal es que se hará conforme a lo que determinen los estatutos de la sociedad. Solo en defecto de disposición estatutaria, la cuota de liquidación será proporcional a la participación de cada socio en el capital social.\\n\n**Ejemplo práctico:** Al liquidar un estudio de animación CG, sobra un millón de euros tras vender los equipos. Aunque tú (Head of CG) tengas el 20% de las acciones, si los estatutos que firmasteis al inicio decían que en caso de liquidación el reparto sería a partes iguales entre los 4 fundadores, cobrarás el 25% conforme a lo dictado en dichos estatutos.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}
