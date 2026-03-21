@@ -11,7 +11,7 @@
         "c": "Ley 15/2009 de 11 de Noviembre",
         "d": "Las respuestas b y c son correctas."
       },
-      "explicacion": "La regulación del contrato de transporte terrestre en España se rige principalmente por la Ley de Ordenación de los Transportes Terrestres (LOTT, de 1987) y la Ley 15/2009 del Contrato de Transporte Terrestre de Mercancías, por lo que ambas respuestas son correctas en su conjunto normativo.2**Ejemplo práctico:** Como Head of CG, si externalizas el renderizado a una granja en otro país y envías servidores físicos, el contrato de transporte de ese hardware se rige por múltiples capas legales (leyes de transporte de 1987 y normativas de mercancías de 2009), similar a cómo un contrato de outsourcing de VFX incluye tanto NDAs generales como cláusulas específicas de entrega de assets.",
+      "explicacion": "La regulación del contrato de transporte terrestre en España se rige principalmente por la Ley de Ordenación de los Transportes Terrestres (LOTT, de 1987) y la Ley 15/2009 del Contrato de Transporte Terrestre de Mercancías, por lo que ambas respuestas son correctas en su conjunto normativo.\n\n**Ejemplo práctico:** Como Head of CG, si externalizas el renderizado a una granja en otro país y envías servidores físicos, el contrato de transporte de ese hardware se rige por múltiples capas legales (leyes de transporte de 1987 y normativas de mercancías de 2009), similar a cómo un contrato de outsourcing de VFX incluye tanto NDAs generales como cláusulas específicas de entrega de assets.",
       "respuesta_correcta": "d"
     },
     {
@@ -23,7 +23,7 @@
         "c": "Porteador.",
         "d": "Comisionista."
       },
-      "explicacion": "El porteador es la figura jurídica que asume la responsabilidad y la obligación de realizar el traslado físico de las mercancías o personas de un origen a un destino.2**Ejemplo práctico:** Si el estudio de VFX necesita enviar un disco duro encriptado con los brutos de cámara (plates) a un vendor de rotoscopia, la empresa de mensajería segura que contratas actúa como el 'porteador' responsable de que el disco llegue intacto.",
+      "explicacion": "El porteador es la figura jurídica que asume la responsabilidad y la obligación de realizar el traslado físico de las mercancías o personas de un origen a un destino.\n\n**Ejemplo práctico:** Si el estudio de VFX necesita enviar un disco duro encriptado con los brutos de cámara (plates) a un vendor de rotoscopia, la empresa de mensajería segura que contratas actúa como el 'porteador' responsable de que el disco llegue intacto.",
       "respuesta_correcta": "c"
     },
     {
@@ -35,7 +35,7 @@
         "c": "De orden público.",
         "d": "Carácter innegociable."
       },
-      "explicacion": "Que sean de índole dispositiva significa que la ley establece una norma por defecto, pero permite a las partes acordar condiciones diferentes (pactos en contrario) que se adapten mejor a sus necesidades comerciales.2**Ejemplo práctico:** Al contratar un servicio de transporte para equipos de captura de movimiento (mocap), la ley establece una indemnización por defecto en caso de pérdida, pero como Head of CG, puedes negociar una póliza de seguro a todo riesgo con el transportista que sustituya esa norma dispositiva general.",
+      "explicacion": "Que sean de índole dispositiva significa que la ley establece una norma por defecto, pero permite a las partes acordar condiciones diferentes (pactos en contrario) que se adapten mejor a sus necesidades comerciales.\n\n**Ejemplo práctico:** Al contratar un servicio de transporte para equipos de captura de movimiento (mocap), la ley establece una indemnización por defecto en caso de pérdida, pero como Head of CG, puedes negociar una póliza de seguro a todo riesgo con el transportista que sustituya esa norma dispositiva general.",
       "respuesta_correcta": "b"
     },
     {
@@ -47,7 +47,7 @@
         "c": "En la ley de Condiciones Generales de Contratación.",
         "d": "En la ley de Protección a Consumidores y Usuarios."
       },
-      "explicacion": "La Ley 15/2009 es la normativa específica que detalla qué información debe contener la carta de porte (remitente, destinatario, descripción de la mercancía, peso, etc.) y su valor como prueba del contrato.2**Ejemplo práctico:** La carta de porte es equivalente al 'Delivery Manifest' o 'Shot Submission List' que generas desde ShotGrid al enviar versiones finales al cliente; la Ley 15/2009 dicta los campos obligatorios de ese documento físico, igual que el cliente dicta los metadatos obligatorios de tu entrega digital.",
+      "explicacion": "La Ley 15/2009 es la normativa específica que detalla qué información debe contener la carta de porte (remitente, destinatario, descripción de la mercancía, peso, etc.) y su valor como prueba del contrato.\n\n**Ejemplo práctico:** La carta de porte es equivalente al 'Delivery Manifest' o 'Shot Submission List' que generas desde ShotGrid al enviar versiones finales al cliente; la Ley 15/2009 dicta los campos obligatorios de ese documento físico, igual que el cliente dicta los metadatos obligatorios de tu entrega digital.",
       "respuesta_correcta": "b"
     },
     {
@@ -59,7 +59,7 @@
         "c": "Tres.",
         "d": "Tantos como partes contratantes."
       },
-      "explicacion": "Se emiten tres ejemplares originales para garantizar la seguridad jurídica de todas las partes involucradas en el traslado: el primer ejemplar es para el cargador (remitente), el segundo viaja con la mercancía, y el tercero es para el porteador (transportista).2**Ejemplo práctico:** Cuando envías un LTO (cinta de backup) con el master final de la película a la productora, firmas tres copias del albarán: una te la quedas tú (estudio VFX/cargador), otra se la queda el mensajero (porteador) como prueba de recogida, y la tercera viaja pegada al paquete para que la firme el cliente (destinatario) al recibirlo.",
+      "explicacion": "Se emiten tres ejemplares originales para garantizar la seguridad jurídica de todas las partes involucradas en el traslado: el primer ejemplar es para el cargador (remitente), el segundo viaja con la mercancía, y el tercero es para el porteador (transportista).\n\n**Ejemplo práctico:** Cuando envías un LTO (cinta de backup) con el master final de la película a la productora, firmas tres copias del albarán: una te la quedas tú (estudio VFX/cargador), otra se la queda el mensajero (porteador) como prueba de recogida, y la tercera viaja pegada al paquete para que la firme el cliente (destinatario) al recibirlo.",
       "respuesta_correcta": "c"
     },
     {
@@ -71,7 +71,7 @@
         "c": "Quien aporta los medios mecanizados de carga y descarga.",
         "d": "Una figura actualmente inexistente."
       },
-      "explicacion": "En el derecho mercantil, el cargador es la persona física o jurídica que contrata en nombre propio la realización de un transporte y frente a la cual el porteador se obliga a efectuarlo. Es quien entrega la mercancía al transportista.\2\2**Ejemplo práctico:** Como Head of CG, necesitas enviar unos servidores de render (render nodes) a otra sede del estudio. Tú (el estudio) actúas como 'cargador' al contratar a una empresa de logística (el porteador) y comprometerte a entregarles los costosos servidores para que los lleven al nuevo destino.",
+      "explicacion": "En el derecho mercantil, el cargador es la persona física o jurídica que contrata en nombre propio la realización de un transporte y frente a la cual el porteador se obliga a efectuarlo. Es quien entrega la mercancía al transportista.\n\n**Ejemplo práctico:** Como Head of CG, necesitas enviar unos servidores de render (render nodes) a otra sede del estudio. Tú (el estudio) actúas como 'cargador' al contratar a una empresa de logística (el porteador) y comprometerte a entregarles los costosos servidores para que los lleven al nuevo destino.",
       "respuesta_correcta": "a"
     },
     {
@@ -83,7 +83,7 @@
         "c": "Por mercancía peligrosa.",
         "d": "Por variación del precio del gasóleo."
       },
-      "explicacion": "La normativa de transporte terrestre permite la revisión del precio del transporte por carretera si se producen variaciones significativas en el precio del combustible (gasóleo), ya que es un coste directo y fluctuante que afecta enormemente la viabilidad del servicio para el transportista.\2\2**Ejemplo práctico:** Imagina que contratas a una empresa externa para transportar el equipo de captura de movimiento (mocap) a un set de rodaje en otra ciudad. Si el precio del combustible se dispara repentinamente, el transportista puede aplicar una revisión legal de la tarifa acordada inicialmente para compensar ese sobrecoste imprevisto, similar a cómo un proveedor de render en la nube podría ajustar sus tarifas si el coste de la electricidad sube drásticamente.",
+      "explicacion": "La normativa de transporte terrestre permite la revisión del precio del transporte por carretera si se producen variaciones significativas en el precio del combustible (gasóleo), ya que es un coste directo y fluctuante que afecta enormemente la viabilidad del servicio para el transportista.\n\n**Ejemplo práctico:** Imagina que contratas a una empresa externa para transportar el equipo de captura de movimiento (mocap) a un set de rodaje en otra ciudad. Si el precio del combustible se dispara repentinamente, el transportista puede aplicar una revisión legal de la tarifa acordada inicialmente para compensar ese sobrecoste imprevisto, similar a cómo un proveedor de render en la nube podría ajustar sus tarifas si el coste de la electricidad sube drásticamente.",
       "respuesta_correcta": "d"
     },
     {
@@ -95,7 +95,7 @@
         "c": "Existe una remisión a los usos del comercio.",
         "d": "Se acude a la tarifa oficial correspondiente."
       },
-      "explicacion": "Cuando en un contrato mercantil de transporte no se ha pactado expresamente el precio, la ley establece que no se presume gratuito, sino que se debe acudir a los usos del comercio o tarifas habituales del mercado para determinar la contraprestación económica justa.\2\2**Ejemplo práctico:** Si como Head of CG pides a un estudio de sonido de confianza que te envíe unos discos duros con los audios finales de urgencia y no habláis de precio por las prisas, no significa que el envío sea gratis. Se asumirá que pagarás la tarifa estándar que se suele cobrar en la industria por ese tipo de mensajería urgente y segura.",
+      "explicacion": "Cuando en un contrato mercantil de transporte no se ha pactado expresamente el precio, la ley establece que no se presume gratuito, sino que se debe acudir a los usos del comercio o tarifas habituales del mercado para determinar la contraprestación económica justa.\n\n**Ejemplo práctico:** Si como Head of CG pides a un estudio de sonido de confianza que te envíe unos discos duros con los audios finales de urgencia y no habláis de precio por las prisas, no significa que el envío sea gratis. Se asumirá que pagarás la tarifa estándar que se suele cobrar en la industria por ese tipo de mensajería urgente y segura.",
       "respuesta_correcta": "c"
     },
     {
@@ -107,7 +107,7 @@
         "c": "No se regulan.",
         "d": "Se remiten a lo que establezcan las Comunidades Autónomas."
       },
-      "explicacion": "Las normas que regulan la responsabilidad del porteador en la Ley de Contrato de Transporte Terrestre de Mercancías son de carácter imperativo. Esto significa que no pueden ser modificadas por acuerdo entre las partes para rebajar o anular dicha responsabilidad, protegiendo así al usuario del servicio frente a cláusulas abusivas.\2\2**Ejemplo práctico:** Si envías las workstations de alta gama de los artistas de VFX a sus casas para teletrabajo, la empresa de transporte no puede obligarte a firmar una cláusula donde ellos se eximen totalmente de responsabilidad si rompen los monitores durante el trayecto. La ley impone su responsabilidad de forma imperativa, independientemente de lo que diga su contrato estándar.",
+      "explicacion": "Las normas que regulan la responsabilidad del porteador en la Ley de Contrato de Transporte Terrestre de Mercancías son de carácter imperativo. Esto significa que no pueden ser modificadas por acuerdo entre las partes para rebajar o anular dicha responsabilidad, protegiendo así al usuario del servicio frente a cláusulas abusivas.\n\n**Ejemplo práctico:** Si envías las workstations de alta gama de los artistas de VFX a sus casas para teletrabajo, la empresa de transporte no puede obligarte a firmar una cláusula donde ellos se eximen totalmente de responsabilidad si rompen los monitores durante el trayecto. La ley impone su responsabilidad de forma imperativa, independientemente de lo que diga su contrato estándar.",
       "respuesta_correcta": "b"
     },
     {
@@ -119,7 +119,7 @@
         "c": "Un plazo especial de entrega.",
         "d": "Una habilitación especial para su ejercicio."
       },
-      "explicacion": "En los contratos de mudanza, debido a la naturaleza variada, usada y a menudo personal de los bienes transportados, la ley establece particularidades como un límite de indemnización específico en caso de pérdida o daño, el cual suele ser diferente al del transporte de mercancías comerciales nuevas.\2\2**Ejemplo práctico:** Si el estudio de VFX decide mudarse a unas oficinas más grandes y contrata un servicio de mudanza para trasladar todo el mobiliario y equipos, la ley establece un límite máximo de indemnización por kilo o bulto en caso de que el camión tenga un accidente y se dañen las tabletas gráficas o los escritorios, a menos que el estudio haya declarado un valor superior y pagado un seguro adicional previamente.",
+      "explicacion": "En los contratos de mudanza, debido a la naturaleza variada, usada y a menudo personal de los bienes transportados, la ley establece particularidades como un límite de indemnización específico en caso de pérdida o daño, el cual suele ser diferente al del transporte de mercancías comerciales nuevas.\n\n**Ejemplo práctico:** Si el estudio de VFX decide mudarse a unas oficinas más grandes y contrata un servicio de mudanza para trasladar todo el mobiliario y equipos, la ley establece un límite máximo de indemnización por kilo o bulto en caso de que el camión tenga un accidente y se dañen las tabletas gráficas o los escritorios, a menos que el estudio haya declarado un valor superior y pagado un seguro adicional previamente.",
       "respuesta_correcta": "b"
     }
   ]
