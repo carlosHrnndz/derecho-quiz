@@ -1,0 +1,126 @@
+{
+  "unidad": 16,
+  "titulo": "Autoevaluación: Derecho de la Empresa II - Contrato de Seguro",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "1 la ley de Contrato de Seguro de 8 de Octubre de 1980...",
+      "opciones": {
+        "a": "Deroga disposiciones del C.Civil.",
+        "b": "Deroga disposiciones del C.Comercio.",
+        "c": "Es de marcado carácter imperativo.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "La Ley de Contrato de Seguro de 1980 en España unificó la normativa derogando artículos previos del Código Civil y del Código de Comercio. Además, se diseñó con un fuerte carácter imperativo para proteger a la parte más débil (el asegurado) frente a las aseguradoras, impidiendo que se incluyan cláusulas abusivas. Por ello, todas las afirmaciones son correctas.\n**Ejemplo práctico:** Como Head of CG, si firmas un seguro para proteger los assets digitales del estudio, sabes que la ley imperativa te respalda; si la aseguradora intenta colar una cláusula abusiva en la letra pequeña que te deje sin cobertura ante un fallo de los servidores, esa cláusula se considerará nula, de forma similar a cómo un pipeline estricto bloquea la subida de archivos corruptos al repositorio principal.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "En el contrato de seguro un elemento esencial y diferencial de ese 2 contrato es, que es...",
+      "opciones": {
+        "a": "Aleatorio.",
+        "b": "Conmutativo.",
+        "c": "Dispositivo.",
+        "d": "Entre partes distintas."
+      },
+      "explicacion": "El contrato de seguro es por naturaleza 'aleatorio'. Esto significa que la obligación principal de la aseguradora (pagar la indemnización) depende de un evento incierto o de azar (el siniestro), el cual no se sabe si ocurrirá o cuándo ocurrirá.\n**Ejemplo práctico:** Imagina que el estudio paga una prima anual para asegurar la granja de render (render farm). El contrato es aleatorio porque el estudio paga una cantidad fija, pero la aseguradora solo desembolsará dinero si ocurre un evento incierto, como que un cortocircuito queme las GPUs durante el renderizado final de una secuencia de VFX.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El documento en el que se consigan los contratos de seguros, se 3 denominan...",
+      "opciones": {
+        "a": "No tienen nombre especial.",
+        "b": "Póliza.",
+        "c": "Prima.",
+        "d": "Carta de pago."
+      },
+      "explicacion": "La 'póliza' es el documento formal, físico o digital, en el que se plasman todas las condiciones, coberturas, exclusiones y detalles del contrato de seguro acordado entre el tomador y la compañía aseguradora.\n**Ejemplo práctico:** Cuando el estudio de VFX es contratado por una major de Hollywood para una superproducción, el cliente exige ver la 'póliza' del seguro de Errores y Omisiones (E&O). Este documento es la prueba legal de que el estudio está cubierto si, por ejemplo, un artista de concept art infringe accidentalmente el copyright de un diseño de un tercero.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "4 Los Corredores de Seguros ...",
+      "opciones": {
+        "a": "Tienen vinculo exclusivo con una aseguradora.",
+        "b": "Es personal asalariado de la aseguradora.",
+        "c": "Dictan arbitrajes sobre seguros.",
+        "d": "Ejercen libremente su actividad mediadora, sin vínculos exclusivos."
+      },
+      "explicacion": "Los corredores de seguros son profesionales independientes cuya principal característica es que no están atados a ninguna compañía aseguradora en particular. Actúan como mediadores libres, buscando en todo el mercado la póliza que mejor se adapte a las necesidades de su cliente.\n**Ejemplo práctico:** Como Head of CG, necesitas asegurar equipos muy específicos y costosos, como trajes de captura de movimiento (mocap) y licencias de software. En lugar de ir a una sola aseguradora, contratas a un corredor de seguros, quien actúa como un 'freelance' independiente que evalúa a múltiples compañías para encontrar la mejor cobertura para el estudio, sin tener exclusividad con ninguna.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "5 Para cubrir los riesgos extraordinarios, se creo ...",
+      "opciones": {
+        "a": "El Fondo de Garantía salarial.",
+        "b": "El Fondo de Garantía de Depósitos.",
+        "c": "Los Corredores de Seguros.",
+        "d": "El Consorcio de Compensación de Seguros."
+      },
+      "explicacion": "El Consorcio de Compensación de Seguros es una entidad pública española adscrita al Ministerio de Economía. Su función principal es indemnizar los daños producidos por riesgos extraordinarios (como desastres naturales, terrorismo o actuaciones de las Fuerzas Armadas) que las pólizas de seguros privadas estándar no cubren.\n**Ejemplo práctico:** Si una inundación catastrófica (un riesgo extraordinario) destruye las oficinas del estudio de animación y arruina todas las workstations de los artistas 3D, el seguro privado estándar podría rechazar el siniestro. En este caso, el Consorcio de Compensación de Seguros entraría en acción para indemnizar al estudio y permitir que la producción de la película continúe.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuando la prima es una sola cantidad para toda la duración del seguro, se llama...",
+      "opciones": {
+        "a": "Prima periódica.",
+        "b": "Prima a tanto alzado.",
+        "c": "Prima única.",
+        "d": "No es posible este tipo de pago."
+      },
+      "explicacion": "La prima única es aquella en la que el tomador del seguro paga una sola vez por toda la cobertura durante la vigencia del contrato, a diferencia de las primas periódicas que se pagan mensual o anualmente.\n\n**Ejemplo práctico:** Como Head of CG, contratas un seguro de responsabilidad civil para un proyecto de largometraje animado que durará 3 años. En lugar de pagar cuotas mensuales, decides abonar una 'prima única' al inicio de la producción para cubrir cualquier eventualidad de pérdida de datos o daños a terceros durante toda la duración del proyecto, simplificando así la gestión del presupuesto.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuando coincide el valor del interés y la suma asegurada se denomina...",
+      "opciones": {
+        "a": "Seguro pleno.",
+        "b": "Infraseguro.",
+        "c": "Sobreseguro.",
+        "d": "Seguro correlativo."
+      },
+      "explicacion": "El seguro pleno ocurre cuando la suma asegurada estipulada en la póliza es exactamente igual al valor real del interés asegurado, garantizando una indemnización completa sin caer en sobreseguro o infraseguro.\n\n**Ejemplo práctico:** El estudio adquiere una nueva granja de render (Render Farm) valorada exactamente en 500.000 euros. Como Head of CG, te aseguras de que la póliza de seguro cubra exactamente esos 500.000 euros. Esto es un 'seguro pleno', garantizando que si un incendio destruye los servidores, recuperarás el valor exacto para reemplazarlos sin pagar primas excesivas ni quedar corto de fondos.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "En la ley de Contrato de Seguro, la subrogación de derechos se regula en el artº...",
+      "opciones": {
+        "a": "47",
+        "b": "49",
+        "c": "43",
+        "d": "52"
+      },
+      "explicacion": "El artículo 43 de la Ley de Contrato de Seguro española (Ley 50/1980) establece que el asegurador, una vez pagada la indemnización, puede subrogarse en los derechos y acciones del asegurado contra los terceros responsables del siniestro.\n\n**Ejemplo práctico:** Un proveedor externo de software causa un fallo masivo que corrompe los archivos de simulación de fluidos de tu equipo de FX. El seguro del estudio paga la indemnización por los días de trabajo perdidos. Según el art. 43, la aseguradora ahora tiene el derecho de 'subrogarse' y demandar al proveedor de software para recuperar el dinero que te acaban de pagar, liberando al Head of CG de tener que gestionar esa disputa legal.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "La necesidad de los contratos de seguro obligatorios viene determinada...",
+      "opciones": {
+        "a": "Desarrollo de actividades consideradas de riesgo.",
+        "b": "Causas sociales.",
+        "c": "Economía de la Administración",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "Los seguros obligatorios se imponen por ley debido a múltiples factores, incluyendo la protección frente a actividades de alto riesgo, la protección social de las víctimas y la reducción de cargas económicas para la Administración Pública al evitar que el Estado asuma todos los costes de los siniestros.\n\n**Ejemplo práctico:** Para operar drones de captura de fotogrametría en un set de rodaje, la ley exige un seguro obligatorio. Esto se debe al riesgo de que el dron caiga sobre un actor (riesgo), para asegurar que el actor reciba atención médica sin arruinarse (causa social) y para que el sistema de salud público no tenga que asumir el coste de un accidente privado (economía de la Administración). Como Head of CG, debes verificar que el equipo de drones tenga esta póliza antes de volar.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El Seguro de Defensa Jurídica se incorpora a la legislación española por ...",
+      "opciones": {
+        "a": "Ley de 19 de diciembre de 1990.",
+        "b": "Ley de Competencia Desleal.",
+        "c": "Ley 15/2009 de 11 de Noviembre",
+        "d": "ley de Mediación de Seguros Privados."
+      },
+      "explicacion": "El Seguro de Defensa Jurídica fue regulado e incorporado de forma específica en la legislación española mediante la Ley 34/1990, de 19 de diciembre, adaptando la normativa a las directivas europeas sobre la materia.\n\n**Ejemplo práctico:** Un artista freelance demanda al estudio alegando que no se le pagaron horas extras durante el 'crunch time' de entrega de unos planos de composición (Compositing). Gracias a que el estudio cuenta con un Seguro de Defensa Jurídica (regulado desde la Ley de 19 de diciembre de 1990), los gastos de abogados y procuradores para defender al estudio en los tribunales están cubiertos, permitiendo al Head of CG centrarse en la producción y no en los costes legales.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "unidad": 18,
+  "titulo": "Autoevaluación Unidad 18 - Derecho de la Empresa II",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El I.C.O. es ...",
+      "opciones": {
+        "a": "Un Banco.",
+        "b": "Una Caja de Ahorros.",
+        "c": "Una entidad de crédito dependiente del Estado.",
+        "d": "Un Fondo de Garantía de Depósitos."
+      },
+      "explicacion": "El I.C.O. (Instituto de Crédito Oficial) es un banco público con forma jurídica de entidad pública empresarial, adscrita al Ministerio de Asuntos Económicos. Su función es financiar actividades económicas que contribuyan al crecimiento y mejora de la distribución de la riqueza nacional.\\n**Ejemplo práctico:** Imagina que el I.C.O. es como el departamento de I+D central financiado por la productora principal (el Estado). Como Head of CG, no acudes a ellos para el presupuesto diario de un plano, sino para obtener subvenciones o préstamos a bajo interés para desarrollar un nuevo pipeline de renderizado en la nube que beneficiará a toda la industria nacional de VFX.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Las Cajas de Ahorros...",
+      "opciones": {
+        "a": "No reparten beneficios",
+        "b": "Responden a sus accionistas.",
+        "c": "No son entidades de crédito.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "Las Cajas de Ahorros tienen una naturaleza fundacional y finalidad social. A diferencia de los bancos (sociedades anónimas), no tienen accionistas a los que repartir dividendos; sus beneficios se destinan a reservas y a la Obra Social.\\n**Ejemplo práctico:** Piensa en una Caja de Ahorros como una fundación de software open-source (como la Blender Foundation). Como Head of CG, sabes que si esta fundación genera ingresos extra por donaciones o licencias de soporte, no reparte dividendos entre inversores privados, sino que reinvierte todo ese 'beneficio' en mejorar las herramientas de animación y simulaciones para la comunidad.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Para garantizar los intereses de los depositantes, en caso de insolvencia de un entidad de crédito...",
+      "opciones": {
+        "a": "Se creo el I.C.O.",
+        "b": "Responde el Banco de España.",
+        "c": "Se creo el Fondo de Garantía de Depósitos.",
+        "d": "Hay que ir al Concurso de acreedores."
+      },
+      "explicacion": "El Fondo de Garantía de Depósitos (FGD) tiene como objetivo garantizar los depósitos en dinero y en valores constituidos en las entidades de crédito, hasta un límite determinado, en caso de que la entidad quiebre o sea insolvente.\\n**Ejemplo práctico:** El Fondo de Garantía de Depósitos es como el sistema de copias de seguridad automatizadas (backups) en servidores externos (off-site) de tu estudio. Si el servidor principal de almacenamiento (la entidad de crédito) sufre un fallo catastrófico y se pierden los datos de los proyectos, este sistema de backup garantiza que los assets y renders de los clientes (los depositantes) estén protegidos y puedan recuperarse hasta un límite de terabytes establecido.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El dinero captado por una entidad de crédito, se llama técnicamente...",
+      "opciones": {
+        "a": "Pasivo.",
+        "b": "Activo.",
+        "c": "Circulante.",
+        "d": "Deposito."
+      },
+      "explicacion": "En contabilidad bancaria, el dinero que los clientes depositan en el banco representa una obligación para la entidad, ya que debe devolverlo. Por lo tanto, se clasifica como Pasivo. Los préstamos que el banco otorga, por el contrario, son su Activo.\\n**Ejemplo práctico:** En la gestión de recursos de tu estudio, el dinero captado (Pasivo) es equivalente a las horas de render en granja externa que has pre-comprado pero aún no has consumido. Es un recurso que tienes disponible, pero representa una 'deuda' o compromiso de uso frente al proveedor. Por el contrario, el Activo serían las licencias de software perpetuas que ya posees y generan valor directo para tus artistas.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "La apertura de un crédito en cuenta corriente, en el trafico mercantil, se denomina...",
+      "opciones": {
+        "a": "Cuenta a la vista.",
+        "b": "Cuenta a la orden.",
+        "c": "Póliza de crédito.",
+        "d": "crédito documentario."
+      },
+      "explicacion": "Una póliza de crédito es un contrato mercantil por el cual la entidad financiera pone a disposición del cliente un límite de dinero en una cuenta, del cual el cliente puede disponer según sus necesidades, pagando intereses solo por la cantidad efectivamente utilizada.\\n**Ejemplo práctico:** Una póliza de crédito funciona exactamente igual que un contrato de licencias flotantes 'pay-per-use' (pago por uso) para software de simulación de fluidos. Como Head of CG, tienes un límite máximo de 50 licencias disponibles al instante para picos de trabajo, pero el estudio solo paga por las licencias que los artistas de FX realmente activan y utilizan durante esos días intensos, no por el total disponible.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuando el crédito no se solicita a favor de quien lo pide, sino de un tercero , se denomina...",
+      "opciones": {
+        "a": "Apertura de crédito impropia.",
+        "b": "Apertura de crédito a favor de tercero.",
+        "c": "No es posible.",
+        "d": "Póliza excepcional."
+      },
+      "explicacion": "En derecho bancario, la apertura de crédito impropia ocurre cuando el acreditado (quien solicita el crédito) estipula que los fondos se pongan a disposición de una tercera persona. Es una figura jurídica específica que difiere de la apertura de crédito estándar donde el beneficiario es el mismo solicitante.\n**Ejemplo práctico:** Como Head of CG, negocias una línea de crédito con el banco a nombre del estudio principal, pero estipulas que los fondos sean utilizados exclusivamente por una casa productora externa (un tercero) que contrataste para realizar la captura de movimiento (mocap) de un proyecto.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El crédito documentario esta regulado en nuestro derecho en..",
+      "opciones": {
+        "a": "Código de Comercio",
+        "b": "Código Civil.",
+        "c": "La ley Cambiaria y del Cheque.",
+        "d": "No esta regulado."
+      },
+      "explicacion": "El crédito documentario es un contrato atípico en el derecho español, lo que significa que carece de una regulación legal específica en el Código de Comercio o el Código Civil. Se rige principalmente por la voluntad de las partes y por las Reglas y Usos Uniformes relativos a los Créditos Documentarios (UCP) de la Cámara de Comercio Internacional.\n**Ejemplo práctico:** Imagina que como Head of CG acuerdas un flujo de trabajo de renderizado en la nube con una granja de servidores en otro país. El contrato de pago condicionado a la entrega de los frames renderizados (similar a un crédito documentario) no tiene una ley local específica que lo dicte paso a paso, sino que se rige por los estándares internacionales de la industria y lo que estipulen en el contrato de servicios.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El contrato de descuento bancario es un contrato ...",
+      "opciones": {
+        "a": "Formal.",
+        "b": "No formal.",
+        "c": "Exige escritura publica.",
+        "d": "Exige intervención de corredor de comercio."
+      },
+      "explicacion": "El contrato de descuento bancario es consensual y no formal, lo que significa que se perfecciona por el mero consentimiento de las partes sin requerir una forma escrita específica (como una escritura pública) para su validez legal, aunque en la práctica bancaria siempre se documente por escrito por seguridad.\n**Ejemplo práctico:** Un cliente aprueba un comercial de animación y promete pagar a 90 días. Como Head of CG necesitas liquidez inmediata para pagar a los artistas de iluminación. Llevas esa factura al banco para que te adelanten el dinero (descuento bancario). Este acuerdo con el banco es válido por el simple consentimiento entre ambas partes, sin necesidad de ir a un notario para elevarlo a escritura pública.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Al contrato de préstamo bancario le es de aplicación la regulación...",
+      "opciones": {
+        "a": "Comunitaria.",
+        "b": "General del préstamo.",
+        "c": "Es un contrato atípico.",
+        "d": "Lo que acuerden las partes."
+      },
+      "explicacion": "El préstamo bancario, aunque tiene particularidades por la intervención de una entidad de crédito, se rige supletoriamente por las normas generales del contrato de préstamo (mutuo) establecidas en el Código de Comercio y el Código Civil, además de la normativa específica de disciplina y transparencia bancaria.\n**Ejemplo práctico:** El estudio necesita comprar 50 nuevas estaciones de trabajo para el departamento de simulación de fluidos (FX). Como Head of CG, solicitas un préstamo bancario. Aunque el banco tiene sus propias cláusulas, la base legal de ese acuerdo sigue las reglas generales de cualquier préstamo de dinero estipuladas en el código civil y mercantil.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Las tarjetas bancarias de pago pueden ser...",
+      "opciones": {
+        "a": "De débito.",
+        "b": "De crédito.",
+        "c": "De garantía.",
+        "d": "Las respuestas a y b son correctas."
+      },
+      "explicacion": "Las tarjetas bancarias de pago se clasifican principalmente en tarjetas de débito (donde el cargo se realiza instantáneamente contra el saldo disponible en la cuenta) y tarjetas de crédito (donde el banco adelanta los fondos y el cliente paga posteriormente, a menudo con intereses).\n**Ejemplo práctico:** Como Head of CG, proporcionas a tus supervisores tarjetas corporativas para comprar assets 3D o plugins de emergencia. Algunas son de débito, descontando el dinero directamente del presupuesto actual del departamento, y otras son de crédito, permitiendo financiar licencias de software costosas para pagarlas al mes siguiente cuando ingrese el pago del cliente.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

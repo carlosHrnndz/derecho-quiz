@@ -1,0 +1,126 @@
+{
+  "unidad": 19,
+  "titulo": "Autoevaluación de Derecho de la Empresa II - Títulos Valores",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La tendencia actual es sustituir los títulos valores por...",
+      "opciones": {
+        "a": "Hipotecas.",
+        "b": "Anotaciones en cuenta.",
+        "c": "Acciones.",
+        "d": "Depósitos."
+      },
+      "explicacion": "La desmaterialización de los títulos valores es una tendencia moderna donde los documentos físicos en papel se sustituyen por registros electrónicos o informáticos (anotaciones en cuenta) para agilizar las transacciones y aumentar la seguridad.\n**Ejemplo práctico:** Como Head of CG, en lugar de tener discos duros físicos (títulos valores) circulando por el estudio con los assets de cada plano, implementas un sistema de control de versiones en la nube o servidor central (anotaciones en cuenta) donde los permisos y la propiedad de cada archivo se registran digitalmente, agilizando el pipeline.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La creación del concepto de los títulos valores empieza en ..",
+      "opciones": {
+        "a": "La Edad media.",
+        "b": "En el Renacimiento.",
+        "c": "En el siglo XIX",
+        "d": "En el siglo XX"
+      },
+      "explicacion": "Aunque los instrumentos de crédito como la letra de cambio existían desde la Edad Media, la dogmática jurídica y la construcción teórica del 'título valor' como concepto unitario se desarrolló principalmente en Alemania e Italia durante el siglo XIX por juristas como Savigny.\n**Ejemplo práctico:** Aunque los efectos visuales básicos (como maquetas o stop motion) existían desde los inicios del cine, la estandarización del pipeline moderno de CG (modelado, rigging, animación, lighting, compo) como un concepto unificado y estructurado se estableció mucho después, similar a cómo el concepto jurídico se formalizó en el siglo XIX.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Los títulos valores pueden ser...",
+      "opciones": {
+        "a": "Al portador",
+        "b": "A la orden",
+        "c": "Nominativos.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "Los títulos valores se clasifican según su forma de circulación y designación del titular. Pueden ser al portador (quien lo posee es el dueño), a la orden (designan a una persona pero pueden endosarse) o nominativos (designan a una persona específica y su transmisión requiere más formalidades).\n**Ejemplo práctico:** Imagina las licencias de software en el estudio: algunas son 'al portador' (dongles USB que cualquiera puede conectar y usar), otras 'a la orden' (licencias flotantes asignables a diferentes artistas según la necesidad del proyecto) y otras 'nominativas' (licencias node-locked atadas a la máquina de un artista específico).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "En el aspecto jurídico material a los títulos valores se les da un tratamiento de ...",
+      "opciones": {
+        "a": "Bienes inmuebles.",
+        "b": "Bienes muebles.",
+        "c": "Derechos inmateriales.",
+        "d": "Documentos públicos."
+      },
+      "explicacion": "Jurídicamente, el documento físico que incorpora el derecho (el título valor) se considera una cosa corporal y, por tanto, recibe el tratamiento de bien mueble, lo que permite su fácil transmisión, compraventa o uso como garantía.\n**Ejemplo práctico:** Aunque el valor real de un render final es el derecho de propiedad intelectual (inmaterial), el disco duro físico o la cinta LTO donde se entrega al cliente se trata como un 'bien mueble' en el inventario del estudio, sujeto a logística y transporte físico.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Los títulos que no tiene plenamente los caracteres de literalidad y autonomía se denominan..",
+      "opciones": {
+        "a": "títulos al portador.",
+        "b": "títulos a la orden.",
+        "c": "títulos impropios",
+        "d": "títulos perjudicados."
+      },
+      "explicacion": "Los títulos impropios o documentos de legitimación son aquellos que, aunque sirven para identificar a quien tiene derecho a una prestación (como un billete de tren o una ficha de guardarropa), no poseen las características completas de literalidad y autonomía propias de los verdaderos títulos valores.\n**Ejemplo práctico:** Un ticket de soporte de IT interno para arreglar una workstation es un 'título impropio'. Legitima al artista para recibir asistencia, pero no tiene un valor autónomo que pueda ser transferido o vendido a otro estudio, a diferencia de un contrato formal de cesión de derechos de un asset 3D.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Los títulos causales son los que ...",
+      "opciones": {
+        "a": "Designan los contratantes.",
+        "b": "No existen.",
+        "c": "Están ligados a la relación anterior.",
+        "d": "Están sometidos a condición."
+      },
+      "explicacion": "Los títulos causales son aquellos en los que la obligación documental sigue vinculada al negocio jurídico subyacente (la causa) que motivó su emisión. Si el negocio base es nulo o se incumple, afecta la validez o exigibilidad del título.\n**Ejemplo práctico:** Imagina que firmas un contrato (el título causal) con un estudio externo para que realicen la rotoscopia de 50 planos. El pago está directamente ligado a la entrega de esos planos específicos (la relación anterior). Si el estudio no entrega los planos de rotoscopia, el contrato de pago pierde su validez porque la causa que lo originó no se cumplió.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Los títulos de tradición se llaman también títulos ...",
+      "opciones": {
+        "a": "De representación de mercancías.",
+        "b": "De costumbre.",
+        "c": "De entrega.",
+        "d": "De valores a la vista."
+      },
+      "explicacion": "Los títulos de tradición (o representativos) son aquellos que otorgan a su poseedor legítimo el derecho a la entrega de unas mercancías determinadas, la posesión de las mismas y el poder de disponer de ellas mediante la transferencia del título.\n**Ejemplo práctico:** Piensa en un disco duro encriptado que contiene los assets finales de una película. El 'título de tradición' sería el albarán de entrega o el token de acceso criptográfico. Quien posee ese token (el título) tiene el derecho de representación y acceso a los assets digitales (las mercancías) almacenados en el servidor, pudiendo transferir ese derecho a otro departamento.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Por el modo de designar al titular, los títulos se clasifican en ...",
+      "opciones": {
+        "a": "Nominativos.",
+        "b": "Al portador.",
+        "c": "A la orden.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "En el derecho mercantil, los títulos valores se clasifican según cómo designan a su titular en tres grandes grupos: nominativos (designan a una persona específica), a la orden (designan a una persona que puede endosarlo a otra) y al portador (legitiman a quien posea el documento).\n**Ejemplo práctico:** En la gestión de licencias de software de render, puedes tener licencias 'nominativas' asignadas a un artista específico (node-locked), licencias 'a la orden' que un Lead puede reasignar a otro artista según la necesidad del plano, y licencias 'al portador' (flotantes) que cualquier artista conectado al servidor de licencias puede usar simplemente por tener acceso a la red.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El C. Comercio en su artº 544 y ss. regula ...",
+      "opciones": {
+        "a": "La prenda.",
+        "b": "Los títulos al portador.",
+        "c": "El préstamo.",
+        "d": "La fianza."
+      },
+      "explicacion": "El Código de Comercio español, a partir de su artículo 544, establece la regulación específica para los títulos al portador, definiendo cómo se emiten, transmiten y los derechos que confieren a su legítimo poseedor.\n**Ejemplo práctico:** Como Head of CG, estableces un 'Código de Producción' interno. En el artículo 544 de tu manual de pipeline, regulas los 'títulos al portador', que en este caso serían los discos duros externos (shuttles) sin encriptar. Quien tenga físicamente el disco duro en su mesa tiene acceso a los brutos de cámara, por lo que estableces normas estrictas sobre su manejo y transferencia física en el estudio.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Los títulos al portador ...",
+      "opciones": {
+        "a": "Tienen fuerza ejecutiva.",
+        "b": "No tiene fuerza ejecutiva.",
+        "c": "Deben ser ratificados judicialmente.",
+        "d": "Exigen el protesto notarial."
+      },
+      "explicacion": "Los títulos al portador, al ser documentos que llevan incorporado un derecho de crédito y legitiman a su poseedor, tienen fuerza ejecutiva. Esto significa que permiten acudir a un procedimiento judicial rápido (juicio ejecutivo) para reclamar el cumplimiento de la obligación si esta no se satisface voluntariamente.\n**Ejemplo práctico:** Un cliente te entrega un cheque al portador como anticipo para empezar los efectos visuales de un comercial. Este cheque tiene 'fuerza ejecutiva': si al ir al banco no tiene fondos, el estudio de VFX puede iniciar inmediatamente un proceso de embargo contra el cliente sin tener que demostrar en un juicio largo que se hizo el trabajo, ya que el propio documento garantiza el derecho de cobro.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

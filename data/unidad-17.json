@@ -1,0 +1,126 @@
+{
+  "unidad": 17,
+  "titulo": "Autoevaluación Derecho de la Empresa II",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Que texto legal define el contrato de fianza.",
+      "opciones": {
+        "a": "El C. de Comercio .",
+        "b": "El C. Civil.",
+        "c": "La ley Cambiaria y del Cheque.",
+        "d": "La Ley del Mercado de Valores."
+      },
+      "explicacion": "El Código Civil es el cuerpo legal que define y regula el contrato de fianza, estableciendo que por la fianza una persona se obliga a pagar o cumplir por un tercero en caso de que este no lo haga.\n**Ejemplo práctico:** Como Head of CG, subcontratas a un pequeño estudio para realizar simulaciones de fluidos. La empresa matriz de ese estudio firma un contrato de fianza (regulado por el Código Civil), garantizando que si el estudio no entrega los cachés a tiempo, la matriz cubrirá los costes de contratar a artistas freelance para terminar los planos.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "En el contrato de fianza, el fiador antes de pagar puede excepcionar, con el ...",
+      "opciones": {
+        "a": "Beneficio de excusión.",
+        "b": "Beneficio de división.",
+        "c": "No puede alegar excepciones.",
+        "d": "Las respuestas a y b son correctas."
+      },
+      "explicacion": "El fiador cuenta con dos beneficios principales: el de excusión (el acreedor debe perseguir primero los bienes del deudor principal) y el de división (si hay varios fiadores, la deuda se divide entre ellos).\n**Ejemplo práctico:** Tu estudio de VFX adquiere licencias de software de renderizado a crédito, y dos empresas asociadas actúan como fiadoras. Si tu estudio no paga, el proveedor de software debe intentar embargar primero las cuentas de tu estudio (beneficio de excusión). Si aún falta dinero, el proveedor debe reclamar la deuda dividida a partes iguales entre las dos empresas asociadas, no el total a una sola (beneficio de división).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La garantía de pago al primer requerimiento, tiene su origen en ...",
+      "opciones": {
+        "a": "EE.UU.",
+        "b": "Francia.",
+        "c": "Alemania.",
+        "d": "España."
+      },
+      "explicacion": "La garantía a primer requerimiento (o a primera demanda) tiene su origen en la práctica bancaria y el derecho alemán (Garantievertrag), creada para agilizar el comercio internacional al permitir cobrar la garantía sin tener que demostrar el incumplimiento del deudor.\n**Ejemplo práctico:** Como Head of CG, encargas la fabricación de un rig animatrónico a un proveedor internacional y estableces una garantía a primer requerimiento. Si el rig llega defectuoso al set de rodaje, puedes exigir al banco el pago inmediato de la garantía para recuperar los fondos al instante y alquilar otro equipo, sin esperar a un juicio por incumplimiento de contrato.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "En nuestro derecho, como garantías reales se distingue...",
+      "opciones": {
+        "a": "La Hipoteca.",
+        "b": "La fianza.",
+        "c": "La prenda.",
+        "d": "Las respuestas a y c son correctas."
+      },
+      "explicacion": "Las garantías reales son aquellas que recaen sobre bienes concretos. La hipoteca recae generalmente sobre bienes inmuebles, y la prenda sobre bienes muebles. La fianza, por el contrario, es una garantía personal.\n**Ejemplo práctico:** Para financiar la expansión del departamento de 3D, el estudio utiliza el propio edificio de las oficinas como garantía (hipoteca) y pone como garantía adicional todo el inventario de estaciones de trabajo y monitores de alta gama (prenda). Ambas son garantías reales que aseguran el préstamo del banco.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las prendas registrales , implican...",
+      "opciones": {
+        "a": "Desposesión del objeto pignorado",
+        "b": "No desposesión del objeto pignorado",
+        "c": "Traslado de la posesión.",
+        "d": "Trasferencia de la propiedad."
+      },
+      "explicacion": "La prenda registral (o prenda sin desplazamiento) permite que el deudor conserve la posesión del bien pignorado para poder seguir utilizándolo en su actividad económica, mientras que el derecho del acreedor queda protegido mediante su inscripción en un registro público.\n**Ejemplo práctico:** El estudio necesita liquidez y pignora su granja de render (render farm) mediante una prenda registral. Como Head of CG, esto es vital para ti porque implica la 'no desposesión': el equipo de Lighting y FX puede seguir enviando trabajos a la granja de render todos los días para terminar la película, a pesar de que los servidores estén actuando como garantía de un préstamo bancario.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La Prenda sin Desplazamiento se reguló por la ley de fecha...",
+      "opciones": {
+        "a": "16-dic-54",
+        "b": "20-Enr-62",
+        "c": "23-dic-95",
+        "d": "11-Spt-73"
+      },
+      "explicacion": "La Ley de 16 de diciembre de 1954 sobre hipoteca mobiliaria y prenda sin desplazamiento de posesión es la norma fundamental en España que regula estas figuras jurídicas, permitiendo usar bienes muebles como garantía sin perder su uso.\n**Ejemplo práctico:** Como Head of CG, necesitas financiar la compra de nuevas licencias de software de renderizado (bienes muebles). Utilizas la prenda sin desplazamiento para poner las licencias como garantía del préstamo, pero sigues utilizándolas en el estudio para terminar los planos de la película sin interrumpir la producción.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La regulación de la hipoteca de bienes inmuebles , se remite a ...",
+      "opciones": {
+        "a": "Código Civil.",
+        "b": "Legislación Hipotecaria.",
+        "c": "Código de Comercio",
+        "d": "Registro Civil."
+      },
+      "explicacion": "La hipoteca inmobiliaria se rige principalmente por la Ley Hipotecaria y su Reglamento, que establecen los requisitos de constitución, inscripción en el Registro de la Propiedad y ejecución, siendo una normativa específica separada del Código Civil general.\n**Ejemplo práctico:** El estudio de VFX decide comprar un nuevo edificio para albergar el departamento de animación. Para financiarlo, el estudio constituye una hipoteca sobre el propio edificio. Todo este proceso de registro y garantía del inmueble se rige por la Legislación Hipotecaria, asegurando que el banco tenga su garantía mientras los artistas trabajan en las instalaciones.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Por el Real Decreto de 22 de septiembre de 1917 se regulo...",
+      "opciones": {
+        "a": "La prenda industrial.",
+        "b": "La prenda aceitera.",
+        "c": "La prenda agrícola y ganadera.",
+        "d": "Todas las respuestas son incorrectas."
+      },
+      "explicacion": "El Real Decreto de 22 de septiembre de 1917 fue una norma histórica en España que reguló específicamente la prenda agrícola y ganadera, permitiendo a los agricultores y ganaderos obtener crédito dando en garantía sus cosechas o animales sin tener que entregarlos físicamente.\n**Ejemplo práctico:** Imagina que en lugar de un estudio de VFX, gestionas una granja de servidores (render farm). Si existiera una 'prenda tecnológica' similar a la agrícola de 1917, podrías dar en garantía la 'cosecha' de frames renderizados o los propios nodos de render para obtener crédito, manteniendo los servidores operativos para entregar el proyecto a tiempo.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "La hipoteca de establecimiento mercantil tiene una extensión...",
+      "opciones": {
+        "a": "Necesaria.",
+        "b": "Normal.",
+        "c": "Convencional.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "La hipoteca de establecimiento mercantil comprende una extensión necesaria (derecho de arrendamiento, instalaciones fijas), una extensión normal (derechos de propiedad intelectual, maquinaria) y una extensión convencional (mercaderías, materias primas). Por tanto, abarca todas estas modalidades dependiendo del pacto y la ley.\n**Ejemplo práctico:** Si el estudio de VFX se hipoteca como establecimiento mercantil, la extensión necesaria incluiría el local alquilado y el cableado de red fijo. La extensión normal abarcaría los servidores y las patentes de los pipelines desarrollados internamente. La extensión convencional podría incluir los discos duros de repuesto en el almacén. Como Head of CG, debes saber qué activos del estudio están comprometidos.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuando una maquina industrial se halle en una tienda o almacén abierto al público...",
+      "opciones": {
+        "a": "No es susceptible de hipoteca.",
+        "b": "Es susceptible de hipoteca.",
+        "c": "Es susceptible de hipoteca, si puede identificarse.",
+        "d": "Es susceptible de hipoteca, si puede registrarse."
+      },
+      "explicacion": "Según la Ley de Hipoteca Mobiliaria y Prenda sin Desplazamiento, los bienes destinados a la venta en tiendas o almacenes abiertos al público no son susceptibles de hipoteca mobiliaria, ya que su destino es la enajenación constante y no ofrecen una garantía estable para el acreedor.\n**Ejemplo práctico:** Si tu estudio de VFX también tiene una pequeña tienda física donde vende merchandising o hardware de segunda mano al público, las tarjetas gráficas expuestas en el escaparate para su venta inmediata no pueden ser hipotecadas. El banco no las aceptaría como garantía porque cualquier cliente podría entrar y comprarlas, desapareciendo el bien que respalda el préstamo.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

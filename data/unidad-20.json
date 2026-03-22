@@ -1,0 +1,126 @@
+{
+  "unidad": 20,
+  "titulo": "Autoevaluación: Derecho de la Empresa II - Letra de Cambio",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La regulación internacional de la letra de cambio se realizó en..",
+      "opciones": {
+        "a": "1930",
+        "b": "1950",
+        "c": "1985",
+        "d": "No existe."
+      },
+      "explicacion": "La regulación internacional de la letra de cambio se unificó principalmente mediante las Convenciones de Ginebra de 1930, que establecieron una ley uniforme para facilitar el comercio internacional.\\n**Ejemplo práctico:** Imagina que en 1930 varios estudios de VFX de distintos países acordaron usar un formato estándar como el EXR para entregar secuencias de imágenes, asegurando que cualquier software de composición en el mundo pudiera leer los archivos sin problemas de compatibilidad, igual que la convención unificó las reglas de la letra de cambio.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Son caracteres generales de la letra de cambio...",
+      "opciones": {
+        "a": "Que es un título formal.",
+        "b": "Que puede realizarse en cualquier documento.",
+        "c": "Que debe contener una obligación.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "La letra de cambio es un título valor estrictamente formal. Esto significa que su validez legal depende de que cumpla con todos los requisitos de formato y contenido exigidos por la ley; no puede hacerse en cualquier documento informal.\\n**Ejemplo práctico:** Es como el 'naming convention' estricto en el pipeline de un estudio de animación. Si un asset no sigue la nomenclatura exacta (ej. 'char_hero_v01'), el sistema automatizado lo rechaza y no se publica, al igual que una letra de cambio pierde su validez si no cumple con su formato legal.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Como elementos personales de la letra de cambio se distinguen..",
+      "opciones": {
+        "a": "Librador.",
+        "b": "Tomador.",
+        "c": "Librado.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "En una letra de cambio intervienen tres figuras principales: el librador (quien emite el documento), el librado (quien debe pagar) y el tomador (quien recibe el pago). Por lo tanto, todas las opciones mencionadas son correctas.\\n**Ejemplo práctico:** Piensa en la subcontratación de un plano complejo. El Head of CG (Librador) emite una orden de trabajo, el estudio de VFX externo que realizará el trabajo (Librado) acepta la responsabilidad de entregarlo, y el cliente final o director (Tomador) es quien recibirá el plano terminado.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La ley Cambiaria y del Cheque, respecto a la forma de la letra diferencia entre requisitos ...",
+      "opciones": {
+        "a": "Esenciales y subsanables.",
+        "b": "Accidentales.",
+        "c": "Necesarios e insubsanables.",
+        "d": "Personales y materiales."
+      },
+      "explicacion": "La ley distingue entre aquellos requisitos que son absolutamente esenciales (sin los cuales el documento no se considera una letra de cambio) y aquellos que, si faltan, la propia ley suple o permite corregir (subsanables) para no invalidar el documento.\\n**Ejemplo práctico:** Al lanzar un render en la granja, hay configuraciones esenciales (como la cámara correcta o el frame range) que si faltan, el render es inútil. Sin embargo, hay errores subsanables, como un pase de AOV secundario faltante que se puede recalcular rápidamente sin tener que tirar todo el render de belleza de nuevo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las letras de cambio con vencimientos imposibles...",
+      "opciones": {
+        "a": "Son nulas.",
+        "b": "Se consideran letras a la vista.",
+        "c": "Deben subsanarse.",
+        "d": "Se consideran cheques."
+      },
+      "explicacion": "Para proteger la validez del documento y el derecho de cobro, la ley establece que si una letra de cambio indica una fecha de vencimiento imposible (por ejemplo, 30 de febrero), no se anula, sino que automáticamente se considera pagadera 'a la vista', es decir, en el momento de su presentación.\\n**Ejemplo práctico:** Si un coordinador de producción junior pone una fecha de entrega imposible en el software de tracking (ej. entregar un plano full CG en 1 hora), el Head of CG asume automáticamente que el plano es de prioridad máxima y debe entregarse 'ASAP' (a la vista), en cuanto esté listo, para no detener el pipeline.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "En la letra de cambio, la cláusula de intereses es..",
+      "opciones": {
+        "a": "Obligatoria.",
+        "b": "Nula.",
+        "c": "Facultativa.",
+        "d": "Esencial."
+      },
+      "explicacion": "En el derecho cambiario, la cláusula de intereses en una letra de cambio no es un requisito indispensable para su validez, sino que las partes pueden decidir incluirla voluntariamente si así lo acuerdan, haciéndola facultativa.\n**Ejemplo práctico:** Imagina que estás cerrando el presupuesto para la postproducción de una película. El desglose de planos tiene un costo base acordado. Añadir una cláusula de 'overages' por iteraciones extra del cliente es facultativo; el contrato es válido sin ella, pero puedes incluirla para proteger los márgenes del estudio si el cliente pide más cambios de los previstos.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La aceptación de la letra de cambio es ...",
+      "opciones": {
+        "a": "Una declaración formal.",
+        "b": "No es una declaración formal.",
+        "c": "Un acto notarial.",
+        "d": "Un contrato subyacente."
+      },
+      "explicacion": "La aceptación de la letra de cambio es la declaración por la que el librado asume la obligación de pagar. En el contexto de esta pregunta, se destaca que 'No es una declaración formal' en el sentido de no requerir escritura pública o notarial, bastando la firma en el documento.\n**Ejemplo práctico:** Piensa en la aprobación de un 'Daily' por parte del Director. No necesita un documento notarial o un contrato formal complejo cada vez que aprueba un plano de simulación de fluidos; basta con su 'OK' en la herramienta de revisión (como ShotGrid) para que el equipo de CG sepa que el trabajo está aceptado.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Para acreditar la falta de aceptación, la vía ordinaria es la ..",
+      "opciones": {
+        "a": "Del protesto notarial.",
+        "b": "Del requerimiento judicial.",
+        "c": "Del acto de conciliación.",
+        "d": "La vía de regreso."
+      },
+      "explicacion": "El protesto notarial es el acto público que sirve para acreditar fehacientemente que la letra de cambio no ha sido aceptada o pagada, abriendo la vía para reclamar el pago a los obligados.\n**Ejemplo práctico:** Si un cliente externo se niega a pagar el hito final de entrega de los renders en 4K, el Head of CG no se limita a enviar un email quejándose. Se requiere un acta de entrega formal y, si hay impago, una notificación legal certificada (el equivalente al protesto notarial) para dejar constancia oficial de que el estudio cumplió y el cliente no.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "La forma típica de transmisión de la letra de cambio es...",
+      "opciones": {
+        "a": "La compraventa.",
+        "b": "La cesión de créditos.",
+        "c": "El endoso.",
+        "d": "El préstamo."
+      },
+      "explicacion": "El endoso es la declaración cambiaria escrita en la propia letra por la que el tenedor transmite a otra persona los derechos de cobro. Es el mecanismo típico diseñado para la circulación de este título valor.\n**Ejemplo práctico:** Supongamos que tu estudio de VFX subcontrata la rotoscopia a un estudio externo. En lugar de pagarles en efectivo, les cedes los derechos de cobro de una factura pendiente de un cliente confiable. Este traspaso directo del derecho a cobrar por el trabajo realizado es como el endoso, permitiendo que el valor circule.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El endoso\" sin mi responsabilidad\"...",
+      "opciones": {
+        "a": "No existe.",
+        "b": "Es un contrato atípico.",
+        "c": "Es un endoso limitado.",
+        "d": "Las respuestas b y c son correctas."
+      },
+      "explicacion": "La cláusula 'sin mi responsabilidad' en un endoso permite al endosante transmitir la letra eximiéndose de garantizar la aceptación o el pago frente a tenedores posteriores, considerándose un endoso limitado.\n**Ejemplo práctico:** Como Head of CG, entregas un asset 3D a otro departamento para que lo animen, pero añades una nota: 'Aprobado para layout, pero sin mi responsabilidad si el rig falla en poses extremas'. Estás pasando el asset (endoso) pero limitando tu responsabilidad sobre problemas futuros que no te corresponden garantizar.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}
