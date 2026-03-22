@@ -11,7 +11,7 @@
         "c": "Es de marcado carácter imperativo.",
         "d": "Todas las respuestas son correctas."
       },
-      "explicacion": "La Ley de Contrato de Seguro de 1980 en España unificó la normativa derogando artículos previos del Código Civil y del Código de Comercio. Además, se diseñó con un fuerte carácter imperativo para proteger a la parte más débil (el asegurado) frente a las aseguradoras, impidiendo que se incluyan cláusulas abusivas. Por ello, todas las afirmaciones son correctas.\n**Ejemplo práctico:** Como Head of CG, si firmas un seguro para proteger los assets digitales del estudio, sabes que la ley imperativa te respalda; si la aseguradora intenta colar una cláusula abusiva en la letra pequeña que te deje sin cobertura ante un fallo de los servidores, esa cláusula se considerará nula, de forma similar a cómo un pipeline estricto bloquea la subida de archivos corruptos al repositorio principal.",
+      "explicacion": "La Ley de Contrato de Seguro de 1980 en España unificó la normativa derogando artículos previos del Código Civil y del Código de Comercio. Además, se diseñó con un fuerte carácter imperativo para proteger a la parte más débil (el asegurado) frente a las aseguradoras, impidiendo que se incluyan cláusulas abusivas. Por ello, todas las afirmaciones son correctas.\n\n**Ejemplo práctico:** Como Head of CG, si firmas un seguro para proteger los assets digitales del estudio, sabes que la ley imperativa te respalda; si la aseguradora intenta colar una cláusula abusiva en la letra pequeña que te deje sin cobertura ante un fallo de los servidores, esa cláusula se considerará nula, de forma similar a cómo un pipeline estricto bloquea la subida de archivos corruptos al repositorio principal.",
       "respuesta_correcta": "d"
     },
     {
@@ -23,7 +23,7 @@
         "c": "Dispositivo.",
         "d": "Entre partes distintas."
       },
-      "explicacion": "El contrato de seguro es por naturaleza 'aleatorio'. Esto significa que la obligación principal de la aseguradora (pagar la indemnización) depende de un evento incierto o de azar (el siniestro), el cual no se sabe si ocurrirá o cuándo ocurrirá.\n**Ejemplo práctico:** Imagina que el estudio paga una prima anual para asegurar la granja de render (render farm). El contrato es aleatorio porque el estudio paga una cantidad fija, pero la aseguradora solo desembolsará dinero si ocurre un evento incierto, como que un cortocircuito queme las GPUs durante el renderizado final de una secuencia de VFX.",
+      "explicacion": "El contrato de seguro es por naturaleza 'aleatorio'. Esto significa que la obligación principal de la aseguradora (pagar la indemnización) depende de un evento incierto o de azar (el siniestro), el cual no se sabe si ocurrirá o cuándo ocurrirá.\n\n**Ejemplo práctico:** Imagina que el estudio paga una prima anual para asegurar la granja de render (render farm). El contrato es aleatorio porque el estudio paga una cantidad fija, pero la aseguradora solo desembolsará dinero si ocurre un evento incierto, como que un cortocircuito queme las GPUs durante el renderizado final de una secuencia de VFX.",
       "respuesta_correcta": "a"
     },
     {
@@ -35,7 +35,7 @@
         "c": "Prima.",
         "d": "Carta de pago."
       },
-      "explicacion": "La 'póliza' es el documento formal, físico o digital, en el que se plasman todas las condiciones, coberturas, exclusiones y detalles del contrato de seguro acordado entre el tomador y la compañía aseguradora.\n**Ejemplo práctico:** Cuando el estudio de VFX es contratado por una major de Hollywood para una superproducción, el cliente exige ver la 'póliza' del seguro de Errores y Omisiones (E&O). Este documento es la prueba legal de que el estudio está cubierto si, por ejemplo, un artista de concept art infringe accidentalmente el copyright de un diseño de un tercero.",
+      "explicacion": "La 'póliza' es el documento formal, físico o digital, en el que se plasman todas las condiciones, coberturas, exclusiones y detalles del contrato de seguro acordado entre el tomador y la compañía aseguradora.\n\n**Ejemplo práctico:** Cuando el estudio de VFX es contratado por una major de Hollywood para una superproducción, el cliente exige ver la 'póliza' del seguro de Errores y Omisiones (E&O). Este documento es la prueba legal de que el estudio está cubierto si, por ejemplo, un artista de concept art infringe accidentalmente el copyright de un diseño de un tercero.",
       "respuesta_correcta": "b"
     },
     {
@@ -47,7 +47,7 @@
         "c": "Dictan arbitrajes sobre seguros.",
         "d": "Ejercen libremente su actividad mediadora, sin vínculos exclusivos."
       },
-      "explicacion": "Los corredores de seguros son profesionales independientes cuya principal característica es que no están atados a ninguna compañía aseguradora en particular. Actúan como mediadores libres, buscando en todo el mercado la póliza que mejor se adapte a las necesidades de su cliente.\n**Ejemplo práctico:** Como Head of CG, necesitas asegurar equipos muy específicos y costosos, como trajes de captura de movimiento (mocap) y licencias de software. En lugar de ir a una sola aseguradora, contratas a un corredor de seguros, quien actúa como un 'freelance' independiente que evalúa a múltiples compañías para encontrar la mejor cobertura para el estudio, sin tener exclusividad con ninguna.",
+      "explicacion": "Los corredores de seguros son profesionales independientes cuya principal característica es que no están atados a ninguna compañía aseguradora en particular. Actúan como mediadores libres, buscando en todo el mercado la póliza que mejor se adapte a las necesidades de su cliente.\n\n**Ejemplo práctico:** Como Head of CG, necesitas asegurar equipos muy específicos y costosos, como trajes de captura de movimiento (mocap) y licencias de software. En lugar de ir a una sola aseguradora, contratas a un corredor de seguros, quien actúa como un 'freelance' independiente que evalúa a múltiples compañías para encontrar la mejor cobertura para el estudio, sin tener exclusividad con ninguna.",
       "respuesta_correcta": "d"
     },
     {
@@ -59,7 +59,7 @@
         "c": "Los Corredores de Seguros.",
         "d": "El Consorcio de Compensación de Seguros."
       },
-      "explicacion": "El Consorcio de Compensación de Seguros es una entidad pública española adscrita al Ministerio de Economía. Su función principal es indemnizar los daños producidos por riesgos extraordinarios (como desastres naturales, terrorismo o actuaciones de las Fuerzas Armadas) que las pólizas de seguros privadas estándar no cubren.\n**Ejemplo práctico:** Si una inundación catastrófica (un riesgo extraordinario) destruye las oficinas del estudio de animación y arruina todas las workstations de los artistas 3D, el seguro privado estándar podría rechazar el siniestro. En este caso, el Consorcio de Compensación de Seguros entraría en acción para indemnizar al estudio y permitir que la producción de la película continúe.",
+      "explicacion": "El Consorcio de Compensación de Seguros es una entidad pública española adscrita al Ministerio de Economía. Su función principal es indemnizar los daños producidos por riesgos extraordinarios (como desastres naturales, terrorismo o actuaciones de las Fuerzas Armadas) que las pólizas de seguros privadas estándar no cubren.\n\n**Ejemplo práctico:** Si una inundación catastrófica (un riesgo extraordinario) destruye las oficinas del estudio de animación y arruina todas las workstations de los artistas 3D, el seguro privado estándar podría rechazar el siniestro. En este caso, el Consorcio de Compensación de Seguros entraría en acción para indemnizar al estudio y permitir que la producción de la película continúe.",
       "respuesta_correcta": "d"
     },
     {
