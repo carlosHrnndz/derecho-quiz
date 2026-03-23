@@ -1,0 +1,126 @@
+{
+  "unidad": 23,
+  "titulo": "Derecho de la Empresa II - Autoevaluación",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Para el supuesto de que el pasivo fuese superior al activo, estaba prevista...",
+      "opciones": {
+        "a": "La quiebra.",
+        "b": "La suspensión de pagos.",
+        "c": "La quita y espera.",
+        "d": "El aplazamiento de pago."
+      },
+      "explicacion": "Históricamente, cuando una empresa tiene un pasivo superior a su activo, se encuentra en insolvencia definitiva, conocida como 'quiebra'.\n\n**Ejemplo práctico:** Como Head of CG, si tu estudio adquiere granjas de render y licencias por 2 millones de euros (pasivo), pero el valor de los equipos y proyectos actuales (activo) es solo de 1 millón, esta insolvencia patrimonial equivale a la quiebra.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La ley 22/2003 de 9 de Julio se denomina...",
+      "opciones": {
+        "a": "Ley del Mercado de Valores.",
+        "b": "Ley de Cambiaria y del Cheque.",
+        "c": "Ley Concursal.",
+        "d": "Ley de Arbitraje."
+      },
+      "explicacion": "La Ley 22/2003 es la normativa española conocida como Ley Concursal, que unificó los procedimientos de insolvencia en el concurso de acreedores.\n\n**Ejemplo práctico:** Si el estudio de animación CG entra en crisis y no puede pagar a los artistas de VFX, el departamento legal invocará la Ley Concursal para reestructurar la deuda o liquidar el estudio ordenadamente.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El Juzgado que conoce los concursos de acreedores es el ...",
+      "opciones": {
+        "a": "Civil.",
+        "b": "Contencioso administrativo.",
+        "c": "Mercantil.",
+        "d": "Social."
+      },
+      "explicacion": "Los Juzgados de lo Mercantil son los órganos especializados con competencia exclusiva para tramitar los concursos de acreedores.\n\n**Ejemplo práctico:** Si el estudio de VFX se declara en concurso de acreedores tras la cancelación de una gran producción, el caso no irá a un juzgado civil ordinario, sino a un Juzgado de lo Mercantil, especializado en empresas.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Las normas de derecho internacional privado de la Ley Concursal estan el el titulo...",
+      "opciones": {
+        "a": "IX",
+        "b": "XI",
+        "c": "XII",
+        "d": "IV"
+      },
+      "explicacion": "En la Ley Concursal original, el Título IX regula las normas de derecho internacional privado, determinando la competencia y ley aplicable en concursos transfronterizos.\n\n**Ejemplo práctico:** Si tu estudio de VFX tiene sede en España pero cuenta con una filial de animación en Canadá y servidores en Reino Unido, el Título IX determinará qué leyes internacionales aplican al quebrar.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuando la estimación inicial del pasivo no supere los 10.000.000 e., se irá a ...",
+      "opciones": {
+        "a": "Procedimiento ordinario.",
+        "b": "Procedimiento menor cuantía.",
+        "c": "Procedimiento abreviado.",
+        "d": "Procedimiento monitorio."
+      },
+      "explicacion": "La legislación prevé un procedimiento abreviado para agilizar trámites en insolvencias menores, aplicable cuando la estimación del pasivo no supera ciertos límites (como 10.000.000 euros).\n\n**Ejemplo práctico:** Si diriges un estudio boutique de VFX y las deudas por licencias de software ascienden a 2 millones de euros (menos de 10 millones), el proceso legal se tramitará mediante un procedimiento abreviado, ahorrando costes.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "No procede el concurso de acreedores respecto de ...",
+      "opciones": {
+        "a": "Ayuntamientos.",
+        "b": "Diputaciones.",
+        "c": "Autonomías.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "Las entidades públicas territoriales (Ayuntamientos, Diputaciones, Comunidades Autónomas, Estado) no pueden ser declaradas en concurso de acreedores según la Ley Concursal española, ya que se rigen por principios de derecho público y presupuestario que garantizan su solvencia y continuidad de servicios públicos.\n\n**Ejemplo práctico:** Imagina que el estudio de VFX está trabajando en un proyecto financiado directamente por un Ayuntamiento para un documental histórico. Si el Ayuntamiento se retrasa en los pagos, el Head of CG debe saber que no puede instar un concurso de acreedores contra esa entidad pública para cobrar, sino que deberá recurrir a la vía contencioso-administrativa o reclamaciones de deuda pública.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Si quien solicita la declaración del concurso es un acreedor...",
+      "opciones": {
+        "a": "Se desestima.",
+        "b": "Se denomina necesario.",
+        "c": "Se denomina voluntario.",
+        "d": "Se denomina quiebra."
+      },
+      "explicacion": "En el derecho concursal, cuando la solicitud de declaración de concurso la presenta un acreedor (o cualquier legitimado distinto del propio deudor), el concurso adquiere la calificación de 'necesario'. Si lo presenta el propio deudor, sería 'voluntario'.\n\n**Ejemplo práctico:** Si un estudio de VFX subcontratado (acreedor) lleva meses sin cobrar por los assets 3D entregados a una productora principal (deudor) y decide solicitar judicialmente el concurso de esa productora para intentar cobrar su deuda, este proceso se denominará concurso necesario. El Head of CG debe coordinar con el departamento legal para aportar las pruebas de impago.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Si el deudor es una persona física, el Auto de declaración de concurso se inscribe en...",
+      "opciones": {
+        "a": "Registro mercantil.",
+        "b": "Registro Civil.",
+        "c": "Registro de seguros.",
+        "d": "Todas las respuestas son incorrectas."
+      },
+      "explicacion": "Cuando el concursado es una persona física (no un ente societario), las resoluciones que afecten a su capacidad civil y patrimonial, como el auto de declaración de concurso, deben inscribirse en el Registro Civil para dar publicidad frente a terceros sobre su estado civil y capacidad de obrar.\n\n**Ejemplo práctico:** Un artista freelance de concept art (persona física) que colabora habitualmente con el estudio de VFX entra en bancarrota personal. El Head of CG, al revisar los contratos futuros con este artista, debe saber que su situación de concurso quedará reflejada en el Registro Civil, afectando su capacidad para firmar ciertos acuerdos comerciales de forma independiente.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "En lo económico, la función de administrador del concurso es ...",
+      "opciones": {
+        "a": "Gratuita.",
+        "b": "Retribuida conforme a arancel.",
+        "c": "Lo que pacten los acreedores.",
+        "d": "En unos casos gratuita y en otros retribuida."
+      },
+      "explicacion": "La labor de la administración concursal es un cargo remunerado. La cuantía de esta retribución no es libre ni gratuita, sino que está regulada estrictamente por la ley mediante un sistema de aranceles que se calculan en base al activo y pasivo de la empresa concursada.\n\n**Ejemplo práctico:** Si el estudio de VFX entra en concurso de acreedores, el juez nombrará a un administrador concursal para intervenir las cuentas. El Head of CG debe tener en cuenta en sus previsiones de tesorería que los honorarios de este administrador se pagarán con cargo a la masa activa del estudio (los fondos disponibles), calculados según un arancel oficial, restando liquidez para otros gastos de producción.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "En el concurso por procedimiento abreviado , por regla general hay...",
+      "opciones": {
+        "a": "Un administrador.",
+        "b": "Dos administradores.",
+        "c": "Tres administradores.",
+        "d": "No hay administrador."
+      },
+      "explicacion": "El procedimiento abreviado se aplica a concursos de menor complejidad o cuantía. Para agilizar el proceso y reducir costes, la ley establece que la administración concursal estará integrada por un único miembro (un administrador), a diferencia del procedimiento ordinario que podía requerir más en normativas anteriores o casos complejos.\n\n**Ejemplo práctico:** Un pequeño estudio boutique de animación CG asociado quiebra y entra en un concurso abreviado debido a su tamaño reducido. El Head of CG de nuestro estudio, como acreedor por unas licencias de software compartidas, interactuará con un único administrador concursal designado por el juez, simplificando las comunicaciones para reclamar la deuda.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "unidad": 24,
+  "titulo": "Autoevaluación Unidad 24 - Derecho de la Empresa II",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Declarado el concurso, no pueden iniciarse nuevos procesos...",
+      "opciones": {
+        "a": "Penales.",
+        "b": "Administrativos.",
+        "c": "Sociales.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "En el derecho concursal, una vez declarado el concurso, la jurisdicción del juez atrae la mayoría de los procedimientos para proteger la masa activa. La ley establece específicamente que no podrán iniciarse nuevos juicios singulares en el orden social (laboral) contra el patrimonio del concursado.\n\n**Ejemplo práctico:** Imagina que el estudio de VFX entra en concurso de acreedores. Un artista de composición (Nuke) que fue despedido no puede iniciar un nuevo proceso en los juzgados de lo social para reclamar una indemnización de forma independiente; su reclamación debe integrarse en el proceso concursal global que gestiona el Head of CG junto con la administración concursal.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Los titulares de créditos sobre buques y aeronaves...",
+      "opciones": {
+        "a": "Se someten al concurso.",
+        "b": "Se someten al concurso por un año.",
+        "c": "Pueden separar estos bienes de la masa activa.",
+        "d": "Tiene privilegio general."
+      },
+      "explicacion": "Los créditos garantizados con hipoteca naval o mobiliaria sobre aeronaves tienen un régimen especial. Los acreedores con estas garantías reales tienen derecho de ejecución separada, lo que significa que pueden separar estos bienes específicos de la masa activa del concurso para satisfacer su deuda, dada la naturaleza internacional y el alto valor de estos activos.\n\n**Ejemplo práctico:** Si el estudio de VFX adquirió un dron de cine de altísima gama (considerado aeronave) mediante un crédito con garantía específica, el banco acreedor puede separar ese dron de los servidores y workstations (masa activa) para cobrar su deuda, afectando directamente los rodajes aéreos que el Head of CG tenía planificados.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Las llamadas acciones de reintegración , se llaman tambien...",
+      "opciones": {
+        "a": "De retracto.",
+        "b": "Cambiarias.",
+        "c": "Rescisorias.",
+        "d": "Hipotecarias."
+      },
+      "explicacion": "Las acciones de reintegración en el concurso de acreedores tienen como objetivo devolver a la masa activa los bienes que salieron del patrimonio del deudor de forma perjudicial en los dos años anteriores a la declaración del concurso. Jurídicamente, estas acciones operan como acciones rescisorias, ya que rescinden (anulan) actos perjudiciales para los acreedores.\n\n**Ejemplo práctico:** Si el dueño del estudio transfirió licencias perpetuas de Houdini y Maya a una empresa fantasma a precio de saldo meses antes de quebrar, el administrador concursal usará una acción rescisoria para anular esa venta y devolver las licencias al estudio, permitiendo al Head of CG recuperar esas herramientas clave para liquidarlas a precio justo.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La masa pasiva del concurso se regula en la ley Concursal artº...",
+      "opciones": {
+        "a": "79",
+        "b": "84",
+        "c": "88",
+        "d": "110"
+      },
+      "explicacion": "En la Ley Concursal española (antes de las reformas que reestructuraron el articulado), el artículo 84 regulaba los créditos contra la masa, que son fundamentales para entender la composición de la masa pasiva (las deudas del concursado) y cuáles tienen prioridad de cobro.\n\n**Ejemplo práctico:** Como Head of CG, si el estudio está en concurso pero sigue operando para terminar una película, debes saber que los gastos de mantener la granja de render encendida (electricidad, alquiler de servidores) se rigen por este artículo como créditos contra la masa, pagándose con prioridad para asegurar la continuidad del proyecto.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Los salarios de los trabajadores de los últimos 30 días, es un crédito...",
+      "opciones": {
+        "a": "Privilegiado.",
+        "b": "Subordinado.",
+        "c": "Contra la masa.",
+        "d": "Ordinario."
+      },
+      "explicacion": "Los salarios de los últimos 30 días de trabajo efectivo anteriores a la declaración del concurso, en cuantía que no supere el doble del salario mínimo interprofesional, tienen la consideración de créditos contra la masa. Esto significa que se pagan de forma prioritaria y al margen del convenio o liquidación, para proteger la subsistencia básica de los empleados.\n\n**Ejemplo práctico:** Si el estudio quiebra justo después de un mes de 'crunch time' entregando planos, los salarios de esos últimos 30 días de los animadores y riggers son créditos contra la masa. El Head of CG puede asegurar a su equipo que cobrarán esa nómina con prioridad absoluta frente a las deudas con proveedores de software.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Las cantidades debidas por cuotas de la seguridad social, son un crédito...",
+      "opciones": {
+        "a": "Ordinario.",
+        "b": "Subordinado.",
+        "c": "Contra la masa.",
+        "d": "Con privilegio general."
+      },
+      "explicacion": "En el derecho concursal, las deudas con la Seguridad Social gozan de un estatus especial para proteger los intereses del Estado, clasificándose como créditos con privilegio general hasta ciertos límites.\n\n**Ejemplo práctico:** Imagina que tu estudio de VFX entra en concurso de acreedores. Antes de pagar a los proveedores de licencias de software (crédito ordinario), la ley exige que se paguen las cuotas atrasadas de la Seguridad Social de tus artistas 3D, ya que este pago tiene prioridad legal general.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Los créditos por multas y sanciones, son un crédito...",
+      "opciones": {
+        "a": "Subordinado.",
+        "b": "Contra la masa.",
+        "c": "Ordinario.",
+        "d": "Con privilegio general."
+      },
+      "explicacion": "Las multas y sanciones se consideran créditos subordinados en un concurso de acreedores. Son los últimos en cobrarse, ya que la ley prioriza el pago de deudas ordinarias y privilegiadas antes que penalizar el patrimonio con sanciones.\n\n**Ejemplo práctico:** Si el estudio de animación recibe una multa por incumplir normativas de protección de datos, y luego quiebra, esa multa será lo último que se pague. Primero se liquidarán las nóminas de los animadores y las facturas de la granja de render.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "La espera máxima que puede acordar un Convenio es de ...",
+      "opciones": {
+        "a": "Tres años.",
+        "b": "Dos años.",
+        "c": "Un año.",
+        "d": "Cinco años."
+      },
+      "explicacion": "En un convenio de acreedores, la 'espera' es el aplazamiento del pago de las deudas. Históricamente, el plazo máximo general que se podía acordar para retrasar los pagos sin requisitos excepcionales era de cinco años.\n\n**Ejemplo práctico:** Como Head of CG, logras renegociar la deuda del estudio con el proveedor de workstations. El juez aprueba un convenio con una espera de cinco años, dándote ese lustro de margen para terminar tres largometrajes de animación y generar liquidez antes de tener que abonar esa deuda.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Un concurso con Convenio debe de calificarse obligatoriamente ...",
+      "opciones": {
+        "a": "En ningún caso.",
+        "b": "Si lo considera el Juez.",
+        "c": "Si hay una rebaja superior a un tercio.",
+        "d": "Se hay una rebaja."
+      },
+      "explicacion": "La ley establece que la sección de calificación debe abrirse obligatoriamente si el convenio propuesto establece una quita (rebaja) muy gravosa para los acreedores, específicamente cuando supera un tercio del importe de los créditos.\n\n**Ejemplo práctico:** El estudio debe 300.000 euros en licencias de Houdini. Si propones un convenio donde solo pagarás 150.000 euros (una quita del 50%, superior a un tercio), el juez obligatoriamente investigará tu gestión como directivo para asegurar que no provocaste la quita de forma malintencionada.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Un concurso se calificará como fortuito...",
+      "opciones": {
+        "a": "No haya dolo del concursado.",
+        "b": "No haya culpa grave del concursado",
+        "c": "No haya habido actividad delictiva.",
+        "d": "Las respuestas a y b son correctas."
+      },
+      "explicacion": "Un concurso se califica como fortuito cuando la insolvencia se debe a circunstancias del mercado, sin que haya existido intención de engañar (dolo) ni negligencia extrema (culpa grave) por parte de los administradores.\n\n**Ejemplo práctico:** Si el estudio quiebra porque el cliente principal canceló la película imprevistamente (concurso fortuito), no hay problema legal. Pero si quebró porque tú, como Head of CG, desviaste fondos del presupuesto de render para fines personales (dolo o culpa grave), el concurso será culpable.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

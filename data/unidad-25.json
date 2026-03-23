@@ -1,0 +1,126 @@
+{
+  "unidad": 25,
+  "titulo": "Autoevaluación - Derecho Laboral y Fiscal Internacional",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El sistema de producción capitalista.",
+      "opciones": {
+        "a": "Se daba en las ciudades medievales.",
+        "b": "Surge de la conjunción de la revolución industrial y las revoluciones políticas burguesas.",
+        "c": "Se caracteriza por el trabajo autónomo.",
+        "d": "Es propio de algunos países asiáticos y africanos."
+      },
+      "explicacion": "El sistema de producción capitalista moderno se consolidó gracias a la Revolución Industrial (que aportó la maquinaria y producción en masa) y las revoluciones burguesas (que establecieron el marco jurídico de propiedad privada y libre mercado).\\n\n**Ejemplo práctico:** Imagina la transición de la animación tradicional a la creación de un gran estudio de animación 3D. La 'revolución industrial' sería la adopción de render farms y software procedural, mientras que la 'revolución burguesa' sería la estructuración corporativa del estudio, donde tú, como Head of CG, gestionas los medios de producción (hardware, licencias) y el equipo aporta su fuerza de trabajo a cambio de un salario.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Las iniciativas de los poderes públicos para resolver la cuestión social, se caracterizan:",
+      "opciones": {
+        "a": "Asimetría jurídica.",
+        "b": "Intervencionismo estatal para proteger al contratante débil.",
+        "c": "Dimensión colectiva de las relaciones laborales.",
+        "d": "Todas las respuestas anteriores son correctas."
+      },
+      "explicacion": "Para resolver la 'cuestión social' (desigualdades del primer capitalismo), el Estado interviene creando un marco legal que compensa la debilidad del trabajador (intervencionismo), reconoce a los sindicatos (dimensión colectiva) y asume que la relación empleador-empleado no es de iguales (asimetría jurídica). Por tanto, todas son correctas.\\n\n**Ejemplo práctico:** Como Head of CG, sabes que un artista junior no tiene el mismo poder de negociación que el estudio (asimetría jurídica). Por ello, existen convenios colectivos del sector audiovisual (dimensión colectiva) y normativas de horas extras dictadas por el Estado (intervencionismo) para evitar el 'crunch' abusivo y proteger al artista durante las entregas finales.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "En que año se funda el Instituto de Reformas Sociales",
+      "opciones": {
+        "a": "Año 1903.",
+        "b": "Año 1873",
+        "c": "Año 1923",
+        "d": "Año 1926"
+      },
+      "explicacion": "El Instituto de Reformas Sociales fue creado en España en 1903. Fue un organismo pionero encargado de estudiar la situación laboral y proponer legislación para mejorar las condiciones de los trabajadores, siendo el precursor del actual Ministerio de Trabajo.\\n\n**Ejemplo práctico:** Piensa en el año 1903 como el momento en que un estudio de VFX decide crear por primera vez un departamento de Recursos Humanos y Bienestar. Antes, los artistas trabajaban sin regulaciones internas claras; a partir de esa 'fundación', se empiezan a estudiar las métricas de burnout y a proponer políticas de descansos obligatorios entre planos complejos.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El Decreto Ley 17/1977 regula..",
+      "opciones": {
+        "a": "El asociacionismo sindical.",
+        "b": "El sistema de seguridad social",
+        "c": "La huelga y los conflictos colectivos.",
+        "d": "La jornada de trabajo."
+      },
+      "explicacion": "El Real Decreto-ley 17/1977, de 4 de marzo, sobre relaciones de trabajo, es la norma preconstitucional que aún hoy regula fundamentalmente el derecho de huelga y los conflictos colectivos en España, estableciendo los procedimientos para su declaración y desarrollo.\\n\n**Ejemplo práctico:** Supongamos que el equipo de Lighting y Comp decide paralizar la producción a una semana del delivery de la película porque no se han pagado las horas extras. El Decreto Ley 17/1977 sería el equivalente al protocolo legal que determina si ese 'paro' de los artistas es una huelga legal, cómo deben establecerse los servicios mínimos (por ejemplo, mantener los servidores y backups funcionando) y cómo se debe negociar el conflicto colectivo.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las fuentes de la Relación Laboral y sus criterios de ordenación se regulan en :",
+      "opciones": {
+        "a": "Los Convenios Colectivos.",
+        "b": "En el artº 37 de la Constitución.",
+        "c": "En el artº 3.1 del Estatuto de los Trabajadores.",
+        "d": "En los convenios de la O.I.T."
+      },
+      "explicacion": "El artículo 3.1 del Estatuto de los Trabajadores es la norma fundamental en España que enumera y jerarquiza las fuentes de la relación laboral (leyes, convenios, contratos, costumbres).\n\n**Ejemplo práctico:** Como Head of CG, al contratar a un nuevo Lead Lighter, las condiciones de su contrato (fuente inferior) no pueden contradecir lo establecido en el convenio colectivo del sector audiovisual ni el Estatuto de los Trabajadores (fuentes superiores), tal como lo ordena el art. 3.1.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Un Reglamento comunitario;",
+      "opciones": {
+        "a": "Obliga a los Estados a legislar sobre la materia.",
+        "b": "Es directamente aplicable.",
+        "c": "Exige un desarrollo del Gobierno a una Ley europea.",
+        "d": "Es parte del tratado fundacional de la Unión Europea."
+      },
+      "explicacion": "En el Derecho de la Unión Europea, un Reglamento es un acto legislativo vinculante que debe aplicarse en su totalidad en toda la UE de manera directa, sin necesidad de que los Estados miembros aprueben leyes nacionales para transponerlo.\n\n**Ejemplo práctico:** Si la UE emite un nuevo Reglamento comunitario sobre el uso de IA generativa y derechos de autor, como Head of CG debes asegurar que el estudio cumpla esas normas inmediatamente en todos los proyectos europeos, ya que aplica directamente sin esperar a que el gobierno local apruebe una ley.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El artº 37.1 de la Constitución,",
+      "opciones": {
+        "a": "Establece la libertad sindical.",
+        "b": "Garantiza el derecho a la negociación colectiva.",
+        "c": "Garantiza la fuerza vinculante de los Convenios.",
+        "d": "Las respuestas b y c son correctas."
+      },
+      "explicacion": "El artículo 37.1 de la Constitución Española reconoce expresamente el derecho a la negociación colectiva laboral entre los representantes de los trabajadores y los empresarios, así como la fuerza vinculante de los convenios que resulten de dicha negociación.\n\n**Ejemplo práctico:** Si el sindicato de animadores 3D negocia un nuevo convenio colectivo con la asociación de productoras, el art. 37.1 garantiza que, como Head of CG, estás obligado a respetar las nuevas tarifas salariales acordadas, ya que el convenio tiene fuerza vinculante.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "¿ Que es la jurisprudencia?",
+      "opciones": {
+        "a": "No es fuente de derecho en un sentido estricto.",
+        "b": "Complementa el Ordenamiento jurídico.",
+        "c": "La establece el Tribunal Supremo.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "En el sistema jurídico español, la jurisprudencia (las sentencias reiteradas del Tribunal Supremo) no es una fuente del derecho en sentido estricto (como la ley o la costumbre), pero tiene la función vital de complementar el ordenamiento jurídico al interpretar y aplicar la ley.\n\n**Ejemplo práctico:** Si hay un vacío legal sobre si el tiempo de renderizado en casa cuenta como horas extras, y el Tribunal Supremo dicta varias sentencias afirmando que sí, esta jurisprudencia complementa la ley. Como Head of CG, deberás ajustar las políticas de teletrabajo del equipo de render basándote en este criterio.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "La norma reguladora de la relación laboral es la que resulte mas favorable para el trabajador en computo global. Este principio de denomina;",
+      "opciones": {
+        "a": "Principio de norma minima.",
+        "b": "Principio pro operario.",
+        "c": "Principio de norma mas favorable.",
+        "d": "Principio de jerarquía normativa."
+      },
+      "explicacion": "El principio de norma más favorable establece que, en caso de que existan dos o más normas vigentes aplicables a un mismo caso, se aplicará la que en su conjunto sea más beneficiosa para el trabajador, independientemente de su rango jerárquico.\n\n**Ejemplo práctico:** Si el convenio colectivo del sector audiovisual otorga 22 días de vacaciones, pero el contrato individual que firmaste con un Senior Compositor le otorga 25 días, como Head of CG debes aplicar el contrato individual por el principio de norma más favorable.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La renuncia de derechos en el derecho laboral;",
+      "opciones": {
+        "a": "Es imposible en el derecho laboral.",
+        "b": "Se rige por las normas generales del derecho civil.",
+        "c": "Debe hacerse por escrito.",
+        "d": "Es posible para los empresarios y limitada para los trabajadores."
+      },
+      "explicacion": "En el derecho laboral, rige el principio de irrenunciabilidad de derechos para el trabajador (no puede renunciar a vacaciones, salario mínimo, etc., reconocidos por ley o convenio). Sin embargo, el empresario sí puede renunciar a ciertos derechos o prerrogativas, haciendo que la limitación sea asimétrica.\n\n**Ejemplo práctico:** Un rigger junior no puede firmar un documento renunciando a cobrar las horas extras trabajadas durante el 'crunch time' (es nulo por ley). Sin embargo, como Head of CG (representando a la empresa), sí puedes renunciar al derecho de exigirle exclusividad si así lo decides.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

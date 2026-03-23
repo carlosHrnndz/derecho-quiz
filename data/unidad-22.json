@@ -1,0 +1,126 @@
+{
+  "unidad": 22,
+  "titulo": "Autoevaluación: Derecho de la Empresa II - Mercado de Valores",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "la ley del Mercado de Valores se estructura en...",
+      "opciones": {
+        "a": "9 títulos.",
+        "b": "6 títulos.",
+        "c": "3 títulos.",
+        "d": "5 títulos."
+      },
+      "explicacion": "La Ley del Mercado de Valores española se estructuraba originalmente en 9 títulos que abarcan desde las disposiciones generales hasta el régimen sancionador, organizando así todo el marco legal del sector financiero.\n\n**Ejemplo práctico:** Imagina que el pipeline de tu estudio de VFX es como esta ley. Está estructurado en 9 departamentos o 'títulos' fundamentales (Preproducción, Modelado, Rigging, Animación, FX, Iluminación, Composición, Render y QA). Cada uno tiene sus propias normativas y protocolos estrictos para que el producto final se entregue sin cuellos de botella.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El mercado donde están las Bolsas de valores es el ...",
+      "opciones": {
+        "a": "Primario.",
+        "b": "Secundario.",
+        "c": "Domestico.",
+        "d": "Mobiliario."
+      },
+      "explicacion": "Las Bolsas de Valores son mercados secundarios oficiales. Esto significa que en ellas se negocian activos financieros que ya han sido emitidos previamente en el mercado primario; es decir, los inversores compran y venden acciones ya existentes entre sí.\n\n**Ejemplo práctico:** Piensa en el mercado primario como la creación de un asset 3D original (un dragón) para una película específica. El mercado secundario sería la 'librería de assets' interna del estudio, donde ese dragón ya creado se 'negocia' o reutiliza para otros planos o proyectos diferentes, ahorrando tiempo y recursos al Head of CG.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "En los mercados secundarios la función mas relevante la tienen...",
+      "opciones": {
+        "a": "Los agentes de cambio y bolsa.",
+        "b": "Las entidades de crédito.",
+        "c": "Los intermediarios.",
+        "d": "Las Bolsas de Valores."
+      },
+      "explicacion": "En los mercados secundarios, las Bolsas de Valores son las instituciones más relevantes porque proporcionan la infraestructura, la regulación y la liquidez necesarias para que los inversores puedan intercambiar sus títulos de forma segura, transparente y eficiente.\n\n**Ejemplo práctico:** En un entorno de producción CG, los artistas necesitan intercambiar cachés de simulación y renders constantemente. La 'Bolsa de Valores' sería el software de gestión de producción (como ShotGrid o Ftrack). Es la plataforma central y más relevante que garantiza que el intercambio de estos 'activos' entre departamentos sea fluido, rastreable y seguro.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Las sociedades de valores , pueden...",
+      "opciones": {
+        "a": "Gestionar fondos de pensiones.",
+        "b": "Participar en sociedades que gestionen fondos de pensiones",
+        "c": "Conceder créditos a su clientes",
+        "d": "Todas las respuestas son incorrectas."
+      },
+      "explicacion": "Las sociedades de valores son empresas de servicios de inversión que, además de operar por cuenta propia o ajena, tienen permitido por normativa ofrecer servicios complementarios, como conceder créditos o préstamos a inversores para que puedan realizar operaciones sobre instrumentos financieros.\n\n**Ejemplo práctico:** Como Head of CG, a veces actúas como una 'sociedad de valores' para tu equipo. Si un artista Senior de FX necesita más potencia de cálculo (crédito) para lanzar una simulación pesada de fluidos, tú le 'concedes' acceso prioritario a más nodos de la granja de render (préstamo de recursos) para asegurar que el plano se complete a tiempo.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las OPA´s se regulan en el Real Decreto...",
+      "opciones": {
+        "a": "1066/2007",
+        "b": "167/2008",
+        "c": "356/2010",
+        "d": "1267/2007"
+      },
+      "explicacion": "Las Ofertas Públicas de Adquisición (OPA) en España están reguladas principalmente por el Real Decreto 1066/2007. Esta normativa establece el régimen jurídico para garantizar la transparencia en las adquisiciones de empresas y proteger a los accionistas minoritarios.\n\n**Ejemplo práctico:** Imagina que un estudio de VFX gigante quiere 'adquirir' o absorber a tu pequeño estudio boutique (una OPA). El Real Decreto 1066/2007 sería el equivalente a un 'Acuerdo de Nivel de Servicio (SLA)' estricto y un contrato de confidencialidad que asegura que la transición de licencias de software, pipelines y contratos de los artistas se haga de forma transparente y protegiendo a los empleados.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La OPA's pueden ser ...",
+      "opciones": {
+        "a": "De compra.",
+        "b": "De venta.",
+        "c": "De arrendamiento",
+        "d": "Las respuestas a y b son correctas."
+      },
+      "explicacion": "Las Ofertas Públicas de Adquisición (OPA) son operaciones del mercado de valores por las que una persona o entidad hace una oferta para comprar o vender acciones de una empresa cotizada. Por tanto, existen OPAs de compra (para adquirir el control) y de venta (para desinvertir).\n\n**Ejemplo práctico:** Imagina que un gran estudio de Hollywood (entidad oferente) quiere adquirir la mayoría de las acciones de tu estudio de VFX (empresa cotizada) para tener el control total sobre tu pipeline de render. Esto sería una OPA de compra. Si, por el contrario, el estudio de Hollywood quisiera deshacerse de su participación en tu estudio ofreciendo sus acciones al mercado, sería una OPA de venta.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La contratación en el marco de la Bolsa de Valores se hace...",
+      "opciones": {
+        "a": "Al contado.",
+        "b": "Con entrega de documentos.",
+        "c": "Con entrega del resguardó del titulo.",
+        "d": "Mediante anotaciones en cuenta."
+      },
+      "explicacion": "En los mercados financieros modernos, la representación de los valores negociables (como las acciones) ya no se hace mediante títulos físicos de papel, sino a través de registros informáticos denominados 'anotaciones en cuenta'. Esto agiliza y asegura las transacciones.\n\n**Ejemplo práctico:** Como Head of CG, ya no entregas los assets finales (modelos 3D, texturas) en discos duros físicos o cintas magnéticas al cliente. En su lugar, la 'entrega' y el registro de propiedad se gestionan mediante transferencias digitales seguras y control de versiones en la nube (como ShotGrid o Perforce), similar a cómo las acciones son simples registros digitales (anotaciones en cuenta) en lugar de certificados de papel.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El artº 38 de la Ley del mercado de Valores regula...",
+      "opciones": {
+        "a": "El préstamo.",
+        "b": "La compraventa.",
+        "c": "Las operaciones a plazo",
+        "d": "La vía de regreso."
+      },
+      "explicacion": "El artículo 38 de la Ley del Mercado de Valores establece el marco legal para las operaciones a plazo, que son aquellas en las que el precio se fija en el momento del contrato, pero la ejecución (entrega de valores y pago) se pospone a una fecha futura determinada.\n\n**Ejemplo práctico:** Supongamos que necesitas alquilar una granja de render (render farm) en la nube para el pico de producción que tendrás dentro de 6 meses. Firmas un contrato hoy fijando el precio por hora de renderizado, pero no usarás ni pagarás el servicio hasta dentro de medio año. Esto te protege de posibles subidas de precio, funcionando exactamente igual que una operación a plazo en el mercado de valores.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El Servicio de compensación y liquidación de valores, esta fiscalizado por ...",
+      "opciones": {
+        "a": "La CNMV.",
+        "b": "Las Bolsas.",
+        "c": "El Banco de España.",
+        "d": "Las entidades de crédito."
+      },
+      "explicacion": "La Comisión Nacional del Mercado de Valores (CNMV) es el organismo encargado de la supervisión e inspección de los mercados de valores en España. Por lo tanto, es la entidad responsable de fiscalizar a los depositarios centrales de valores encargados del registro contable y la compensación y liquidación.\n\n**Ejemplo práctico:** En un gran proyecto de animación, el departamento de Control de Calidad (QC) o el Supervisor de VFX actúa como la CNMV. Ellos son los encargados de 'fiscalizar' y asegurar que todos los pases de render y composiciones (el servicio de compensación y liquidación) cumplan con los estándares técnicos y artísticos antes de ser entregados al cliente final, garantizando la transparencia y el buen funcionamiento del pipeline.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "En los mercados de futuros, la singularidad mas significativa es ...",
+      "opciones": {
+        "a": "Su objeto de contratación.",
+        "b": "Su localización.",
+        "c": "Su carácter virtual.",
+        "d": "El factor especulativo."
+      },
+      "explicacion": "Aunque los mercados de futuros nacieron para cubrir riesgos (hedging), su característica más destacada en la práctica financiera actual es el alto grado de especulación. Los inversores buscan obtener beneficios apostando por la dirección futura de los precios de los activos subyacentes, a menudo sin intención de llegar a poseer el activo real.\n\n**Ejemplo práctico:** Imagina que como Head of CG apuestas con otro supervisor a que el coste de las licencias de un software de simulación (como Houdini) subirá el próximo año. No necesitas comprar las licencias ahora, solo apuestas sobre la diferencia de precio futuro para ganar dinero. Este 'factor especulativo' es el motor principal de los mercados de futuros, donde se negocia con la expectativa del valor, no necesariamente con la intención de usar el software.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

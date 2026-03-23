@@ -1,0 +1,126 @@
+{
+  "unidad": 21,
+  "titulo": "Autoevaluación Derecho de la Empresa II - El Cheque",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "la regulación normativa del cheque esta en ...",
+      "opciones": {
+        "a": "C. Comercio.",
+        "b": "Ley Cambiaria y del Cheque",
+        "c": "C.Civil.",
+        "d": "Ley Mercado de Valores."
+      },
+      "explicacion": "En España, el cheque se regula específicamente por la Ley 19/1985 Cambiaria y del Cheque, la cual unificó y actualizó la normativa sobre letras de cambio, pagarés y cheques, separándola del antiguo Código de Comercio.\n\n**Ejemplo práctico:** Imagina que el estudio de VFX contrata a un artista freelance internacional. Para pagarle, en lugar de usar las normas generales de contratos del estudio (Código de Comercio), utilizan una plataforma de pago específica con sus propias reglas estrictas de facturación y plazos (Ley Cambiaria y del Cheque) para asegurar que el pago sea rápido y legalmente vinculante.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El cheque es un titulo...",
+      "opciones": {
+        "a": "Informal.",
+        "b": "Formal.",
+        "c": "Sin requisitos formales.",
+        "d": "La forma se la dan las entidades de crédito"
+      },
+      "explicacion": "El cheque es un título valor formal porque su validez y eficacia jurídica dependen del cumplimiento estricto de una serie de requisitos de forma establecidos por la ley. Si falta alguno, el documento pierde su naturaleza de cheque.\n\n**Ejemplo práctico:** Es como el 'naming convention' (convención de nombres) para los archivos de render en el pipeline del estudio. Si un archivo no sigue el formato exacto (ej. seq01_shot010_comp_v001.exr), el software de automatización no lo reconocerá como un render válido y no lo procesará, al igual que un documento sin los requisitos formales no es reconocido como cheque.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El pago de un cheque falso se regula en la Ley Cambiaria y del cheque en el artº...",
+      "opciones": {
+        "a": "95",
+        "b": "104",
+        "c": "110",
+        "d": "156"
+      },
+      "explicacion": "El artículo 156 de la Ley Cambiaria y del Cheque establece la responsabilidad en caso de pago de un cheque falso o falsificado, recayendo generalmente sobre el banco librado, a menos que haya negligencia por parte del titular de la cuenta.\n\n**Ejemplo práctico:** Supongamos que un artista junior aprueba por error un plano con un defecto grave (un 'cheque falso') y se envía al cliente. El protocolo del estudio (artículo 156) dicta que la responsabilidad recae sobre el Supervisor de VFX o el Head of CG por no haber detectado el error en los dailies, a menos que el artista haya ocultado el defecto intencionadamente.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Las cláusulas sobre intereses en un cheque...",
+      "opciones": {
+        "a": "Son válidas.",
+        "b": "Son opcionales.",
+        "c": "No son validas.",
+        "d": "Dependen de las partes."
+      },
+      "explicacion": "A diferencia de otros títulos valores, en el cheque cualquier cláusula que estipule el pago de intereses se considera no escrita (nula). El cheque es un instrumento de pago a la vista, no un instrumento de crédito.\n\n**Ejemplo práctico:** En un contrato de render farm en la nube, se paga por el uso exacto de nodos (pago a la vista). Si el proveedor intentara añadir una cláusula de 'intereses por tiempo de inactividad' en la factura de uso inmediato, el Head of CG la rechazaría por ser inválida, ya que el servicio es de pago directo por capacidad, no un préstamo de recursos a largo plazo.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Se presenta al cobro un cheque que lleva fecha del día siguiente...",
+      "opciones": {
+        "a": "No se abona.",
+        "b": "Hay que abonarlo",
+        "c": "Se deja en deposito.",
+        "d": "Hay que subsanar la fecha."
+      },
+      "explicacion": "El cheque es pagadero a la vista. Si se presenta al cobro antes del día indicado como fecha de emisión (cheque posdatado), la ley establece que debe ser pagado el día de su presentación, ignorando la fecha futura escrita en él.\n\n**Ejemplo práctico:** Un cliente promete entregar los assets 3D finales el viernes (fecha futura), pero por error los sube al servidor del estudio el miércoles. El equipo de CG no espera al viernes; al ver que los assets ya están disponibles y listos ('presentados al cobro'), comienzan a trabajar en ellos inmediatamente para adelantar la producción.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La muerte del librador del cheque...",
+      "opciones": {
+        "a": "Anula el cheque.",
+        "b": "Deben ratificarlo los herederos.",
+        "c": "No afecta a su eficacia.",
+        "d": "Todas las respuestas son incorrectas."
+      },
+      "explicacion": "En el derecho mercantil, la validez de un cheque emitido no se ve alterada por el fallecimiento o incapacidad posterior del librador (quien lo emite). El mandato de pago dado al banco sigue siendo válido y el tenedor tiene derecho a cobrarlo si hay fondos.\n\n**Ejemplo práctico:** Como Head of CG, firmas un cheque a nombre de un artista freelance por la creación de unos assets 3D. Si lamentablemente falleces al día siguiente, el cheque sigue siendo totalmente válido y el artista podrá cobrarlo del banco del estudio sin que la eficacia del documento se vea afectada.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La falta de pago del cheque se acredita...",
+      "opciones": {
+        "a": "Protesto notarial.",
+        "b": "Declaración del librado fechada y escrita en el cheque.",
+        "c": "Declaración de un sistema de compensación.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "Para demostrar legalmente que un cheque no ha sido pagado (por falta de fondos, por ejemplo), la ley permite varias vías: el protesto notarial tradicional, una declaración escrita del propio banco (librado) en el cheque, o una declaración de la cámara o sistema de compensación. Todas son válidas.\n\n**Ejemplo práctico:** El estudio de VFX recibe un cheque de una productora por los planos finales de una película. Al ir a cobrarlo, rebota. Para reclamar legalmente, el Head of CG puede pedir al banco que anote en el reverso del cheque la declaración de impago, usar el registro del sistema de compensación bancaria, o ir a un notario para levantar un protesto; cualquiera de las tres opciones sirve para iniciar la reclamación.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Las acciones derivadas del cheque, prescriben a los ...",
+      "opciones": {
+        "a": "15 días.",
+        "b": "30 días.",
+        "c": "seis meses.",
+        "d": "un año."
+      },
+      "explicacion": "La Ley Cambiaria y del Cheque establece que las acciones que corresponden al tenedor contra el librador, endosantes y demás obligados prescriben a los seis meses, contados desde la expiración del plazo de presentación.\n\n**Ejemplo práctico:** Un cliente paga al estudio de animación con un cheque por el renderizado de una campaña publicitaria. Si el cheque resulta sin fondos, el Head of CG y el departamento legal tienen un plazo máximo de seis meses para interponer una demanda cambiaria; si dejan pasar ese tiempo, perderán el derecho a reclamar por esta vía rápida.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Un cheque confirmado o certificado, ademas de la firma del librado, lleva la firma del...",
+      "opciones": {
+        "a": "Banco librado.",
+        "b": "Del endosante.",
+        "c": "Del avalista.",
+        "d": "Del fiador."
+      },
+      "explicacion": "Un cheque conformado, certificado o visado es aquel en el que el banco librado (la entidad financiera donde está la cuenta) garantiza que existen fondos suficientes para pagarlo, reteniendo dicha cantidad. Por ello, requiere la firma o sello de conformidad del propio banco.\n\n**Ejemplo práctico:** El estudio necesita comprar una granja de render (servidores) de segunda mano y el vendedor exige seguridad absoluta. El Head of CG solicita al banco del estudio un cheque conformado; el banco retiene el dinero de la cuenta y firma el cheque, garantizando al vendedor que cobrará los equipos sin riesgo de impago.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El pagaré constituye una ...",
+      "opciones": {
+        "a": "Declaración informal.",
+        "b": "Orden de pago.",
+        "c": "Promesa de pago.",
+        "d": "Condición para el pago."
+      },
+      "explicacion": "A diferencia del cheque o la letra de cambio, que son 'órdenes' de pago dirigidas a un tercero (el banco), el pagaré es un título valor que contiene una 'promesa' incondicional de pago hecha por el propio emisor (firmante) de pagar una suma determinada a otra persona en una fecha futura.\n\n**Ejemplo práctico:** Para financiar las licencias anuales de software de composición, el Head of CG acuerda con el proveedor emitir un pagaré a 90 días. En este documento, el estudio no le da una orden al banco, sino que hace una promesa directa y formal de que pagará la cantidad acordada al proveedor cuando venza el plazo.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}
