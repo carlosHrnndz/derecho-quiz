@@ -1,0 +1,126 @@
+{
+  "unidad": 30,
+  "titulo": "Autoevaluación Unidad 30: Impuesto de Sociedades",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El Impuesto de Sociedades es un tributo de carácter...",
+      "opciones": {
+        "a": "Directo.",
+        "b": "Indirecto.",
+        "c": "Naturaleza personal",
+        "d": "Las respuestas a y c son las correctas."
+      },
+      "explicacion": "El Impuesto de Sociedades es un tributo directo porque grava la renta obtenida por las personas jurídicas de forma inmediata, y es de naturaleza personal porque tiene en cuenta las circunstancias particulares del contribuyente para determinar su capacidad económica.\n\n**Ejemplo práctico:** Imagina que tu estudio de VFX (una persona jurídica) recibe el pago por los planos finales de una película. El impuesto que pagas sobre esos beneficios es directo (recae sobre la ganancia del estudio) y personal (se calcula en base a los gastos, deducciones y situación específica de tu estudio, no de la industria en general).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "No tributan por el impuesto de sociedades...",
+      "opciones": {
+        "a": "Las sociedades civiles.",
+        "b": "Las herencias yacentes",
+        "c": "Las comunidades de bienes.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "Históricamente y por regla general, las entidades sin personalidad jurídica propia como las sociedades civiles, herencias yacentes y comunidades de bienes no tributan por el Impuesto de Sociedades, sino que sus rentas se atribuyen a los socios o comuneros (régimen de atribución de rentas).\n\n**Ejemplo práctico:** Si tres artistas 3D freelance se unen temporalmente en una 'comunidad de bienes' para comprar una granja de render compartida y facturar un proyecto conjunto, la comunidad en sí no paga el Impuesto de Sociedades. En su lugar, cada artista declarará su parte proporcional de los beneficios en su propio impuesto sobre la renta (IRPF).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La ley del Impuesto de Sociedades atribuye la calificación de sujeto pasivo del impuesto a ...",
+      "opciones": {
+        "a": "Fondos de Inversion.",
+        "b": "Sociedades civiles.",
+        "c": "Comunidades de Bienes.",
+        "d": "Herencia yacente."
+      },
+      "explicacion": "Aunque los Fondos de Inversión son patrimonios separados sin personalidad jurídica propia, la Ley del Impuesto de Sociedades los considera expresamente como sujetos pasivos del impuesto, a diferencia de las sociedades civiles o comunidades de bienes.\n\n**Ejemplo práctico:** Supongamos que un grupo de inversores crea un Fondo de Inversión específico para financiar el desarrollo de nuevas tecnologías de captura de movimiento (mocap) para estudios de animación. Aunque el fondo es solo un patrimonio gestionado por terceros, la ley fiscal lo trata como un sujeto pasivo que debe presentar y pagar el Impuesto de Sociedades por los rendimientos que genere.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El Grupo de sociedades...",
+      "opciones": {
+        "a": "No es sujeto pasivo.",
+        "b": "Es sujeto pasivo.",
+        "c": "No lo comtempla la ley.",
+        "d": "No existe para el derecho."
+      },
+      "explicacion": "En el ámbito fiscal, un 'Grupo de sociedades' puede ser considerado sujeto pasivo a efectos de la consolidación fiscal. Esto permite que el grupo tribute de forma conjunta en el Impuesto de Sociedades, sumando los beneficios y compensando las pérdidas de todas las empresas que lo conforman.\n\n**Ejemplo práctico:** Como Head of CG, trabajas para un gran conglomerado que tiene una empresa dedicada exclusivamente a la animación de personajes, otra a la simulación de fluidos y otra a la postproducción. Si conforman un 'Grupo de sociedades' fiscal, este grupo es el sujeto pasivo; si la empresa de fluidos tuvo pérdidas pero la de animación tuvo grandes ganancias, el grupo tributará por el resultado neto conjunto.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "En el Impuesto de sociedades, la base imponible tiende a coincidir con...",
+      "opciones": {
+        "a": "El activo de la sociedad.",
+        "b": "La facturación.",
+        "c": "El beneficio contable.",
+        "d": "El pasivo."
+      },
+      "explicacion": "La base imponible del Impuesto de Sociedades se calcula partiendo del resultado contable (el beneficio o pérdida que refleja la cuenta de pérdidas y ganancias), al cual se le aplican posteriormente los ajustes extracontables que establece la normativa fiscal.\n\n**Ejemplo práctico:** Al final del año, el departamento de contabilidad de tu estudio de VFX calcula que, tras restar los salarios de los artistas, licencias de software (Maya, Nuke) y mantenimiento de servidores a los ingresos por los proyectos entregados, queda un 'beneficio contable' de 100.000 euros. Esta cifra será la base principal sobre la que se calculará el Impuesto de Sociedades a pagar.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "El sitema que permite a la empresa establecer libremente la cuotas de amortización de los activos , se denomina...",
+      "opciones": {
+        "a": "Amortización degresiva.",
+        "b": "Amortización progresiva.",
+        "c": "Amortización libre.",
+        "d": "Todas las respuestas son incorrectas."
+      },
+      "explicacion": "La amortización libre es un incentivo fiscal que permite a las empresas decidir el ritmo al que deducen el coste de sus inversiones en el Impuesto de Sociedades, sin sujetarse a las tablas oficiales, lo que puede ayudar a diferir el pago de impuestos.\n\n**Ejemplo práctico:** Como Head of CG, decides comprar una granja de renderizado (Render Farm) de última generación por 500.000 euros. Si la empresa se acoge a la amortización libre, podrías deducir el 100% del coste en el primer año fiscal en lugar de repartirlo en 5 años, reduciendo drásticamente el beneficio sujeto a impuestos ese año y mejorando el flujo de caja del estudio.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuantos métodos de valoración de las existencias existen...",
+      "opciones": {
+        "a": "Uno",
+        "b": "Dos.",
+        "c": "Tres.",
+        "d": "Cuatro."
+      },
+      "explicacion": "En la contabilidad general y según el Plan General Contable, existen principalmente tres métodos aceptados para la valoración de existencias: FIFO (First In, First Out), LIFO (Last In, First Out) y el PMP (Precio Medio Ponderado).\n\n**Ejemplo práctico:** Imagina que tu estudio de VFX compra licencias de software (plugins específicos) en diferentes momentos del año a distintos precios. Al final del año, para valorar el inventario de licencias no asignadas, el departamento financiero utilizará uno de estos tres métodos (como el Precio Medio Ponderado) para determinar el valor total de esos activos en el balance del estudio.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Son gastos no deducibles en el Impuesto de sociedades...",
+      "opciones": {
+        "a": "Multas.",
+        "b": "Sanciones y recargos.",
+        "c": "Perdidas en el juego.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "La Ley del Impuesto sobre Sociedades establece expresamente que no tendrán la consideración de gastos fiscalmente deducibles las multas y sanciones penales y administrativas, los recargos del período ejecutivo y los recargos por declaración extemporánea sin requerimiento previo, así como las pérdidas del juego. Por lo tanto, todas las opciones listadas son correctas.\n\n**Ejemplo práctico:** Si el estudio de animación recibe una multa por incumplir normativas de licencias de software comercial o por presentar tarde los impuestos de las nóminas de los artistas 3D, ese gasto de la multa saldrá de la caja de la empresa, pero no podrá restarse de los ingresos para calcular el Impuesto de Sociedades, tributando por un beneficio mayor al real.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El tipo impositivo del impuesto de sociedades es ...",
+      "opciones": {
+        "a": "Progresivo.",
+        "b": "Regresivo.",
+        "c": "Fijo.",
+        "d": "Variable."
+      },
+      "explicacion": "El Impuesto de Sociedades se caracteriza por tener un tipo impositivo fijo o proporcional (generalmente un porcentaje único, como el 25% en España para el tipo general), a diferencia del IRPF que es progresivo (aumenta el porcentaje según aumentan los ingresos).\n\n**Ejemplo práctico:** Si tu estudio de VFX factura 1 millón de euros de beneficio o 10 millones de euros de beneficio, el porcentaje que pagará por el Impuesto de Sociedades será el mismo (por ejemplo, el 25% fijo). No sube el tramo porcentual por ganar más, a diferencia de lo que le pasaría a un artista freelance con su IRPF.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El impuesto de sociedades se devenga...",
+      "opciones": {
+        "a": "El último día del periodo impositivo.",
+        "b": "El primer día del periodo impositivo.",
+        "c": "El ultimo día del ejercicio.",
+        "d": "El primer día del ejercicio."
+      },
+      "explicacion": "El devengo del Impuesto de Sociedades se produce el último día del período impositivo. Esto significa que es en esa fecha exacta cuando nace la obligación tributaria principal, independientemente de cuándo se realice el pago efectivo del impuesto.\n\n**Ejemplo práctico:** Si el año fiscal de tu estudio de VFX coincide con el año natural (del 1 de enero al 31 de diciembre), el impuesto se devenga el 31 de diciembre. Todas las facturas de los planos de efectos visuales entregados y cobrados hasta ese último día del periodo impositivo determinarán el beneficio sobre el cual se calculará el impuesto a pagar.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

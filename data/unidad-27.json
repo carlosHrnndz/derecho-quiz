@@ -1,0 +1,126 @@
+{
+  "unidad": 27,
+  "titulo": "Autoevaluación Derecho Laboral y Fiscal Internacional",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El \"Grupo de empresas\"",
+      "opciones": {
+        "a": "Responden siempre solidariamente entre ellas.",
+        "b": "No tiene personalidad jurídica.",
+        "c": "Se considera una persona jurídica especial.",
+        "d": "Esta contemplado en la legislación internacional."
+      },
+      "explicacion": "En el derecho laboral español, un grupo de empresas es una agrupación de sociedades independientes que responden a una unidad de decisión, pero el grupo en sí mismo no constituye una nueva persona jurídica distinta de las empresas que lo forman. Cada empresa mantiene su propia personalidad jurídica.\n\n**Ejemplo práctico:** Como Head of CG, supervisas un proyecto donde colaboran VFX Studio A (encargada de modelado) y VFX Studio B (encargada de iluminación), ambas pertenecientes al mismo holding empresarial. Aunque operen bajo la misma marca comercial, si hay un problema laboral con un artista de iluminación, la responsabilidad legal recae sobre VFX Studio B (su empleador directo con personalidad jurídica), no sobre el grupo como ente abstracto.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La cesión de mano de obra.",
+      "opciones": {
+        "a": "Es un delito",
+        "b": "Puede hacerse a través de Empresas de Trabajo Temporal.",
+        "c": "No puede hacerse en ningún caso.",
+        "d": "Se distingue según sea de nacionales o de extranjeros."
+      },
+      "explicacion": "La cesión de trabajadores (prestar trabajadores propios a otra empresa) está prohibida por regla general, considerándose cesión ilegal, a menos que se realice a través de Empresas de Trabajo Temporal (ETT) debidamente autorizadas, las cuales tienen este propósito específico y legal.\n\n**Ejemplo práctico:** Si tu estudio de animación necesita 10 rotoscopistas urgentemente para entregar un plano complejo, no puedes simplemente alquilarlos a otro estudio amigo que tenga poco trabajo en ese momento (eso sería cesión ilegal). Debes contratarlos directamente o recurrir a una Empresa de Trabajo Temporal (ETT) especializada en perfiles técnicos que te ceda legalmente a esos artistas durante el pico de producción.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Dar ocupación efectiva al trabajador.",
+      "opciones": {
+        "a": "Es obligación del empresario.",
+        "b": "No es necesario si paga el salario.",
+        "c": "Se exige un mínimo de horas de jornada.",
+        "d": "Es un facultad discrecional del empresario."
+      },
+      "explicacion": "El derecho a la ocupación efectiva es un derecho fundamental del trabajador y, por tanto, una obligación del empresario. No basta con pagar el salario; el empleador debe proporcionar tareas y funciones reales para que el trabajador desarrolle su actividad profesional.\n\n**Ejemplo práctico:** Tienes a un Senior Compositor en plantilla, pero el cliente ha retrasado la entrega de los plates (metraje original). Como Head of CG, es tu obligación legal asignarle tareas útiles (como I+D de nuevos nodos en Nuke, optimización de scripts o formación a juniors) en lugar de dejarlo mirando a la pared todo el día, ya que tiene derecho a la ocupación efectiva, no solo a cobrar su nómina a fin de mes.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El trabajador tiene;",
+      "opciones": {
+        "a": "Un deber de diligencia",
+        "b": "Un deber de fidelidad.",
+        "c": "Un deber de disposición.",
+        "d": "Las respuestas b y c son correctas."
+      },
+      "explicacion": "El deber de diligencia implica que el trabajador debe realizar sus funciones con el cuidado, la atención y la profesionalidad que exige su puesto de trabajo, cumpliendo con los estándares de calidad y rendimiento esperados.\n\n**Ejemplo práctico:** Un FX Artist en tu equipo tiene el deber de diligencia de revisar que sus simulaciones de fluidos en Houdini no tengan errores graves antes de enviarlas a la render farm. Si envía constantemente cachés rotos por negligencia o falta de atención, consumiendo miles de horas de render inútilmente, está incumpliendo este deber laboral básico.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "¿Qué reguló el primer convenio de la O.I.T.?",
+      "opciones": {
+        "a": "El trabajo de los menores.",
+        "b": "El trabajo de las mujeres.",
+        "c": "La jornada laboral.",
+        "d": "La afiliación sindical."
+      },
+      "explicacion": "El primer convenio adoptado por la Organización Internacional del Trabajo (O.I.T.) en 1919 fue el Convenio sobre las horas de trabajo (industria), que estableció el principio de la jornada laboral de 8 horas diarias y 48 horas semanales.\n\n**Ejemplo práctico:** En la industria de los VFX, el crunch time (horas extras excesivas) ha sido un problema histórico. Conocer que la limitación de la jornada laboral fue la primera preocupación de la O.I.T. hace más de un siglo te recuerda, como Head of CG, la importancia de planificar bien los bids y los calendarios de producción para evitar que tus artistas trabajen jornadas maratonianas de 14 horas, respetando los límites legales.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "\"El derecho a la pereza\" lo escribió:",
+      "opciones": {
+        "a": "Karl Marx.",
+        "b": "Bakunin.",
+        "c": "Paúl Lafargue.",
+        "d": "Pablo Iglesias."
+      },
+      "explicacion": "Paul Lafargue, yerno de Karl Marx, escribió el ensayo 'El derecho a la pereza' en 1880, defendiendo el tiempo libre y la reducción de la jornada laboral frente a la explotación.\n\n**Ejemplo práctico:** Como Head of CG, notas que el equipo de Lighting está sufriendo 'crunch time'. Aplicando la filosofía del derecho al descanso, prohíbes las horas extras los fines de semana para evitar el burnout, asegurando que los artistas mantengan su creatividad intacta para los renders finales.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El periodo de disfrute de las vacaciones;",
+      "opciones": {
+        "a": "Lo establece el empresario.",
+        "b": "Lo establece el trabajador.",
+        "c": "Lo establecen uno y otro en años alternos.",
+        "d": "Se fija de común acuerdo."
+      },
+      "explicacion": "Según el Estatuto de los Trabajadores, el periodo de vacaciones anuales debe ser acordado mutuamente entre el empresario y el trabajador, no pudiendo ser impuesto unilateralmente por ninguna de las partes.\n\n**Ejemplo práctico:** Un Senior Compositor pide vacaciones en la semana de entrega del proyecto. Como Head of CG, no puedes simplemente denegarlas por poder, sino que debes sentarte con él y fijar de común acuerdo unas fechas alternativas que le permitan descansar sin comprometer el pipeline del estudio de VFX.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El cierre patronal.",
+      "opciones": {
+        "a": "Está incluido entre las medidas de conflicto colectivo del artº 37 de la CE.",
+        "b": "Está incluido expresamente en el artº 28 del CE.",
+        "c": "Es un delito económico.",
+        "d": "Es inconstitucional."
+      },
+      "explicacion": "El cierre patronal es una medida de conflicto colectivo reconocida a los empresarios en el artículo 37.2 de la Constitución Española, permitiéndoles cerrar el centro de trabajo bajo ciertas condiciones legales.\n\n**Ejemplo práctico:** Ante una huelga incontrolada del departamento de Animación que amenaza con dañar los servidores y la granja de render, la directiva del estudio de VFX, asesorada por ti como Head of CG, decide aplicar un cierre patronal temporal para proteger los equipos y los assets del proyecto.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El derecho de huelga, es un derecho reconocido en la CE para:",
+      "opciones": {
+        "a": "Los trabajadores autónomos.",
+        "b": "Las profesiones liberales.",
+        "c": "Los trabajadores por cuenta ajena.",
+        "d": "Todos las respuestas son correctas."
+      },
+      "explicacion": "El derecho a la huelga, consagrado en el artículo 28.2 de la Constitución Española, es un derecho fundamental exclusivo de los trabajadores por cuenta ajena (asalariados) para defender sus intereses laborales.\n\n**Ejemplo práctico:** Si hay un conflicto por salarios en el estudio, solo los artistas 3D que están en plantilla (por cuenta ajena) pueden ejercer el derecho a huelga legalmente. Los modeladores freelance (autónomos) que trabajan por proyecto no tienen este derecho laboral, debiendo renegociar sus contratos mercantiles.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Se denomina autocomposición.",
+      "opciones": {
+        "a": "La negociación directa entre trabajadores y empresarios.",
+        "b": "El fin unilateral de un conflicto colectivo.",
+        "c": "La designación de un arbitro.",
+        "d": "Cuando el conflicto lo soluciona un juez."
+      },
+      "explicacion": "La autocomposición es un método de resolución de conflictos donde las propias partes implicadas (trabajadores y empresarios) negocian y llegan a un acuerdo de forma directa, sin la intervención de un tercero como un juez o árbitro.\n\n**Ejemplo práctico:** El equipo de Rigging exige mejores workstations. En lugar de elevar el conflicto a un arbitraje externo, tú como Head of CG te reúnes directamente con los representantes de los riggers y acuerdan actualizar las tarjetas gráficas este trimestre, resolviendo el problema mediante autocomposición.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

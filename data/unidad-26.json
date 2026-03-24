@@ -1,0 +1,126 @@
+{
+  "unidad": 26,
+  "titulo": "Autoevaluación Derecho Laboral y Fiscal Internacional",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Las dos notas más importantes del trabajo asalariado son:",
+      "opciones": {
+        "a": "Que sea autónomo y libre.",
+        "b": "La ajeneidad y la dependencia.",
+        "c": "Que sea personal y directo.",
+        "d": "La autonomía y la remuneración."
+      },
+      "explicacion": "El trabajo asalariado se define principalmente por la ajeneidad (los frutos del trabajo y los riesgos pertenecen al empresario) y la dependencia (el trabajador está bajo el ámbito de organización y dirección del empleador). **Ejemplo práctico:** Como Head of CG, si contratas a un artista 3D en plantilla, este trabaja con las licencias de software del estudio y bajo tu supervisión directa (dependencia), y los renders finales pertenecen al estudio, no al artista (ajeneidad).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Se denominan relaciones laborales especiales.",
+      "opciones": {
+        "a": "Deportistas profesionales.",
+        "b": "Funcionarios públicos.",
+        "c": "Personal al servicio del hogar familiar.",
+        "d": "Respuestas a y c son correctas."
+      },
+      "explicacion": "El Estatuto de los Trabajadores en España establece ciertas relaciones laborales de carácter especial, entre las que se incluyen explícitamente los deportistas profesionales y el personal al servicio del hogar familiar. Los funcionarios públicos tienen una relación estatutaria, no laboral. **Ejemplo práctico:** Aunque en un estudio de VFX la mayoría de los artistas tienen contratos laborales comunes, si el estudio contratara a un alto directivo (como un CEO externo), esa relación podría considerarse de alta dirección, la cual es otra de las relaciones laborales especiales reconocidas por la ley, requiriendo un contrato con cláusulas distintas a las de un rigger o lighter estándar.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Existe la presunción de existencia del contrato de trabajo.",
+      "opciones": {
+        "a": "En ningún caso.",
+        "b": "Solo en los contratos por escrito.",
+        "c": "Transcurrido seis meses desde su inicio.",
+        "d": "Ninguna respuesta es correcta."
+      },
+      "explicacion": "El Estatuto de los Trabajadores presume que existe un contrato de trabajo entre todo el que presta un servicio por cuenta y dentro del ámbito de organización y dirección de otro y el que lo recibe a cambio de una retribución. Por tanto, no se requiere que sea por escrito ni que pasen seis meses. La respuesta correcta es que ninguna de las opciones anteriores es válida. **Ejemplo práctico:** Si un animador freelance comienza a ir todos los días al estudio, usa los equipos de la empresa, cumple un horario fijo establecido por el Head of CG y recibe un pago mensual fijo, la ley presume que existe un contrato de trabajo encubierto (falso autónomo), independientemente de que no se haya firmado un contrato laboral por escrito.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La caducidad se distingue de la prescripción;",
+      "opciones": {
+        "a": "En que debe plantearse por escrito.",
+        "b": "Se aplica solo al régimen disciplinario.",
+        "c": "No puede ser interrumpida por reclamación judicial o extrajudicial.",
+        "d": "Es una institución exclusiva del derecho laboral."
+      },
+      "explicacion": "La principal diferencia jurídica entre caducidad y prescripción es que la prescripción puede interrumpirse mediante una reclamación (judicial o extrajudicial), reiniciando el cómputo del plazo. La caducidad, por el contrario, es un plazo fatal que no admite interrupción alguna; una vez transcurrido, el derecho se extingue automáticamente. **Ejemplo práctico:** Imagina que un artista de composición tiene un plazo de caducidad de 20 días para impugnar un despido. Como Head of CG, debes saber que si el artista envía un burofax quejándose el día 15, esto no detiene el reloj (no se interrumpe). Si no presenta la demanda oficial antes del día 20, pierde su derecho a reclamar, a diferencia de una deuda económica que sí prescribiría y podría interrumpirse con ese burofax.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Aspectos del contrato laboral que la ley deja a disposición de los contratantes.",
+      "opciones": {
+        "a": "La movilidad geográfica.",
+        "b": "El periodo de prueba.",
+        "c": "La regulación de las excedencia.",
+        "d": "La distribución de la jornada laboral."
+      },
+      "explicacion": "El periodo de prueba es un elemento optativo en el contrato de trabajo. La ley establece unos límites máximos de duración, pero su inclusión y duración exacta (dentro de esos límites) se deja a la libre voluntad y acuerdo de las partes contratantes. Otros aspectos como la movilidad o la jornada tienen regulaciones legales y de convenio más estrictas. **Ejemplo práctico:** Al contratar a un nuevo Lead de FX, como Head of CG puedes acordar con Recursos Humanos y el candidato incluir un periodo de prueba de 6 meses en su contrato. Esto es opcional; si ambas partes están de acuerdo, podrían firmar el contrato sin ningún periodo de prueba, demostrando que es una disposición a voluntad de los contratantes.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Uno de los supuestos de contrato de duración determinada es;",
+      "opciones": {
+        "a": "Contrato formativo.",
+        "b": "Contrato a domicilio.",
+        "c": "Contrato de interinidad.",
+        "d": "Ninguna respuesta es correcta."
+      },
+      "explicacion": "El contrato de interinidad es un tipo de contrato de duración determinada que se utiliza para sustituir a trabajadores con derecho a reserva del puesto de trabajo o para cubrir temporalmente un puesto durante un proceso de selección. Los contratos formativos tienen su propia categoría, y el trabajo a domicilio es una modalidad, no una duración.\\n\n**Ejemplo práctico:** Como Head of CG, necesitas cubrir la baja por maternidad de tu Lead Lighter durante 4 meses. Para ello, el estudio firma un contrato de interinidad con un artista Senior que ocupará su puesto exactamente por el tiempo que dure la baja, terminando la relación laboral cuando la Lead original se reincorpore.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Las Administraciones publicas...",
+      "opciones": {
+        "a": "No pueden contratar personal laboral.",
+        "b": "Solo pueden hacerlo para trabajos manuales.",
+        "c": "Solo las administraciones locales..",
+        "d": "Solo en supuestos delimitados como, interinidad, acumulación de tareas, obras o servicios determinados."
+      },
+      "explicacion": "Las Administraciones Públicas sí pueden contratar personal laboral, pero están sujetas a los principios de igualdad, mérito y capacidad. La contratación temporal (duración determinada) está restringida a causas justificadas muy específicas, como la interinidad, el exceso de tareas o proyectos concretos, para evitar la precariedad y el fraude de ley en el sector público.\\n\n**Ejemplo práctico:** Imagina que un ente público de radiodifusión decide coproducir una serie de animación 3D y necesita contratar a un equipo de VFX. Como Head of CG, sabes que no pueden hacerles contratos indefinidos directamente sin una oposición, así que los contratan bajo un supuesto delimitado de 'obra o servicio determinado' exclusivamente para la duración de la producción de esa serie.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Las faltas y sanciones a los trabajadores...",
+      "opciones": {
+        "a": "Deben ser en virtud de incumplimientos laborales.",
+        "b": "No se puede sancionar con la reducción de vacaciones.",
+        "c": "Las faltas graves y las muy graves requerirán comunicación escrita.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "El poder disciplinario del empresario está regulado. Las sanciones siempre deben responder a un incumplimiento laboral real. Está prohibido por ley sancionar reduciendo los días de descanso o vacaciones. Además, por seguridad jurídica, las faltas graves y muy graves exigen notificación formal por escrito detallando los hechos y la fecha. Por tanto, todas las afirmaciones son correctas.\\n\n**Ejemplo práctico:** Como Head of CG, notas que un animador falta repetidamente a las dailies sin justificación (incumplimiento laboral). RRHH decide sancionarlo con una suspensión de empleo y sueldo de dos días (falta grave comunicada por escrito), pero en ningún caso pueden decirle 'te quitamos dos días de tus vacaciones de verano' como castigo, ya que es ilegal.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Se considera protección no reglada o asistencial del empresario.",
+      "opciones": {
+        "a": "La que se establece en las leyes de beneficencia.",
+        "b": "Los \"bonus\" por rendimiento en el trabajo.",
+        "c": "La que no consta en ninguna norma.",
+        "d": "La afiliación a la seguridad social obligatoria."
+      },
+      "explicacion": "La protección 'no reglada' o asistencial por parte del empresario se refiere a aquellos beneficios, ayudas o mejoras sociales que la empresa otorga de manera voluntaria a sus empleados y que no vienen exigidas por el Estatuto de los Trabajadores, el convenio colectivo ni ninguna otra norma legal obligatoria.\\n\n**Ejemplo práctico:** Como Head of CG, convences al estudio para que ofrezca masajes gratuitos los viernes y un seguro dental extra para los artistas durante los meses de crunch time. Esta es una protección no reglada, ya que ninguna ley de VFX o convenio exige que el estudio pague fisioterapeutas o dentistas; es una mejora voluntaria para cuidar al equipo.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "\"En la relación de trabajo, los trabajadores tienen derecho a su integridad física y a una adecuada política de seguridad e higiene\" Este precepto esta :",
+      "opciones": {
+        "a": "En la ley de Prevención de Riesgos laborales.",
+        "b": "En el Estatuto de los Trabajadores.",
+        "c": "En la Ley General de Seguridad Social.",
+        "d": "En la Ley de Infracciones y Sanciones del Orden social."
+      },
+      "explicacion": "Aunque la Ley de Prevención de Riesgos Laborales desarrolla extensamente esta materia, el derecho básico a la integridad física y a una adecuada política de seguridad e higiene en el trabajo está consagrado fundamentalmente en el Artículo 4.2.d) del Estatuto de los Trabajadores, que es la norma básica que regula los derechos laborales en España.\\n\n**Ejemplo práctico:** Como Head of CG, te aseguras de que todos los artistas de tu departamento tengan sillas ergonómicas, monitores a la altura correcta y descansos visuales. No lo haces solo por la Ley de Prevención, sino porque el propio Estatuto de los Trabajadores garantiza este derecho básico a la integridad física, evitando que sufran lesiones de espalda o túnel carpiano por las largas horas modelando o componiendo.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "unidad": 28,
+  "titulo": "Autoevaluación Unidad 28 - Derecho Laboral y Fiscal Internacional",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Los riesgos que contempla la seguridad social son:",
+      "opciones": {
+        "a": "De carácter individual.",
+        "b": "De tipo personal.",
+        "c": "De naturaleza económica.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "La Seguridad Social en España contempla contingencias que afectan al trabajador de manera personal (como una enfermedad o accidente) y que, a su vez, generan un impacto de naturaleza económica (como la pérdida de rentas o salarios). Por ello, engloba factores individuales, personales y económicos.\n\n**Ejemplo práctico:** Como Head of CG, si uno de tus Senior Lighters sufre una afección ocular grave (riesgo personal/individual) que le impide evaluar el color en los monitores, la Seguridad Social le proporciona una prestación para cubrir su pérdida de ingresos (naturaleza económica) mientras el estudio gestiona su baja médica.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El texto refundido de la Ley General de la Seguridad Social, es de ;",
+      "opciones": {
+        "a": "20 de Junio de 1994.",
+        "b": "20 de enero de 1900.",
+        "c": "27 de febrero de 1908.",
+        "d": "14 de abril de 1931."
+      },
+      "explicacion": "El Real Decreto Legislativo 1/1994, de 20 de junio, aprobó el texto refundido de la Ley General de la Seguridad Social, unificando y estructurando la normativa vigente en ese momento en España, siendo la base legal fundamental durante décadas.\n\n**Ejemplo práctico:** Al planificar el presupuesto anual del departamento de 3D, el Head of CG debe tener en cuenta los costes de cotización a la Seguridad Social de los artistas, cuyas bases y obligaciones legales se estructuraron sólidamente a partir de la Ley General de la Seguridad Social de 1994.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La afiliación",
+      "opciones": {
+        "a": "Es única para toda la vida y para todo el sistema de seguridad social.",
+        "b": "Depende de cada Comunidad Autónoma.",
+        "c": "Varía al cambiar de régimen de seguridad social.",
+        "d": "Esta vinculada al empadronamiento."
+      },
+      "explicacion": "La afiliación es un acto administrativo mediante el cual una persona se incorpora al sistema de la Seguridad Social por primera vez. Este número asignado es vitalicio y único, manteniéndose invariable aunque el trabajador cambie de empresa, de sector o de régimen (por ejemplo, de asalariado a autónomo).\n\n**Ejemplo práctico:** Cuando contratas a un Junior Animator recién graduado para su primer proyecto en el estudio, recursos humanos tramita su afiliación. Ese mismo número de Seguridad Social le acompañará toda su carrera, incluso si años después decide trabajar como freelance (autónomo) haciendo simulaciones de Houdini para tu equipo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El accidente de trabajo exige alguno de los siguientes elementos:",
+      "opciones": {
+        "a": "Lesión.",
+        "b": "Afiliación a la seguridad social.",
+        "c": "Trabajo.",
+        "d": "Las respuestas a y c son las correctas."
+      },
+      "explicacion": "Legalmente, para que un suceso sea calificado como accidente de trabajo, debe existir una lesión corporal (física o psíquica) que sufra el trabajador y que dicha lesión sea con ocasión o por consecuencia del trabajo que ejecuta por cuenta ajena. Ambos elementos (lesión y trabajo) son indispensables.\n\n**Ejemplo práctico:** Si un FX Artist sufre un ataque de epilepsia (lesión) provocado directamente por estar revisando simulaciones de explosiones con luces estroboscópicas en su monitor durante su jornada laboral (trabajo), el Head of CG debe reportarlo inmediatamente como un accidente de trabajo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Tiene la consideración de accidente de trabajo, las lesiones sufridas ...",
+      "opciones": {
+        "a": "Durante el periodo de vacaciones.",
+        "b": "Al ir o al volver del lugar de trabajo.",
+        "c": "Al asistir a espectáculos públicos autorizados.",
+        "d": "En situación de excedencia por maternidad."
+      },
+      "explicacion": "La ley reconoce como accidente de trabajo aquel que sufre el trabajador al ir o al volver del lugar de trabajo, conocido jurídicamente como accidente 'in itinere'. Se considera así porque el desplazamiento está motivado estrictamente por la necesidad de acudir al puesto laboral.\n\n**Ejemplo práctico:** Si tu Lead de Composición sufre un accidente de tráfico en su motocicleta mientras se dirige desde su domicilio hacia el estudio de VFX para supervisar la entrega final de unos planos, este evento se clasifica legalmente como accidente de trabajo 'in itinere'.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Las incapacidades permanentes se subdividen en :",
+      "opciones": {
+        "a": "Incapacidad Total.",
+        "b": "Incapacidad Absoluta.",
+        "c": "Incapacidad Parcial.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "En el derecho laboral español, la incapacidad permanente se clasifica en varios grados dependiendo de la reducción de la capacidad de trabajo: parcial, total, absoluta y gran invalidez. Por tanto, las opciones A, B y C son grados válidos de incapacidad permanente.\n\n**Ejemplo práctico:** Imagina que un Senior Compositor sufre un accidente ocular. Si pierde agudeza visual pero aún puede componer con ayuda, sería una incapacidad parcial. Si pierde la vista lo suficiente como para no poder usar Nuke nunca más, pero puede dar clases teóricas, sería total. Si pierde la vista por completo y no puede realizar ningún trabajo, sería absoluta.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El derecho al reconocimiento de la jubilación",
+      "opciones": {
+        "a": "No prescribe.",
+        "b": "Caduca al año de alcanzar la edad de jubilación.",
+        "c": "Prescribe, pero puede interrumpirse con una reclamación.",
+        "d": "Caduca a los tres meses de alcanzar la edad de jubilación."
+      },
+      "explicacion": "El derecho a que se reconozca la pensión de jubilación es imprescriptible, lo que significa que no se pierde por el paso del tiempo. Una persona puede solicitar su jubilación años después de haber alcanzado la edad legal.\n\n**Ejemplo práctico:** Un Lead Lighter de tu estudio decide retirarse a los 65 años, pero por despiste no solicita su pensión hasta los 68 años. Como Head of CG, le puedes asegurar que su derecho a jubilarse no ha prescrito y el Estado debe reconocerle su pensión.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "La protección por desempleo tiene varias prestaciones;",
+      "opciones": {
+        "a": "Prestación asistencial.",
+        "b": "Prestación formativa.",
+        "c": "Prestación contributiva.",
+        "d": "Las respuestas a y c son las correctas."
+      },
+      "explicacion": "El sistema de protección por desempleo se estructura en dos niveles principales: el nivel contributivo (basado en las cotizaciones previas) y el nivel asistencial (subsidios para quienes no tienen derecho a la contributiva y carecen de rentas). No existe una prestación formativa como tal.\n\n**Ejemplo práctico:** Si termina el contrato de un animador 3D tras 2 años en una película, cobrará la prestación contributiva. Si un rigger junior agota su paro y tiene responsabilidades familiares sin ingresos, podría solicitar la prestación asistencial para mantenerse mientras el estudio aprueba el siguiente proyecto.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El proceso laboral se caracteriza por...",
+      "opciones": {
+        "a": "Su oralidad.",
+        "b": "Se celebra en una sola instancia.",
+        "c": "La ejecución de las sentencias las realizan los juzgados civiles.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "El procedimiento laboral está regido por principios específicos para hacerlo más ágil, siendo la oralidad uno de los más destacados (los juicios se desarrollan predominantemente de forma verbal). No se celebra en una sola instancia y la ejecución corresponde a los juzgados de lo social.\n\n**Ejemplo práctico:** Si un artista de VFX demanda al estudio por horas extras no pagadas durante el crunch, el juicio en el Juzgado de lo Social será rápido y basado en la exposición oral de los abogados y testigos (oralidad), en lugar de un interminable intercambio de documentos escritos.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Un convenio de la O.I.T. Establece la obligación de los Estados de constituir...",
+      "opciones": {
+        "a": "Un sistema de conciliación previo.",
+        "b": "Una inspección de trabajo.",
+        "c": "Un fondo para garantizar los salarios.",
+        "d": "Un órgano de investigación de los accidentes de trabajo."
+      },
+      "explicacion": "El Convenio número 81 de la Organización Internacional del Trabajo (OIT) establece que todo Miembro debe mantener un sistema de inspección del trabajo para velar por el cumplimiento de las disposiciones legales relativas a las condiciones laborales.\n\n**Ejemplo práctico:** Como Head of CG, debes asegurarte de que las posturas ergonómicas de los artistas y los horarios de renderizado cumplan la normativa, ya que el Estado, por mandato de la OIT, cuenta con una Inspección de Trabajo que podría presentarse en el estudio para verificar las condiciones.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

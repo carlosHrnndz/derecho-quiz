@@ -1,0 +1,126 @@
+{
+  "unidad": 29,
+  "titulo": "Autoevaluación: Derecho Laboral y Fiscal Internacional - Tributos",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "En España conforme a la Constitución sobre tributos legisla...",
+      "opciones": {
+        "a": "El Gobierno.",
+        "b": "El Parlamento.",
+        "c": "La Comunidades Autónomas.",
+        "d": "El Tribunal Constitucional."
+      },
+      "explicacion": "En el sistema jurídico español, el poder legislativo recae en las Cortes Generales (el Parlamento), que son las encargadas de elaborar y aprobar las leyes, incluidas las leyes tributarias, según el principio de legalidad o reserva de ley. El Gobierno solo tiene potestad reglamentaria o puede dictar Decretos-Leyes en casos de urgencia, pero la potestad originaria para establecer tributos corresponde exclusivamente al Estado mediante ley votada en el Parlamento.\n\n**Ejemplo práctico:** Imagina que eres el Head of CG y necesitas aprobar un nuevo presupuesto masivo para render farm en la nube. Tú (el Gobierno) puedes proponer el gasto y gestionar el día a día, pero la aprobación final de esa 'ley' de presupuesto general del estudio tiene que pasar por la junta directiva o los inversores principales (el Parlamento), quienes tienen la autoridad final para autorizar esa carga financiera.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El Estado cede a las Comunidades Autónomas los siguientes impuestos...",
+      "opciones": {
+        "a": "Impuesto sobre el Patrimonio.",
+        "b": "Impuesto sobre el IVA.",
+        "c": "Impuesto sobre sucesiones y donaciones",
+        "d": "Las respuestas a y c son las correctas."
+      },
+      "explicacion": "El sistema de financiación autonómica en España establece que ciertos impuestos estatales son cedidos total o parcialmente a las Comunidades Autónomas. El Impuesto sobre el Patrimonio y el Impuesto sobre Sucesiones y Donaciones son ejemplos clásicos de impuestos totalmente cedidos, otorgando a las CCAA competencias normativas y de recaudación sobre ellos. El IVA es cedido solo parcialmente y sin capacidad normativa.\n\n**Ejemplo práctico:** Como Head of CG, el estudio central (el Estado) te asigna un presupuesto global. Sin embargo, te 'cede' el control total sobre ciertas partidas específicas, como el fondo para licencias de software especializado (Patrimonio) y el fondo para bonos de finalización de proyecto (Sucesiones y Donaciones). Tú decides cómo administrar y distribuir esos fondos específicos dentro de tu departamento, al igual que las CCAA gestionan esos impuestos cedidos.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La relación de fuentes sobre los tributos las establece el artº 7 de la ...",
+      "opciones": {
+        "a": "Ley General Presupuestaria.",
+        "b": "Constitución.",
+        "c": "Ley General Tributaria.",
+        "d": "Estatutos de Autonomía."
+      },
+      "explicacion": "El artículo 7 de la Ley General Tributaria (LGT) es el precepto fundamental que enumera y jerarquiza las fuentes del ordenamiento tributario español, indicando que los tributos se rigen por la Constitución, los tratados internacionales, las normas de la Unión Europea, la propia LGT, las leyes de cada tributo y los reglamentos.\n\n**Ejemplo práctico:** Piensa en la Ley General Tributaria como el 'Pipeline Master Document' de tu estudio de VFX. El artículo 7 sería la sección de ese documento que establece la jerarquía de las reglas técnicas: primero se siguen las directrices globales del cliente (Constitución), luego el Pipeline Master Document (LGT), y finalmente los scripts específicos de cada show (leyes de cada tributo). Si hay un conflicto, este documento te dice qué regla prevalece.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Entre los principios constitucionales, referidos a los tributos, como principio formal se considera el de...",
+      "opciones": {
+        "a": "Reserva de ley.",
+        "b": "Generalidad.",
+        "c": "Igualdad",
+        "d": "Progresividad."
+      },
+      "explicacion": "Los principios constitucionales tributarios se dividen en materiales (justicia, generalidad, igualdad, progresividad, no confiscatoriedad, capacidad económica) y formales. El principio de reserva de ley es el principal principio formal, ya que dicta 'cómo' se deben crear los tributos: mediante una ley aprobada por el poder legislativo, garantizando así la representación ciudadana en la imposición de cargas fiscales.\n\n**Ejemplo práctico:** En el estudio de VFX, los principios 'materiales' serían que todos los artistas trabajen horas justas (igualdad) y que los leads asuman tareas más complejas (progresividad). El principio 'formal' de reserva de ley sería la regla estricta de que cualquier cambio en el software principal de la compañía (ej. pasar de Maya a Houdini) solo puede ser aprobado mediante un comité formal de directores técnicos (el Parlamento), y no por una decisión unilateral de un supervisor de turno.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "El Número de artículos de la Ley General Tributaria es de ...",
+      "opciones": {
+        "a": "329",
+        "b": "289",
+        "c": "249",
+        "d": "356"
+      },
+      "explicacion": "La Ley 58/2003, de 17 de diciembre, General Tributaria, que es el eje central del sistema tributario español, consta de 249 artículos, además de diversas disposiciones adicionales, transitorias, derogatorias y finales. Conocer su estructura es básico para el estudio del derecho fiscal.\n\n**Ejemplo práctico:** Imagina que el manual de estándares de nomenclatura y estructura de carpetas (Naming Conventions) de tu departamento de CG tiene exactamente 249 reglas estrictas. Como Head of CG, debes saber que existen exactamente 249 artículos en ese manual para asegurar que todos los assets, desde el modelado hasta el render final, pasen las validaciones automáticas del pipeline sin errores.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Son notas características del tributo...",
+      "opciones": {
+        "a": "Es el mas típico exponente de los ingresos de derecho publico.",
+        "b": "No constituye nunca sanción.",
+        "c": "No tiene alcance confiscatorio.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "Los tributos son prestaciones pecuniarias exigidas por una Administración pública que se caracterizan por ser ingresos de derecho público, no tener carácter de sanción (no son multas por infracciones) y estar limitados por el principio de no confiscatoriedad (no pueden agotar la riqueza del contribuyente). Por ello, todas las afirmaciones son correctas.\n\n**Ejemplo práctico:** Como Head of CG, si el estudio debe pagar un tributo municipal por ocupar la vía pública durante la captura de fotogrametría para un entorno 3D, ese pago es un ingreso de derecho público, no es una multa por hacer algo ilegal, y su importe está regulado para no ser abusivo ni confiscar los bienes del estudio.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Las Tasas son...",
+      "opciones": {
+        "a": "Un impuesto.",
+        "b": "Una contribución especial.",
+        "c": "Una categoría de los tributos.",
+        "d": "Todas las respuestas son incorrectas."
+      },
+      "explicacion": "En el ordenamiento jurídico, los tributos se dividen en tres grandes categorías: impuestos, tasas y contribuciones especiales. Por lo tanto, la tasa no es un impuesto ni una contribución, sino una de las tres clases que conforman el concepto general de tributo, caracterizada por pagarse a cambio de un servicio público o el uso privativo del dominio público.\n\n**Ejemplo práctico:** Si el estudio de VFX necesita solicitar una licencia específica al ayuntamiento para instalar una nueva granja de render (render farm) que requiere modificaciones en el edificio, el importe que se paga por la tramitación de ese expediente administrativo es una tasa, la cual es una categoría de tributo.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "La categoría tributaria por antonomasia es...",
+      "opciones": {
+        "a": "La contribución especial.",
+        "b": "El impuesto.",
+        "c": "La tasa.",
+        "d": "Las licencias."
+      },
+      "explicacion": "El impuesto es el tributo más representativo e importante para la financiación del Estado. A diferencia de las tasas (donde hay un servicio directo) o las contribuciones especiales (donde hay un beneficio por obra pública), el impuesto se exige sin una contraprestación directa, basándose únicamente en la capacidad económica del contribuyente (como obtener rentas o poseer patrimonio).\n\n**Ejemplo práctico:** Como Head of CG, sabes que el estudio paga el Impuesto sobre Sociedades por los beneficios netos obtenidos tras entregar los planos de efectos visuales de una película. Este es el tributo por antonomasia, ya que se paga por el simple hecho de generar riqueza, sin recibir un servicio directo a cambio en ese momento.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El impuesto sobre el valor añadido es ...",
+      "opciones": {
+        "a": "Un impuesto directo.",
+        "b": "Un impuesto indirecto.",
+        "c": "Una tasa.",
+        "d": "Una contribución especial."
+      },
+      "explicacion": "El Impuesto sobre el Valor Añadido (IVA) es el ejemplo clásico de un impuesto indirecto. Se denomina indirecto porque no grava directamente la renta o el patrimonio de una persona o empresa, sino que grava el consumo de bienes y servicios. La carga impositiva se traslada a través de la cadena de producción hasta recaer en el consumidor final.\n\n**Ejemplo práctico:** Cuando el estudio de animación compra nuevas licencias anuales de software de simulación 3D (como Houdini o Maya), paga un IVA en la factura. Este es un impuesto indirecto porque grava el consumo de ese software, actuando el estudio como un eslabón en la cadena productiva.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La aplicación de los tributos y el ejercicio de la potestad sancionadora, en el ámbito del Estado se encomienda a ..",
+      "opciones": {
+        "a": "Ministerio de Economía y Hacienda.",
+        "b": "Ministerio de Presidencia.",
+        "c": "Agencia estatal de Administración Tributaria.",
+        "d": "Consejo para la Defensa del Contribuyente."
+      },
+      "explicacion": "En España, la Agencia Estatal de Administración Tributaria (AEAT), comúnmente conocida como Hacienda, es el ente de derecho público encargado específicamente de la gestión, inspección y recaudación de los tributos estatales, así como de ejercer la potestad sancionadora frente a los incumplimientos fiscales de los contribuyentes.\n\n**Ejemplo práctico:** Si el estudio de VFX comete un error al aplicar las deducciones fiscales por I+D+i en el desarrollo de un nuevo pipeline de renderizado in-house, la entidad que realizará la inspección y, si procede, impondrá la sanción correspondiente, será la Agencia Estatal de Administración Tributaria.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}
