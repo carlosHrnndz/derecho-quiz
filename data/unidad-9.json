@@ -1,0 +1,126 @@
+{
+  "unidad": 9,
+  "titulo": "Autoevaluación Unidad 9 - Derecho de la Empresa II",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La ley 16/1989 de 17 de julio de defensa de la competencia, hasta cuando se mantuvo en vigor.",
+      "opciones": {
+        "a": "Sigue vigente.",
+        "b": "Hasta que llego el Reglamento comunitario 1/2003",
+        "c": "Hasta el 1 de Septiembre de 2007 con la llegada de la Ley 15/2007",
+        "d": "Hasta la ley 1/2002 de 21 de Febrero."
+      },
+      "explicacion": "La Ley 16/1989 fue derogada y sustituida por la Ley 15/2007, de 3 de julio, de Defensa de la Competencia, la cual entró en vigor el 1 de septiembre de 2007 para modernizar el sistema y adaptarlo a la normativa europea.\n\n**Ejemplo práctico:** Imagina que el estudio utilizaba un motor de render antiguo (como Mental Ray, equivalente a la ley de 1989). Hasta el 1 de septiembre de 2007, ese era el estándar del pipeline, pero a partir de esa fecha se implementó un nuevo motor más moderno y adaptado a los estándares actuales (como Arnold, equivalente a la Ley 15/2007), dejando el anterior obsoleto y fuera de uso.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La Ley de Defensa de la Competencia, prohíbe...",
+      "opciones": {
+        "a": "El abuso de posición dominante.",
+        "b": "Falseamiento de la libre competencia por actos desleales",
+        "c": "Acuerdos o practic colusorias.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "La Ley de Defensa de la Competencia tiene como objetivo proteger el mercado, por lo que prohíbe expresamente las prácticas colusorias (acuerdos entre empresas para fijar precios), el abuso de posición dominante y el falseamiento de la libre competencia mediante actos desleales.\n\n**Ejemplo práctico:** Como Head of CG, si te alias con los otros dos grandes estudios de la ciudad para acordar no pagar a los artistas de Houdini más de cierta cantidad (práctica colusoria), o si usas tu monopolio en licencias de un software propietario para hundir a estudios pequeños (abuso de posición dominante), estarías incurriendo en prácticas prohibidas que destruyen el ecosistema de la industria.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La Ley de Defensa de la Competencia, sobre lo que considera posición dominante..",
+      "opciones": {
+        "a": "No tiene un concepto jurídico.",
+        "b": "Lo establece de un modo general",
+        "c": "Se remite a los reglamentos comunitarios.",
+        "d": "Se remite a los Tratados Internacionales."
+      },
+      "explicacion": "La normativa de competencia no ofrece una definición jurídica cerrada y estricta de lo que constituye una 'posición dominante'. En su lugar, es un concepto económico que se evalúa caso por caso, analizando la cuota de mercado y la capacidad de una empresa para actuar de forma independiente de sus competidores y clientes.\n\n**Ejemplo práctico:** No existe una regla estricta que diga 'tener 50 render nodes te hace dominante'. Como Head of CG, sabes que la 'posición dominante' de un software en el pipeline (ej. Maya para animación) no se define por un contrato legal, sino por la realidad del mercado: si todos los animadores lo usan y no puedes prescindir de él sin paralizar la producción, ese software tiene una posición dominante de facto.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La Comisión Nacional de Competencia esta compuesta por...",
+      "opciones": {
+        "a": "Por el Presidente y el Consejo.",
+        "b": "Por el Presidente, el Consejo y la Dirección de Investigación.",
+        "c": "Por el Presidente y el Consejo y la Junta General",
+        "d": "Por el Presidente y el Consejo, la Junta General un representante del Ministerio de Economía."
+      },
+      "explicacion": "En la estructura de la antigua Comisión Nacional de la Competencia (hoy integrada en la CNMC), los órganos rectores principales eran el Presidente, el Consejo (órgano colegiado de resolución) y la Dirección de Investigación (encargada de instruir los expedientes).\n\n**Ejemplo práctico:** Piensa en la estructura de revisión de un gran proyecto de VFX. Tienes al VFX Supervisor (Presidente), al comité de revisión o Dailies (el Consejo que toma la decisión final sobre los planos), y al equipo de QA/Data Wranglers (la Dirección de Investigación) que revisa técnicamente los renders y recopila los errores antes de presentarlos al comité.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "La Comisión Nacional de Competencia tiene las siguientes facultades...",
+      "opciones": {
+        "a": "Realizar funciones de arbitraje.",
+        "b": "Emitir dictámenes sobre proyectos o proposiciones de normas.",
+        "c": "Elaboración de informes generales sobre sectores económicos",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "La Comisión Nacional de la Competencia no solo sancionaba, sino que tenía funciones consultivas y de promoción de la competencia. Esto incluía realizar arbitrajes, emitir dictámenes sobre normativas que pudieran afectar al mercado y elaborar informes sobre la situación de diferentes sectores económicos.\n\n**Ejemplo práctico:** El departamento de Pipeline en tu estudio no solo 'castiga' a los artistas que rompen la nomenclatura de archivos. También tiene facultades para mediar en conflictos entre los departamentos de Lighting y Comp (arbitraje), emitir opiniones sobre si adoptar un nuevo software de tracking (dictámenes sobre normas) y hacer auditorías generales sobre el rendimiento de la granja de render (informes sobre sectores).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "¿Quién nombra al Presidente y a los Consejeros de la Comisión Nacional de Competencia?",
+      "opciones": {
+        "a": "El Congreso de los Diputados.",
+        "b": "El Ministerio de Economía",
+        "c": "El Gobierno.",
+        "d": "El Senado."
+      },
+      "explicacion": "En el marco legal español, el Presidente y los Consejeros de la Comisión Nacional de la Competencia son nombrados por el Gobierno mediante Real Decreto, a propuesta del Ministro de Economía.\\n\\n\n**Ejemplo práctico:** Imagina que el Gobierno es como el CEO de un gran estudio de VFX. Aunque los supervisores (Ministro de Economía) propongan a un candidato ideal para ser el nuevo Head of CG (Presidente de la Comisión), es el CEO (el Gobierno) quien finalmente firma el contrato y hace el nombramiento oficial para liderar el departamento y asegurar que no haya monopolios internos de recursos de render.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuantas clases de procedimientos administrativos especiales en materia de defensa de la competencia existen",
+      "opciones": {
+        "a": "Uno.",
+        "b": "Dos.",
+        "c": "Tres.",
+        "d": "Cuatro."
+      },
+      "explicacion": "Existen principalmente tres clases de procedimientos en materia de defensa de la competencia: el procedimiento sancionador por conductas anticompetitivas, el procedimiento de control de concentraciones económicas y el procedimiento de control de ayudas públicas.\\n\\n\n**Ejemplo práctico:** Como Head of CG, tienes tres procedimientos especiales para mantener el orden en la granja de render: 1) Sancionador (cuando un artista lanza un render sin optimizar que bloquea la granja), 2) Control de concentraciones (cuando dos departamentos quieren fusionar sus cuotas de render prioritario) y 3) Control de ayudas (cuando asignas licencias extra de software a un equipo específico).",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Plazo máximo de resolución de un procedimiento sancionador por el Consejo de la Comisión Nacional de Competencia.",
+      "opciones": {
+        "a": "18 meses.",
+        "b": "Un año.",
+        "c": "Dos años.",
+        "d": "6 meses."
+      },
+      "explicacion": "La Ley de Defensa de la Competencia establece que el plazo máximo para resolver y notificar la resolución de un procedimiento sancionador por conductas restrictivas de la competencia es de 18 meses desde la fecha de incoación del mismo.\\n\\n\n**Ejemplo práctico:** Si se abre una investigación interna porque el equipo de Lighting está acaparando todas las licencias de Nuke (conducta anticompetitiva), el Head of CG tiene un plazo máximo estricto de 18 meses (equivalente al ciclo de producción de una película animada) para emitir una resolución final y sancionar al equipo si es necesario, antes de que el caso caduque.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "La Ley de Defensa de la Competencia tiene como ámbito de aplicación..",
+      "opciones": {
+        "a": "El subjetivo.",
+        "b": "El territorial.",
+        "c": "Los establecidos por las partes",
+        "d": "Las respuestas a y b son correctas."
+      },
+      "explicacion": "La Ley de Defensa de la Competencia se aplica tanto en el ámbito territorial (prácticas que produzcan efectos en el territorio nacional) como en el ámbito subjetivo (se aplica a cualquier persona física o jurídica que realice actividades económicas).\\n\\n\n**Ejemplo práctico:** Las normas de uso de la red del estudio se aplican tanto a nivel territorial (cualquier workstation conectada en la oficina principal o en la sede remota) como a nivel subjetivo (aplica a todos los artistas, supervisores y TDs, sin importar si son empleados fijos o freelancers). Ambas condiciones definen el alcance de las reglas del Head of CG.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Los Actos de Confusión mas frecuentes, contrarios a los intereses de los consumidores se dan...",
+      "opciones": {
+        "a": "En relación a la graduación alcohólica de las bebidas",
+        "b": "Con los signos distintivos.",
+        "c": "Por la entrega de obsequios.",
+        "d": "Por la venta con perdida."
+      },
+      "explicacion": "En el ámbito de la competencia desleal, los actos de confusión más frecuentes que perjudican a los consumidores suelen darse mediante el uso indebido o la imitación de signos distintivos (marcas, nombres comerciales, logotipos) de un competidor, haciendo creer al consumidor que adquiere un producto de otra empresa.\\n\\n\n**Ejemplo práctico:** Imagina que un estudio rival de VFX intenta robar clientes usando un logotipo y un nombre de software interno (signo distintivo) casi idéntico al motor de render propietario de tu estudio. Esto crea confusión en los clientes (productores), quienes podrían contratar al estudio rival pensando que obtendrán la misma calidad visual que ofrece tu equipo liderado por el Head of CG.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

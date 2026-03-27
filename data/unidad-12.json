@@ -1,0 +1,126 @@
+{
+  "unidad": 12,
+  "titulo": "Autoevaluación de Derecho de la Empresa II",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "En el derecho mercantil, al contrario que en el derecho civil...",
+      "opciones": {
+        "a": "Va a primar siempre lo objetivo sobre lo subjetivo.",
+        "b": "Va a primar siempre lo subjetivo sobre lo objetivo.",
+        "c": "Los dos aspectos son equiparables.",
+        "d": "Es un derecho de tradición oral."
+      },
+      "explicacion": "El derecho mercantil se centra en los actos de comercio de forma objetiva para garantizar la agilidad y seguridad del tráfico jurídico-empresarial, a diferencia del derecho civil que indaga más en la voluntad y circunstancias personales (subjetivas) de las partes.\n\n**Ejemplo práctico:** Como Head of CG, si firmas un contrato mercantil con un proveedor externo de granjas de render (Render Farm), la ley priorizará el cumplimiento objetivo del servicio (entrega de los frames renderizados en el plazo acordado) sobre las intenciones o problemas internos (subjetivos) que haya tenido el proveedor con sus servidores.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Son principios propios del derecho mercantil...",
+      "opciones": {
+        "a": "El uso de documentos escritos.",
+        "b": "Que no caben los términos de gracia y cortesía.",
+        "c": "La esencialidad del término.",
+        "d": "Las respuestas b y c son correctas."
+      },
+      "explicacion": "El tráfico mercantil exige rapidez y certidumbre. Por ello, no se conceden plazos de gracia o cortesía (retrasos permitidos por costumbre) y el cumplimiento de los plazos (esencialidad del término) es estricto, ya que un retraso afecta a toda la cadena productiva.\n\n**Ejemplo práctico:** Si tu estudio de VFX se compromete a entregar 50 planos de simulación de fluidos (FX) a la productora para el 15 de noviembre, no existen \"días de cortesía\". La fecha es esencial porque de ella depende el etalonaje, la edición final y el estreno de la película; un retraso implicaría un incumplimiento grave del contrato mercantil.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "En la fase de aceptación, para que se perfeccione el contrato es necesario que ....",
+      "opciones": {
+        "a": "Se pague el precio.",
+        "b": "Haya una identidad entre lo que se acepta y la propuesta.",
+        "c": "Se compruebe el funcionamiento del objeto.",
+        "d": "Haya finalizado el periodo de garantía."
+      },
+      "explicacion": "Para que un contrato se considere cerrado (perfeccionado), la parte que acepta debe estar de acuerdo exactamente con los mismos términos que propuso la otra parte. Si introduce cambios, se considera una contraoferta, no una aceptación.\n\n**Ejemplo práctico:** Si envías una propuesta comercial para realizar el rigging de 10 personajes 3D por 10.000 euros, el contrato solo se perfecciona si el cliente acepta exactamente eso. Si el cliente responde \"Acepto, pero incluye también las texturas\", no hay identidad entre propuesta y aceptación, por lo que el contrato aún no es válido hasta que tú aceptes esa nueva condición.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "En la contratación entre ausentes, las denominadas teorías extremas están recogidas en ...",
+      "opciones": {
+        "a": "En el Código Civil.",
+        "b": "En el Código de Comercio artº 54.",
+        "c": "En la ley de Condiciones Generales de Contratación.",
+        "d": "En la ley de Protección a Consumidores y Usuarios."
+      },
+      "explicacion": "Históricamente, la legislación española mantenía diferencias entre el Código Civil y el Código de Comercio respecto a en qué momento exacto se perfeccionaba un contrato cuando las partes no estaban en el mismo lugar (ausentes). El artículo 54 del Código de Comercio recogía posturas sobre la emisión o expedición de la aceptación.\n\n**Ejemplo práctico:** Como Head of CG en Madrid, decides contratar a un Senior Compositor freelance que vive en Vancouver. Le envías el contrato por email. Las \"teorías extremas\" debatían si el contrato era válido en el momento en que el artista le daba a \"enviar\" a su respuesta aceptando, o si tenías que esperar a leer tú el correo para que tuviera validez legal.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Para que el silencio tenga efectos jurídicos deben concurrir los siguientes requisitos...",
+      "opciones": {
+        "a": "Que el que calla tenga conocimiento de los hechos.",
+        "b": "Que el que calla tenga obligación de contestar.",
+        "c": "Que el que calla tenga una relación jurídica con alguna de las partes.",
+        "d": "Las respuestas a y b son correctas."
+      },
+      "explicacion": "En derecho, el silencio por sí solo no equivale a aceptación. Para que el silencio tenga consecuencias jurídicas (silencio positivo o negativo), la persona debe conocer los hechos sobre los que guarda silencio y, además, tener una obligación legal o contractual previa de pronunciarse al respecto.\n\n**Ejemplo práctico:** Tienes un contrato de mantenimiento anual con el proveedor de licencias de Maya o Nuke. El proveedor te notifica que el próximo mes la tarifa subirá un 5% y que, si no respondes en 15 días, se asumirá tu conformidad. Como tienes conocimiento del hecho y una obligación de contestar estipulada en el contrato previo, tu silencio en este caso sí tiene efectos jurídicos y equivale a aceptar la subida.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "En los contratos mercantiles , la prueba de testigos...",
+      "opciones": {
+        "a": "Es una prueba esencial.",
+        "b": "Es una prueba que no se admite.",
+        "c": "Es una prueba muy depreciada.",
+        "d": "Es una prueba muy apreciada."
+      },
+      "explicacion": "En el derecho mercantil, la agilidad y la seguridad jurídica documental son primordiales. La prueba testifical pierde fuerza frente a la prueba documental (contratos, facturas, correos), por lo que se considera 'depreciada' o de menor valor probatorio por sí sola.\\n\n**Ejemplo práctico:** Como Head of CG, si un cliente afirma verbalmente en una reunión que aprobó un asset 3D, pero no hay un correo o un ticket en ShotGrid que lo documente, esa 'prueba de testigos' (lo que dicen los presentes) vale muy poco si luego el cliente rechaza la factura. Siempre se requiere el 'aprobado' por escrito.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "¿Que medio probatorio de los contratos mercantiles muy importante, no esta recogido en el C.de Comercio?",
+      "opciones": {
+        "a": "La factura mercantil.",
+        "b": "La videoconferencia.",
+        "c": "Las cartas de porte.",
+        "d": "El interrogatorio del contrario."
+      },
+      "explicacion": "La factura mercantil es un documento fundamental en el tráfico comercial para probar la entrega de bienes o servicios y exigir el pago. Sin embargo, no está regulada de forma sistemática como medio de prueba específico en el Código de Comercio español original, sino que su valor probatorio se ha desarrollado a través de la jurisprudencia y leyes posteriores.\\n\n**Ejemplo práctico:** Imagina que el pipeline de render de tu estudio genera un 'render log' automático que detalla las horas de granja consumidas por plano. Aunque este log es vital para cobrarle al cliente los overages (como una factura), el contrato base de servicios (tu 'Código de Comercio') no lo reconoce nativamente como un documento oficial de cobro hasta que lo formalizas y lo respaldas legalmente.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "En la interpretación de los contratos las dos reglas prohibitivas del Código de Comercio, están en el artº ...",
+      "opciones": {
+        "a": "57",
+        "b": "54",
+        "c": "59",
+        "d": "62"
+      },
+      "explicacion": "El artículo 57 del Código de Comercio español establece que los contratos de comercio se ejecutarán y cumplirán de buena fe, sin tergiversar con interpretaciones arbitrarias el sentido recto, propio y usual de las palabras dichas o escritas. Contiene reglas prohibitivas contra la interpretación arbitraria.\\n\n**Ejemplo práctico:** Si firmas un contrato con un estudio de animación que especifica la entrega de 'personajes riggeados', el Art. 57 impide que el cliente interprete arbitrariamente que eso incluía también simulaciones de tela (CFX) complejas si no se especificó. Se debe interpretar de buena fe según el uso común en la industria de los VFX.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "En el derecho mercantil, la representación directa es ...",
+      "opciones": {
+        "a": "Una excepción.",
+        "b": "La mas común.",
+        "c": "Esta prohibida.",
+        "d": "Es desconocida."
+      },
+      "explicacion": "En el tráfico mercantil, lo más habitual es que los administradores, apoderados o representantes actúen en nombre y por cuenta de la sociedad (representación directa). Así, los efectos jurídicos de los contratos recaen directamente sobre la empresa y no sobre la persona física que firma.\\n\n**Ejemplo práctico:** Cuando tú, como Head of CG, firmas una orden de compra para adquirir 50 licencias de Nuke, lo haces en representación directa de tu estudio de VFX. La factura y la responsabilidad de pago recaen sobre el estudio (la empresa), no sobre tu cuenta bancaria personal.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Las condiciones generales de los contratos vienen reguladas en ..",
+      "opciones": {
+        "a": "Código de Comercio.",
+        "b": "Código Civil.",
+        "c": "Ley 7/1998 de 13 de abril",
+        "d": "Ley de Competencia Desleal."
+      },
+      "explicacion": "Las condiciones generales de la contratación, que son aquellas cláusulas predispuestas cuya incorporación al contrato sea impuesta por una de las partes, están reguladas específicamente en España por la Ley 7/1998, de 13 de abril, sobre Condiciones Generales de la Contratación (LCGC), para proteger frente a abusos.\\n\n**Ejemplo práctico:** Al contratar un servicio de render en la nube (cloud rendering) para el estudio, aceptas un 'Terms of Service' estándar que no puedes negociar. Estas cláusulas predispuestas por la granja de render están reguladas por la Ley 7/1998 para asegurar que no incluyan condiciones abusivas contra tu estudio de VFX.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

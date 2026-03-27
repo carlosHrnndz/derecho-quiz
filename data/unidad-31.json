@@ -1,0 +1,126 @@
+{
+  "unidad": 31,
+  "titulo": "Autoevaluación: Impuesto sobre la renta de las personas físicas",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La actual norma reguladora del Impuesto sobre la renta de las personas físicas es la ...",
+      "opciones": {
+        "a": "Ley 40/1998.",
+        "b": "Ley 46/2002.",
+        "c": "Ley 35/2006.",
+        "d": "Ley 42/2010."
+      },
+      "explicacion": "La Ley 35/2006, de 28 de noviembre, es la normativa vigente que regula el Impuesto sobre la Renta de las Personas Físicas (IRPF) en España, derogando leyes anteriores para adaptar el impuesto a la realidad económica.\n\n**Ejemplo práctico:** Como Head of CG, al contratar a un nuevo Lead Lighter freelance en España, debes asegurarte de que el departamento de contabilidad aplique las retenciones de IRPF correctas en sus facturas, basándose en los tramos actualizados dictados por la Ley 35/2006, para evitar penalizaciones fiscales al estudio.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El impuesto sobre la renta de las personas físicas distingue entre...",
+      "opciones": {
+        "a": "Residentes.",
+        "b": "Extranjeros.",
+        "c": "No residentes.",
+        "d": "Las respuestas a y c son las correctas."
+      },
+      "explicacion": "La normativa fiscal española clasifica a los contribuyentes principalmente en residentes fiscales (que tributan por su renta mundial) y no residentes (que tributan solo por las rentas obtenidas en territorio español mediante el IRNR).\n\n**Ejemplo práctico:** Si como Head of CG traes a un Supervisor de FX de Canadá para trabajar presencialmente en el estudio en Madrid por 3 meses, él tributará como 'no residente' por los ingresos generados en ese proyecto específico, a diferencia de tu equipo fijo local que tributa como 'residentes'.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El Titulo IV de la ley se refiere a ...",
+      "opciones": {
+        "a": "Atribuciones de rentas.",
+        "b": "Determinación base liquidable.",
+        "c": "Determinación base imponible.",
+        "d": "La renta general."
+      },
+      "explicacion": "En la estructura de la Ley 35/2006 del IRPF, el Título IV está dedicado específicamente a la 'Determinación de la base liquidable', estableciendo las reducciones que se pueden aplicar a la base imponible (como aportaciones a planes de pensiones) para llegar a la cuota a pagar.\n\n**Ejemplo práctico:** Imagina que el estudio de VFX ofrece a los Senior Compositors un plan de pensiones cofinanciado como beneficio. Como Head of CG, puedes explicarles que estas aportaciones les beneficiarán en la 'determinación de la base liquidable' de su IRPF, reduciendo los impuestos que pagarán a final de año.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La renta del contribuyente esta compuesta por ...",
+      "opciones": {
+        "a": "Rendimientos del trabajo.",
+        "b": "Rendimientos del Capital.",
+        "c": "Imputaciones de renta que establezca la ley.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "Según la ley del IRPF, la renta del contribuyente es la suma de todos sus rendimientos (trabajo, capital inmobiliario y mobiliario, actividades económicas), ganancias y pérdidas patrimoniales, y las imputaciones de renta establecidas por ley.\n\n**Ejemplo práctico:** Un Technical Director (TD) de tu equipo no solo paga IRPF por su nómina del estudio (rendimientos del trabajo), sino que si además alquila las licencias de un plugin de Maya que él mismo desarrolló (rendimientos del capital) o recibe acciones del estudio (imputaciones), todo ello sumará a su renta total anual.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Un sujeto es considerado residente si permanece en territorio español mas de ...",
+      "opciones": {
+        "a": "Todo el Año.",
+        "b": "180 días.",
+        "c": "183 días.",
+        "d": "90 días."
+      },
+      "explicacion": "El criterio principal de permanencia para determinar la residencia fiscal en España es permanecer en territorio español durante más de 183 días durante el año natural. Si se supera este umbral, se considera residente fiscal.\n\n**Ejemplo práctico:** Si contratas a un animador 3D británico para un largometraje y su contrato le exige estar físicamente en el estudio de Barcelona durante 7 meses (unos 210 días), automáticamente pasará a ser residente fiscal en España ese año, lo que el departamento de RRHH deberá tener en cuenta para sus retenciones.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Las contribuciones satisfechas por los promotores de planes de pensiones se consideran...",
+      "opciones": {
+        "a": "Rendimientos del trabajo.",
+        "b": "Rendimientos de capital.",
+        "c": "Rendimientos mobiliarios.",
+        "d": "Están exentas."
+      },
+      "explicacion": "Las aportaciones que realiza una empresa (promotor) a un plan de pensiones a favor de sus empleados se consideran una retribución en especie y, por tanto, forman parte de los rendimientos del trabajo del empleado. **Ejemplo práctico:** Como Head of CG, si el estudio de VFX para el que trabajas aporta una cantidad mensual a tu plan de pensiones privado como parte de tu paquete de beneficios, esa cantidad se suma a tu salario base y tributa como rendimiento del trabajo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Son rentas exentas....",
+      "opciones": {
+        "a": "Las cotizaciones a la seguridad social.",
+        "b": "Las pensiones por inutilidad o incapacidad permanente del régimen de clases pasivas se consideran...",
+        "c": "Las rentas irregulares.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "La ley del IRPF establece que ciertas pensiones, como las derivadas de incapacidad permanente absoluta o gran invalidez (incluyendo las del régimen de clases pasivas), están exentas de tributación para proteger económicamente a las personas afectadas. **Ejemplo práctico:** Si un Senior Lighter sufre un accidente grave que le provoca una incapacidad permanente y le impide volver a trabajar en la industria de los efectos visuales, la pensión estatal que reciba por esta condición estará exenta de pagar IRPF.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "En el supuesto de rentas irregulares, la deducción puede llegar al ...",
+      "opciones": {
+        "a": ",5",
+        "b": "00,4",
+        "c": "0,35",
+        "d": "0,15"
+      },
+      "explicacion": "Históricamente en la normativa fiscal (y según el contexto de este examen), las rentas generadas en un periodo superior a dos años (irregulares) tenían una reducción del 40% (0,4) para evitar una tributación excesiva al acumularse en un solo ejercicio fiscal. **Ejemplo práctico:** Un VFX Supervisor recibe un gran bono de productividad tras finalizar una película que estuvo en producción durante 3 años. Al ser una renta generada en más de dos años, se le aplica esta reducción antes de calcular el impuesto, suavizando el impacto fiscal.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Los rendimientos económicos por el ejercicio de actividades deportivas , se equipara a ...",
+      "opciones": {
+        "a": "Rendimientos del trabajo.",
+        "b": "Rendimientos de actividades económicas.",
+        "c": "Rendimientos mobiliarios.",
+        "d": "Están exentas."
+      },
+      "explicacion": "Cuando una persona ejerce una actividad deportiva organizando sus propios medios de producción y recursos humanos con la finalidad de intervenir en la producción o distribución de bienes o servicios, sus ingresos se clasifican como rendimientos de actividades económicas. **Ejemplo práctico:** Un animador 3D freelance que trabaja como contratista independiente para varios estudios de animación, utilizando su propio equipo y licencias de software, declara sus ingresos como actividades económicas, de forma análoga a un deportista profesional independiente.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Los mínimos no sujetos a impuesto pueden ser...",
+      "opciones": {
+        "a": "Del contribuyente.",
+        "b": "Por descendientes.",
+        "c": "Por discapacidad.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "El sistema tributario contempla un mínimo personal y familiar que es la parte de la base liquidable que no se somete a tributación por destinarse a satisfacer las necesidades básicas personales y familiares. Este mínimo incluye al propio contribuyente, a sus descendientes, ascendientes y grados de discapacidad. **Ejemplo práctico:** Un Head of CG al hacer su declaración de la renta aplicará un mínimo exento por sí mismo, sumará otro importe si tiene hijos a su cargo (descendientes) y añadirá otro más si él o algún familiar a cargo tiene una discapacidad reconocida, reduciendo así los impuestos del salario ganado en el estudio.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

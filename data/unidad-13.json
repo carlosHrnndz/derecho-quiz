@@ -1,0 +1,126 @@
+{
+  "unidad": 13,
+  "titulo": "Autoevaluación Derecho de la Empresa II - Compraventa Mercantil",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El Código de Comercio dice que hay compraventa mercantil, cuando el que compra lo hace..",
+      "opciones": {
+        "a": "Al contado.",
+        "b": "Con intención de revender.",
+        "c": "Por su actividad empresarial.",
+        "d": "Porque tiene licencia fiscal para ello."
+      },
+      "explicacion": "Según el Código de Comercio, la característica principal que define una compraventa como mercantil (y no civil) es el propósito de lucro mediante la reventa de los bienes adquiridos, ya sea en la misma forma en que se compraron o tras ser transformados.\\n\\n\n**Ejemplo práctico:** Como Head of CG, si compras licencias de un software de renderizado para que tus artistas las usen internamente en la producción, es consumo propio. Pero si tu estudio compra un lote de assets 3D con la intención de integrarlos en un paquete de herramientas que luego revenderán a otros estudios, esa adquisición tiene carácter mercantil por la intención de reventa y lucro.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El vendedor está obligado...",
+      "opciones": {
+        "a": "A entregar el Objeto del contrato.",
+        "b": "A su saneamiento por evicción.",
+        "c": "A su saneamiento por vicios o defectos.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "En un contrato de compraventa, el vendedor tiene la obligación principal de entregar la cosa vendida, pero también debe garantizar la posesión legal y pacífica (saneamiento por evicción, es decir, que un tercero no reclame derechos previos sobre ella) y responder por los defectos ocultos que pueda tener (saneamiento por vicios). Por tanto, todas las opciones son correctas.\\n\\n\n**Ejemplo práctico:** Si contratas a un estudio externo (vendor) para que te entregue modelos 3D de criaturas, el vendor está obligado a entregarte los archivos (entrega), garantizar que no usaron mallas robadas con copyright de otro artista (saneamiento por evicción) y asegurar que la topología no esté rota o cause crashes en tu pipeline al intentar riggearlos (saneamiento por vicios ocultos).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "En la compraventa, poner a disposición del comprador...",
+      "opciones": {
+        "a": "Equivale a la entrega.",
+        "b": "Es un acto preparatorio.",
+        "c": "No equivale a la entrega.",
+        "d": "Es una opción a elegir por las partes."
+      },
+      "explicacion": "En el ámbito mercantil, se considera que el vendedor ha cumplido con su obligación de entrega en el momento en que pone la mercancía a disposición del comprador en el lugar y tiempo pactados, incluso si el comprador aún no ha tomado posesión física de la misma. Desde ese momento, los riesgos suelen transferirse.\\n\\n\n**Ejemplo práctico:** Si un proveedor de granjas de render en la nube te notifica que los servidores dedicados que alquilaste ya están configurados, encendidos y te envía las credenciales de acceso VPN, han 'puesto a disposición' el servicio. Legalmente esto equivale a la entrega, y si tu equipo de Lighting tarda tres días en conectarse para lanzar los renders, el tiempo de contrato ya está corriendo a tu cargo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "En la compraventa, el comprador, ¿cuantas obligaciones tiene?",
+      "opciones": {
+        "a": "Una.",
+        "b": "Dos.",
+        "c": "Tres.-",
+        "d": "Las que se pacten."
+      },
+      "explicacion": "Las dos obligaciones principales y fundamentales del comprador en un contrato de compraventa mercantil son: pagar el precio acordado en el tiempo y lugar fijados, y recibir (o aceptar la puesta a disposición de) la mercancía comprada.\\n\\n\n**Ejemplo práctico:** Al encargar la captura de movimiento (mocap) a un estudio especializado, como Head of CG tienes dos obligaciones principales: pagar la factura por los días de rodaje (pagar el precio) y descargar o aceptar los archivos FBX con la animación limpia que te envían al servidor FTP (recibir la cosa).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "La trasferencia del riesgo al comprador por la puesta a disposición por el vendedor del objeto de la compra se regula en el artº...... del Comercio.",
+      "opciones": {
+        "a": "330",
+        "b": "333",
+        "c": "359",
+        "d": "360"
+      },
+      "explicacion": "El artículo 333 del Código de Comercio español establece que los daños y menoscabos que sobrevinieren a las mercaderías, perfecto el contrato y teniendo el vendedor los efectos a disposición del comprador en el lugar y tiempo convenidos, serán de cuenta del comprador, excepto en los casos de dolo o negligencia del vendedor.\\n\\n\n**Ejemplo práctico:** Supongamos que compraste un servidor NAS de alto rendimiento para el almacenamiento de las cachés de simulación de Houdini. El proveedor lo trae a tu estudio y lo deja en el muelle de carga a tu disposición (art. 333). Si antes de que tu equipo de IT lo meta al rack, una tubería del edificio se rompe y lo inunda, el riesgo ya era tuyo porque el equipo ya estaba a tu disposición, y tu estudio asume la pérdida.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Si el comprador rehúsa recibir la mercancía del vendedor, ¿que establece el CC. de Comercio?.",
+      "opciones": {
+        "a": "Un sanción por incumplimiento.",
+        "b": "Resuelve el contrato.",
+        "c": "El deposito judicial.",
+        "d": "La entrega forzosa por los agentes de la ley."
+      },
+      "explicacion": "El Código de Comercio establece que si el comprador se niega sin justa causa a recibir los efectos comprados, el vendedor puede solicitar el depósito judicial de las mercancías, cumpliendo así con su obligación de entrega y pudiendo reclamar el precio.\\n\n**Ejemplo práctico:** Como Head of CG, encargas a un proveedor externo la creación de 500 assets 3D (mercancía). Cuando te los envían, te niegas a recibirlos en el servidor sin motivo justificado. El proveedor, para protegerse legalmente y exigir el pago, puede recurrir a un 'depósito judicial' (o su equivalente digital/notarial), certificando que los assets están terminados y a tu disposición, cumpliendo su parte del contrato.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La compraventa a plazo , esta regulada en ..",
+      "opciones": {
+        "a": "C.Comercio.",
+        "b": "C.Civil.",
+        "c": "La ley de venta de bienes muebles a plazos.",
+        "d": "La ley de Protección de Consumidores y Usuarios."
+      },
+      "explicacion": "La compraventa a plazos de bienes muebles tiene una regulación específica fuera del Código Civil y de Comercio, concretamente en la Ley de Venta de Bienes Muebles a Plazos, que establece garantías particulares para este tipo de operaciones financieras.\\n\n**Ejemplo práctico:** El estudio de VFX necesita renovar su granja de render y decide adquirir 50 nuevos servidores de alto rendimiento pagándolos en 24 meses. Esta transacción no se rige por las normas generales, sino por la Ley de venta de bienes muebles a plazos, la cual estipula cómo se documenta la reserva de dominio hasta que el estudio pague la última cuota de los equipos.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El contrato de suministro exige que se trate de ...",
+      "opciones": {
+        "a": "Objetos perecederos.",
+        "b": "Cosas muebles.",
+        "c": "Cosas que se puedan considerar genéricas.",
+        "d": "Las respuestas b y c son correctas."
+      },
+      "explicacion": "El contrato de suministro se caracteriza por entregas sucesivas y periódicas. Para que esto sea posible, el objeto del contrato debe recaer sobre bienes muebles (que se pueden trasladar) y genéricos (que se determinan por su peso, número o medida, no siendo únicos e insustituibles).\\n\n**Ejemplo práctico:** Para mantener la producción continua en el departamento de animación, firmas un contrato de suministro con una empresa de software para que provea licencias flotantes mensuales y paquetes de texturas genéricas (cosas muebles digitales y genéricas). No firmas un suministro para 'el diseño del personaje principal' (que sería una obra única), sino para recursos estandarizados y continuos.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El contrato que suscriben normalmente los vendedores de periódicos con los editores de estos , se denomina...",
+      "opciones": {
+        "a": "Contrato de prensa.",
+        "b": "Contrato editorial.",
+        "c": "Contrato de publicación periódica.",
+        "d": "Contrato estimatorio."
+      },
+      "explicacion": "El contrato estimatorio es aquel por el cual una de las partes entrega a la otra bienes muebles para que los venda en un plazo determinado, con la obligación de pagar el precio de los vendidos y devolver los no vendidos. Es el modelo clásico de los quioscos de prensa.\\n\n**Ejemplo práctico:** El estudio de VFX produce una serie de figuras coleccionables impresas en 3D basadas en su última película. En lugar de venderlas directamente, haces un 'contrato estimatorio' con tiendas de cómics: les entregas 100 figuras, ellos intentan venderlas durante un mes, y al final te pagan solo por las que vendieron, devolviéndote el stock sobrante (las figuras no vendidas).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "¿Cual es el objeto de compraventa mercantil en el contrato de transferencia de créditos?",
+      "opciones": {
+        "a": "El crédito.",
+        "b": "Un derecho futuro.",
+        "c": "El honor de una sociedad.",
+        "d": "Un cuenta bancaria."
+      },
+      "explicacion": "En un contrato de transferencia (o cesión) de créditos, el objeto mismo de la compraventa es el derecho de cobro (el crédito) que un acreedor tiene frente a un deudor. Se vende el derecho a exigir esa deuda.\\n\n**Ejemplo práctico:** Tu estudio de VFX terminó los efectos de un largometraje, pero la productora (el cliente) tiene un plazo de pago de 180 días por una factura de 200,000 euros. Como Head of CG necesitas liquidez inmediata para pagar las licencias de software de los artistas. Decides vender ese 'crédito' a una entidad de factoring; el objeto de esa compraventa mercantil es el crédito mismo, obteniendo el dinero ahora a cambio de una comisión.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "unidad": 10,
+  "titulo": "Autoevaluación: Derecho de la Empresa II - Propiedad Intelectual e Industrial",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El derecho de autor nace desde ...",
+      "opciones": {
+        "a": "El momento de la concepción de la obra.",
+        "b": "Desde su inscripción en el Registro.",
+        "c": "Desde que la hace pública.",
+        "d": "Desde la solicitud de inscripción."
+      },
+      "explicacion": "El derecho de autor protege las creaciones originales desde el mismo instante en que son plasmadas o concebidas en un soporte, sin necesidad de cumplir con formalidades legales como el registro, el cual tiene únicamente un valor declarativo o probatorio.\n\n**Ejemplo práctico:** Como Head of CG, si uno de tus concept artists crea un diseño original para un entorno sci-fi en su tableta gráfica, los derechos de autor sobre esa obra nacen en el momento exacto en que termina el boceto digital, sin necesidad de registrarlo previamente para que el estudio posea la titularidad de explotación.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La Obligación de uso es ...",
+      "opciones": {
+        "a": "Una practica generalizada.",
+        "b": "Una obligación que la ley impone al titular del derecho de propiedad industrial.",
+        "c": "Una opción del titular del derecho.",
+        "d": "Una necesidad económica."
+      },
+      "explicacion": "En el ámbito de la propiedad industrial (como marcas o patentes), la ley exige que el titular haga un uso real y efectivo del derecho concedido en el mercado. Si no se explota durante un tiempo determinado, el titular puede perder sus derechos por caducidad, evitando monopolios injustificados.\n\n**Ejemplo práctico:** Imagina que el estudio patenta un nuevo algoritmo de simulación de fluidos para efectos de agua. La ley impone la obligación de usarlo; si como Head of CG decides simplemente guardar la patente para bloquear a la competencia y no implementas el algoritmo en el pipeline del estudio ni lo licencias durante varios años, podríais perder los derechos sobre esa patente.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "¿Cuantas vías de extensión de la patente al extranjero existen?",
+      "opciones": {
+        "a": "4.",
+        "b": "3.",
+        "c": "2.",
+        "d": "5."
+      },
+      "explicacion": "Existen principalmente tres vías para extender la protección de una patente a nivel internacional: la vía nacional (presentando la solicitud país por país), la vía regional (como la Patente Europea, que cubre varios países de una región) y la vía internacional (a través del Tratado de Cooperación en materia de Patentes o PCT).\n\n**Ejemplo práctico:** Si tu equipo de I+D desarrolla un innovador sistema de captura de movimiento facial (mocap) y quieres protegerlo globalmente, como Head of CG debes decidir entre 3 vías: registrarlo individualmente en EE. UU. y Canadá (nacional), usar la Oficina Europea de Patentes (regional), o iniciar una solicitud PCT para buscar protección en múltiples mercados internacionales a la vez.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El Modelo de Utilidad...",
+      "opciones": {
+        "a": "Se protege igual que la patente.",
+        "b": "No se protege en ningún país.",
+        "c": "Es una modalidad de protección solo teórica.",
+        "d": "Es una modalidad de protección que existe en España y no existe en muchos otros países."
+      },
+      "explicacion": "El modelo de utilidad es una figura jurídica que protege invenciones con un rango inventivo menor que el de una patente, generalmente mejoras prácticas a objetos existentes. Es una figura legal presente en España y algunos otros países, pero no está armonizada a nivel mundial y carece de equivalente en muchas jurisdicciones importantes.\n\n**Ejemplo práctico:** Un Technical Director (TD) del estudio diseña un soporte físico modificado para los teclados que mejora la ergonomía de los animadores. En España, esto podría registrarse como un Modelo de Utilidad por ser una mejora práctica, pero si el estudio abre una sede en un país sin esta figura legal específica, no podrá protegerlo bajo esa misma modalidad exacta.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Los Diseños Industriales se ciñen...",
+      "opciones": {
+        "a": "Al funcionamiento de los objetos.",
+        "b": "Al aspecto visible de un producto.",
+        "c": "A fiabilidad de uso de un producto.",
+        "d": "A los realizados en la Escuelas o Instituciones habilitadas para ello."
+      },
+      "explicacion": "El diseño industrial protege exclusivamente la apariencia estética u ornamental de la totalidad o de una parte de un producto (sus líneas, contornos, colores, forma o textura). No protege en absoluto las características técnicas, operativas o funcionales del objeto.\n\n**Ejemplo práctico:** Si el estudio decide fabricar merchandising físico de un prop icónico de su última película de animación (por ejemplo, un casco cibernético de diseño único), el Diseño Industrial protegería la forma visual y estética del casco, pero no el mecanismo interno de bisagras que permite abrirlo, lo cual requeriría otro tipo de protección como una patente.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Si el sistema de protección de los Diseños Industriales y de los derechos de autor actúan simultáneamente manteniendo su independencia, se denomina...",
+      "opciones": {
+        "a": "Protección independiente.",
+        "b": "Protección simultanea.",
+        "c": "Protección acumulativa.",
+        "d": "Protección total."
+      },
+      "explicacion": "En derecho de la propiedad intelectual e industrial, la protección acumulativa permite que una misma obra o creación esté protegida simultáneamente por diferentes normativas (como el diseño industrial y los derechos de autor) sin que una excluya a la otra.\n\n**Ejemplo práctico:** Como Head of CG, diseñas un personaje 3D original para una película. Este personaje puede registrarse como un diseño industrial por su apariencia estética única para merchandising (juguetes), y al mismo tiempo, el modelo 3D y sus texturas están protegidos por derechos de autor como obra artística. Ambas protecciones se acumulan.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El objeto de protección jurídica de un semiconductor es ...",
+      "opciones": {
+        "a": "La conectividad.",
+        "b": "Sus circuitos.",
+        "c": "Su concepción global.",
+        "d": "La topografía."
+      },
+      "explicacion": "La ley protege específicamente la 'topografía' de los productos semiconductores, que se refiere a la disposición tridimensional de sus capas y elementos que componen el circuito integrado, no la idea o el concepto global de su funcionamiento.\n\n**Ejemplo práctico:** Imagina que el estudio de VFX desarrolla un hardware propietario (un chip acelerador de renderizado por raytracing). Lo que se protege legalmente no es la idea de acelerar el render, sino la 'topografía' exacta, es decir, el diseño tridimensional de las capas de silicio y transistores de ese chip específico que el equipo de I+D ha creado.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Para que las variedades vegetales tengan protección deben ser...",
+      "opciones": {
+        "a": "Comestibles.",
+        "b": "Plantas enteras.",
+        "c": "Partes de plantas si pueden generar plantas enteras.",
+        "d": "Las respuestas b y c son correctas."
+      },
+      "explicacion": "La normativa sobre obtenciones vegetales protege tanto a la planta entera como a aquellas partes de la misma (semillas, esquejes) que tengan la capacidad de reproducir o multiplicar la planta completa, asegurando así los derechos del obtentor sobre el material de reproducción.\n\n**Ejemplo práctico:** Aunque las plantas reales no son el foco del CG, hagamos una analogía: si creas un sistema procedural de generación de vegetación en Houdini, la 'planta entera' sería el asset final del árbol. Las 'partes que pueden generar plantas' serían los HDAs (Houdini Digital Assets) o scripts base que, al ejecutarse, generan el árbol completo. Proteger el HDA es tan vital como proteger el render final.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El secreto empresarial es...",
+      "opciones": {
+        "a": "Lo que se registra como tal.",
+        "b": "Su sistema de producción.",
+        "c": "Toda información empresarial que otorga una ventaja competitiva.",
+        "d": "Lo que se protege por la ley de secretos oficiales."
+      },
+      "explicacion": "Un secreto empresarial (o trade secret) se define legalmente como cualquier información que sea secreta, que tenga valor comercial por ser secreta (otorgando una ventaja competitiva), y que haya sido objeto de medidas razonables por parte de su titular para mantenerla en secreto.\n\n**Ejemplo práctico:** El pipeline de renderizado propietario del estudio, que reduce los tiempos de cálculo en un 30% frente a la competencia, es un secreto empresarial. Como Head of CG, te aseguras de que esta información no sea pública y firmas NDAs con los Technical Directors, ya que este conocimiento técnico otorga una ventaja competitiva directa al estudio.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La caducidad de una marca por falta de uso , se decretara...",
+      "opciones": {
+        "a": "Por los Tribunales.",
+        "b": "Por el Gobierno.",
+        "c": "Por la Comisión Nacional de Competencia.",
+        "d": "Por el Ministerio correspondiente a su actividad."
+      },
+      "explicacion": "La caducidad de una marca por falta de uso (generalmente si no se usa de forma efectiva en un plazo de 5 años) no es automática ni la decreta el gobierno de oficio, sino que debe ser solicitada por una parte interesada y declarada formalmente por los Tribunales de justicia competentes.\n\n**Ejemplo práctico:** Si un estudio rival registró la marca 'RenderXtreme' para un software de simulación de fluidos pero nunca lo desarrolló ni lo usó comercialmente en 5 años, tú como Head of CG no puedes simplemente empezar a usar el nombre. El departamento legal de tu estudio tendría que acudir a los Tribunales para solicitar la caducidad de esa marca por falta de uso antes de poder registrarla para su propio motor.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

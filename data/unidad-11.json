@@ -1,0 +1,126 @@
+{
+  "unidad": 11,
+  "titulo": "Autoevaluación Unidad 11 - Derecho de la Empresa II",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El derecho de propiedad intelectual es un derecho de propiedad de carácter especial, porque...",
+      "opciones": {
+        "a": "Se regula al margen del Código Civil.",
+        "b": "Recae sobre un bien inmaterial.",
+        "c": "Por la especificad de sus titulares.",
+        "d": "Tiene un periodo especial para disfrutarse."
+      },
+      "explicacion": "La propiedad intelectual se considera un derecho especial porque su objeto de protección no es un objeto físico, sino una creación de la mente humana (intangible o inmaterial), a diferencia de la propiedad tradicional que recae sobre cosas tangibles.\n\n**Ejemplo práctico:** Como Head of CG, si tu equipo desarrolla un nuevo shader propietario para simular piel realista, el algoritmo y código de ese shader son bienes inmateriales protegidos por propiedad intelectual, distintos de las workstations físicas donde fueron programados.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Cuando la obra es resultado de la colaboración de varios autores se denomina...",
+      "opciones": {
+        "a": "Obra conjunta.",
+        "b": "No tiene denominación especial.",
+        "c": "Coautoría.",
+        "d": "Obra compuesta."
+      },
+      "explicacion": "La coautoría surge cuando una obra es el resultado unitario de la colaboración de varios autores, de manera que los derechos sobre la obra corresponden a todos ellos en la proporción que determinen.\n\n**Ejemplo práctico:** Si un Lead Animator y un Creature FX Artist trabajan íntimamente juntos para desarrollar el comportamiento y movimiento de un monstruo, fusionando animación clave con simulaciones musculares complejas, ambos comparten la coautoría sobre el resultado final de esa criatura.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "En la propiedad intelectual, la obra colectiva se diferencia de la coautoría, porque...",
+      "opciones": {
+        "a": "No se puede determinar la participación individual de cada uno de los autores.",
+        "b": "Las aportaciones de cada uno son indistinguibles.",
+        "c": "Ninguno de los autores puede tener un derecho sobre la obra realizada.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "En una obra colectiva, las contribuciones individuales se funden en un todo único bajo la coordinación de un editor, haciendo imposible atribuir derechos separados sobre el conjunto a cada participante, por lo que las opciones a, b y c describen correctamente estas características.\n\n**Ejemplo práctico:** Un largometraje de animación 3D es una obra colectiva. Como Head of CG, sabes que aunque cientos de artistas (modeladores, lighters, compositors) hacen aportaciones individuales, estas se vuelven indistinguibles en el fotograma final, y los derechos de la película pertenecen al estudio productor, no a cada artista individualmente.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El título de una obra, quedará protegido como parte de la obra, por el derecho de propiedad intelectual...",
+      "opciones": {
+        "a": "En ningún caso.",
+        "b": "Cuando así se solicite en el Registro",
+        "c": "Cuando sea original.",
+        "d": "Cuando sea una obra artística en si mismo."
+      },
+      "explicacion": "La legislación de propiedad intelectual establece que el título de una obra goza de la misma protección que la obra en sí, siempre y cuando cumpla con el requisito fundamental de la originalidad.\n\n**Ejemplo práctico:** Si tu departamento de CG crea un cortometraje interno de prueba técnica y lo titula simplemente 'Test Render 01', no tendrá protección. Pero si lo titulan con un nombre original como 'Lúmenes del Abismo', ese título queda protegido automáticamente junto con el corto.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las facultades morales del derecho de autor son...",
+      "opciones": {
+        "a": "Personalísimas.",
+        "b": "Inexistentes.",
+        "c": "Dispositivas.",
+        "d": "Parte aneja y indisoluble del derecho patrimonial."
+      },
+      "explicacion": "Los derechos morales (como el derecho a la paternidad de la obra o a su integridad) son inherentes a la persona del autor; son irrenunciables, inalienables y personalísimos, lo que significa que no se pueden vender ni ceder.\n\n**Ejemplo práctico:** Aunque un Senior Environment Artist haya firmado un contrato cediendo todos los derechos de explotación (patrimoniales) de sus escenarios 3D al estudio de VFX, conserva su derecho moral personalísimo a ser reconocido como el creador de esos entornos en los créditos del proyecto.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "No se precisa autorización del autor, para..",
+      "opciones": {
+        "a": "Reproducir citas literales o reseñas de otra obra, indicando la fuente.",
+        "b": "Difundir mediante fotografía u otros medios, obras situadas con carácter permanente en lugares públicos.",
+        "c": "Difundir una obra mediante cualquier medio, una vez que ha sido hecha publica.",
+        "d": "Las respuestas a y b son correctas."
+      },
+      "explicacion": "La Ley de Propiedad Intelectual establece ciertos límites a los derechos de autor, permitiendo usos sin autorización previa. Entre ellos se encuentran el derecho de cita (reproducir fragmentos indicando la fuente) y la libertad de panorama (difundir obras situadas permanentemente en la vía pública). Por tanto, tanto la opción 'a' como la 'b' son correctas.\n\n**Ejemplo práctico:** Como Head of CG, si tu equipo está creando un entorno digital de Nueva York, pueden incluir modelos 3D de esculturas públicas permanentes que se ven en las calles (libertad de panorama) sin pedir permiso al escultor, y también pueden incluir un cartel en la escena que cite una frase célebre de un libro indicando su autor (derecho de cita).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cual es la duración de los derechos de explotación de una obra divulgada, después de fallecer su autor...",
+      "opciones": {
+        "a": "Perpetuo.",
+        "b": "70 años.",
+        "c": "50 años.",
+        "d": "Ninguna.Finalizan cuando fallece."
+      },
+      "explicacion": "Según la legislación general de propiedad intelectual (como en España y gran parte de Europa), los derechos de explotación de una obra duran toda la vida del autor y 70 años después de su muerte o declaración de fallecimiento. Tras este periodo, la obra pasa al dominio público.\n\n**Ejemplo práctico:** Si el estudio de VFX quiere adaptar un cómic clásico a una película de animación CG, el Head of CG debe saber que si el creador original falleció hace 70 años, la obra ha pasado al dominio público y el estudio puede explotar comercialmente los diseños de los personajes sin pagar derechos de autor a los herederos.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Cuando finaliza el plazo de protección de una obra ..",
+      "opciones": {
+        "a": "Se puede hacer lo que se quiera con ella.",
+        "b": "Desaparece cualquier derecho o autoría, sobre ella.",
+        "c": "No se puede deformar o desnaturalizar.",
+        "d": "Los herederos conservan una facultad de reproducción limitada."
+      },
+      "explicacion": "Aunque los derechos de explotación (patrimoniales) caduquen y la obra pase al dominio público, los derechos morales, como la exigencia de reconocimiento de autoría y el respeto a la integridad de la obra (no deformarla o desnaturalizarla), son perpetuos y pueden ser defendidos por los herederos o instituciones pertinentes.\n\n**Ejemplo práctico:** El equipo de CG está utilizando una pintura clásica en dominio público como textura para un asset principal. Como Head of CG, debes asegurar que la pintura no se altere de una forma que ofenda gravemente su propósito original o manche la reputación del artista histórico, ya que el derecho moral a la integridad de la obra (no deformarla) persiste indefinidamente.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "En caso de infracción del derecho de la propiedad intelectual, el daño moral será indemnizado...",
+      "opciones": {
+        "a": "Cuando se pruebe la existencia de perjuicio económico.",
+        "b": "Aun no probada la existencia de perjuicio económico.",
+        "c": "En ningún caso.",
+        "d": "Solo en el caso de obras musicales."
+      },
+      "explicacion": "En la propiedad intelectual, la infracción de los derechos morales (como el plagio o la falta de reconocimiento) genera un daño moral que es indemnizable por sí mismo, independientemente de si el autor ha sufrido o no una pérdida económica demostrable (perjuicio económico).\n\n**Ejemplo práctico:** Un artista junior de otro estudio roba un rig de personaje complejo creado por tu equipo y lo publica en su portfolio como propio. Como Head of CG, puedes reclamar una indemnización por el daño moral (falta de reconocimiento de autoría) a favor de tu estudio, incluso si ese robo no les ha hecho perder ningún contrato o dinero directamente demostrable.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La inscripción en el Registro de Propiedad Intelectual...",
+      "opciones": {
+        "a": "No es constitutiva del derecho de propiedad intelectual.",
+        "b": "Es requisito indispensable de protección.",
+        "c": "Es obligatorio a partir de un año, de que se hagan publicas.",
+        "d": "Es obligatorio para las obras literarias."
+      },
+      "explicacion": "La inscripción en el Registro de la Propiedad Intelectual es voluntaria y tiene un carácter meramente declarativo, no constitutivo. Esto significa que el derecho de autor nace en el mismo momento de la creación de la obra, sin necesidad de registrarla para que esté protegida por la ley.\n\n**Ejemplo práctico:** En el momento en que tu equipo de LookDev termina de crear un shader procedural único para la piel de un monstruo, ese código y diseño ya están protegidos por derechos de autor. Como Head of CG, sabes que no es obligatorio ir a registrar ese shader a una oficina gubernamental para que el estudio tenga los derechos legales sobre él; el registro no es constitutivo del derecho.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

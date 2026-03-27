@@ -1,0 +1,126 @@
+{
+  "unidad": 32,
+  "titulo": "Autoevaluación sobre el Impuesto sobre el Valor Añadido (IVA)",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El impuesto sobre el valor añadido es ...",
+      "opciones": {
+        "a": "Directo.",
+        "b": "Personal.",
+        "c": "Subjetivo.",
+        "d": "Indirecto."
+      },
+      "explicacion": "El IVA es un impuesto indirecto porque no recae directamente sobre los ingresos o el patrimonio del contribuyente, sino que grava el consumo de bienes y servicios. Se recauda a través de intermediarios (empresas) que lo repercuten al consumidor final.\n\n**Ejemplo práctico:** Como Head of CG, cuando el estudio compra licencias de software de renderizado (como Arnold o V-Ray), paga un IVA. Sin embargo, el estudio no es el consumidor final; este IVA soportado se compensará con el IVA repercutido al cliente final (la productora de la película) cuando se facture por los planos de VFX terminados.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La venta de una empresa en su totalidad, si el adquirente va a continuar con ella...",
+      "opciones": {
+        "a": "No esta sujeta a IVA.",
+        "b": "Si resta sujeto a IVA.",
+        "c": "Esta sujeta a IVA por los inmuebles.",
+        "d": "Depende de la plantilla."
+      },
+      "explicacion": "Según la normativa del IVA, la transmisión de la totalidad del patrimonio empresarial no está sujeta al impuesto si el adquirente continúa con el ejercicio de la misma actividad económica. Esto se hace para facilitar la transmisión de empresas y no gravar excesivamente la reestructuración empresarial.\n\n**Ejemplo práctico:** Si un gran estudio de Hollywood adquiere en su totalidad tu estudio de animación CG para integrarlo como su nueva sede europea y continúan produciendo los mismos proyectos de animación, esta transacción de compraventa del estudio completo no llevaría IVA.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Están exentas de IVA...",
+      "opciones": {
+        "a": "Las actividades sanitarias.",
+        "b": "Las actividades de enseñanza.",
+        "c": "Todo tipo de loterías.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "explicacion": "La ley del IVA establece ciertas exenciones limitadas por motivos sociales, culturales o de política pública. Entre ellas se encuentran la asistencia sanitaria pública, la educación y enseñanza, y los juegos de azar y loterías del Estado. Por lo tanto, todas las opciones mencionadas están exentas.\n\n**Ejemplo práctico:** Si el estudio de VFX decide organizar un curso de formación interna homologado y reglado sobre Houdini FX para jóvenes desempleados, esta actividad de enseñanza específica podría estar exenta de IVA, a diferencia de la facturación habitual por la creación de assets 3D que sí lleva IVA.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El tipo genral del IVA es del...",
+      "opciones": {
+        "a": "0,16",
+        "b": "0,21",
+        "c": "0,18",
+        "d": "0,14"
+      },
+      "explicacion": "En España, el tipo general del Impuesto sobre el Valor Añadido es del 21% (expresado como 0,21 en tanto por uno). Este porcentaje se aplica por defecto a la mayoría de bienes y servicios que no tienen asignado un tipo reducido (10%) o superreducido (4%).\n\n**Ejemplo práctico:** Al aprobar el presupuesto para la granja de render en la nube (cloud rendering), como Head of CG debes tener en cuenta que a la tarifa base del proveedor de servicios informáticos se le añadirá un 21% de IVA en la factura, lo cual afecta el flujo de caja del proyecto aunque luego sea deducible.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuantos Regimenes Especiales de IVA hay...",
+      "opciones": {
+        "a": "Ninguno.",
+        "b": "Cuatro.",
+        "c": "Ocho.",
+        "d": "Tres."
+      },
+      "explicacion": "La normativa del IVA contempla varios regímenes especiales para simplificar o adaptar la tributación a ciertos sectores. Históricamente y dependiendo de la legislación específica aplicable, se contabilizan alrededor de ocho regímenes especiales (como el simplificado, agricultura, bienes usados, agencias de viajes, recargo de equivalencia, oro de inversión, servicios prestados por vía electrónica, y grupo de entidades).\n\n**Ejemplo práctico:** Aunque el estudio de VFX opera bajo el régimen general de IVA, si como Head of CG decides comprar workstations de segunda mano a un proveedor especializado para los artistas junior, esa compra podría estar sujeta al Régimen Especial de Bienes Usados (REBU), afectando cómo el departamento financiero deduce ese impuesto.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "El régimen especial de bienes usados , objetos de arte y antigüedades es de carácter...",
+      "opciones": {
+        "a": "Obligatorio.",
+        "b": "Facultativo.",
+        "c": "No existe.",
+        "d": "Depende del objeto."
+      },
+      "explicacion": "El Régimen Especial de Bienes Usados (REBU) en el IVA es de aplicación voluntaria. Los sujetos pasivos revendedores que cumplan los requisitos pueden optar por aplicarlo o, por el contrario, tributar bajo el régimen general del impuesto.\n\n**Ejemplo práctico:** Como Head of CG, decides comprar workstations de segunda mano para un pico de producción. El proveedor de hardware puede elegir (es facultativo) si te factura bajo el régimen general de IVA o el régimen especial de bienes usados, lo cual afectará cómo el estudio deduce ese IVA en sus cuentas.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "En el Régimen Especial de Agencias de Viajes, la actividad de mediación esta sujeta a ..",
+      "opciones": {
+        "a": "régimen Especial.",
+        "b": "régimen General",
+        "c": "No existe.",
+        "d": "Es facultativa la elección."
+      },
+      "explicacion": "En el ámbito del IVA, cuando una agencia de viajes actúa puramente como mediadora (vendiendo servicios en nombre y por cuenta de terceros), esa comisión de mediación tributa por el régimen general del IVA, no por el Régimen Especial de Agencias de Viajes (REAV).\n\n**Ejemplo práctico:** Imagina que tu estudio de VFX actúa como intermediario para contratar a un artista freelance especializado en simulaciones de fluidos de Houdini para otra productora. La comisión que cobras por esa mediación tributaría bajo el régimen general, al igual que una agencia de viajes cuando solo hace de mediadora.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El Impuesto de Actividades económicas esta regulado en...",
+      "opciones": {
+        "a": "Ley General Tributaria.",
+        "b": "Ley de actividades económicas.",
+        "c": "Ley Reguladora de las Haciendas Locales.",
+        "d": "Ley General Presupuestaria."
+      },
+      "explicacion": "El Impuesto sobre Actividades Económicas (IAE) es un tributo directo de carácter local. Por lo tanto, su normativa principal y regulación se encuentra en el Texto Refundido de la Ley Reguladora de las Haciendas Locales (TRLRHL).\n\n**Ejemplo práctico:** Al abrir una nueva sede del estudio de animación en otra ciudad para aprovechar incentivos fiscales, el Head of CG debe coordinar con finanzas el alta en el IAE. Este impuesto se paga al ayuntamiento local, ya que está regulado por la Ley de Haciendas Locales, variando las tarifas según el municipio donde se instalen los servidores de render.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "En el Impuesto de Actividades económicas el periodo impositivo coincide con..",
+      "opciones": {
+        "a": "El ejercicio económico.",
+        "b": "El año natural.",
+        "c": "Puede optarse.",
+        "d": "Trimestre natural."
+      },
+      "explicacion": "La normativa del Impuesto sobre Actividades Económicas establece que el periodo impositivo coincide siempre con el año natural (del 1 de enero al 31 de diciembre), independientemente de cuál sea el ejercicio económico o contable de la empresa.\n\n**Ejemplo práctico:** Aunque el año fiscal de tu estudio de VFX termine en marzo por ser filial de una major de Hollywood, el devengo y periodo impositivo del IAE de vuestras instalaciones de postproducción en España siempre coincidirá con el año natural, cerrándose el 31 de diciembre.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El impuesto de transmisiones y actos jurídicos documentados grava...",
+      "opciones": {
+        "a": "Dos hechos imponibles.",
+        "b": "Un Hecho imponible.",
+        "c": "Tres hechos imponibles.",
+        "d": "Cuatro hechos imponibles."
+      },
+      "explicacion": "El ITPAJD (Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados) es un tributo que engloba tres hechos imponibles distintos e incompatibles entre sí: Transmisiones Patrimoniales Onerosas (TPO), Operaciones Societarias (OS) y Actos Jurídicos Documentados (AJD).\n\n**Ejemplo práctico:** Si el estudio de VFX decide ampliar su capital para un nuevo proyecto (Operación Societaria), comprar un local de segunda mano para el equipo de compo (Transmisión Patrimonial Onerosa) y formalizar un préstamo hipotecario ante notario para renovar licencias (Acto Jurídico Documentado), el Head of CG debe saber que se están tocando los tres hechos imponibles que grava este mismo impuesto.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}
